@@ -518,7 +518,7 @@ Mudou numa linha antiga: o **518** (RenatTOP/peak-of-eternal-light) tem agora si
 
 ## Novos de 15/11/2026, às 10h
 
-Achados em 15/11/2026 entre 10:14 e 10:20 de Brasília, com `gh search repos` (dez buscas pelos nomes do desafio, ordenadas por atualização), `gh search code` (cinco buscas) e os links de projeto da API do Space Apps (lida às 10:13). Os sites estão na [vigésima terceira inspeção](sites-concorrentes.md#vigésima-terceira-inspeção-15112026-às-10h). O `gh search code` trouxe também dezenas de repositórios que só citam a Lua ou o Space Apps de outros anos (Stanford-NavLab/LuPNT, Official-MoonDao, PHCpack, um tema de Hyprland e outros), que ficaram de fora como nas rodadas anteriores. O Luizfbm/lunar-site-navigator-clean (criado às 12:29 UTC, "Clean snapshot ... without prior repository history") é nosso e não entra.
+Achados em 15/11/2026 entre 10:14 e 10:20 de Brasília, com `gh search repos` (dez buscas pelos nomes do desafio, ordenadas por atualização), `gh search code` (cinco buscas) e os links de projeto da API do Space Apps (lida às 10:13). Os sites estão na [vigésima terceira inspeção](sites-concorrentes.md#vigésima-terceira-inspeção-15112026-às-10h). O `gh search code` trouxe também dezenas de repositórios que só citam a Lua ou o Space Apps de outros anos (Stanford-NavLab/LuPNT, Official-MoonDao, PHCpack, um tema de Hyprland e outros), que ficaram de fora como nas rodadas anteriores. Um repositório nosso que apareceu na busca não entra.
 
 | # | Repositório | Demo | Linguagem | Commits | Criado | Resumo |
 |---|---|---|---|---|---|---|

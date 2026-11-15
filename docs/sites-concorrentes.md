@@ -366,7 +366,7 @@ De 13:58 a 15:33 de Brasília (dois blocos), no navegador embutido, a 1.024 px e
 
 - **O que eles têm e nós não:** a tabela "nós contra a NASA" por sítio na própria página; rota do rover e o custo por dia útil; o atraso traduzido em dinheiro.
 - **O que nós temos e eles não:** 2025 e 2026 (o IM-2 e o nosso ponto B); contagem com Occluder; horizonte plano; dispersão; escada; aula; PT; os 130 sítios do Wueller.
-- **O que vale trazer:** nada que caiba no enunciado sem decisão de produto; a tabela por sítio já foi sugerida às 10h (lição 126).
+- **O que vale trazer:** nada que caiba no enunciado sem decisão de produto; a tabela por sítio já foi sugerida às 10h, na ficha do Long Shadows.
 
 ### Mare Hackematis (time /HackeMate, Barcelona, Espanha; enviado às 15:21 UTC; sem repositório achado), ficha completa, novo, nível 2
 
