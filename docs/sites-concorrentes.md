@@ -1,252 +1,34 @@
 # Os sites no ar dos outros times
 
-Primeira inspeção em [data anterior a 14/11/2026], à noite (horário de Brasília). Segunda em [data anterior a 14/11/2026], à noite: os sites novos por inteiro e, nos antigos, só se estão no ar e se a tela inicial mudou. Terceira em 14/11/2026, de manhã (entre 06:00 e 07:30 de Brasília), no primeiro dia do evento: os sites dos projetos já enviados e dos repositórios novos, e nos antigos só se respondem. Quarta em 14/11/2026, às 10h (10:10 a 10:40 de Brasília): o Sunchaser de novo, quatro sites novos por inteiro e o título dos outros 36. Quinta em 14/11/2026, às 11h (10:45 a 11:20 de Brasília): os 36 que ficaram na fila e os novos da hora, 40 por inteiro. Sexta em 14/11/2026, ao meio-dia (11:10 a 11:20 de Brasília): o Moonat (353) e o 298, que voltou. Sétima em 14/11/2026, às 12h (12:12 a 12:30 de Brasília): o SelenoGrid (356) e o 357 por inteiro, o Sunchaser e um teste de resposta nos outros 110 endereços. Oitava em 14/11/2026, às 15h30 (15:36 a 15:45 de Brasília): os dez sites dos repositórios 363 a 372 e o Sunchaser. Nona em 14/11/2026, a partir das 16h: a revisão completa pedida pelo Luiz, com a ficha de dez campos em cada site já visto (subseção "Revisão de 14/11, 16h" dentro da seção de cada um) e a consulta de referência nos de nível 1 e 2. Nona em 14/11/2026, às 16h (16:03 a 16:20 de Brasília): a primeira com a ficha de dez campos, por inteiro no Sunchaser, no Sightline (392) e no Dawnline (393), com a consulta de referência; os outros sites novos entraram na fila. Décima em 14/11/2026, às 17h (17:13 a 18:10): a fila das 16h40 e os sites novos da hora, com a ficha de dez campos. Décima primeira em 14/11/2026, às 22h (22:13 a 22:47): os sites dos 18 projetos enviados depois de 20:14 UTC e dos repositórios 435 a 467, com a ficha de dez campos, mais o Sunchaser, o Sightline e o Lunar Window de novo. Décima segunda em 14/11/2026, às 23h (23:12 a 23:48): os sites dos repositórios 468 em diante, os dois projetos enviados depois de 00:18 UTC e 36 links de projeto da API do Space Apps que nenhuma rodada tinha aberto, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima terceira em 15/11/2026, à meia-noite (00:12 a 00:27): os cinco projetos enviados depois de 01:43 UTC, os links de times que nenhuma rodada tinha aberto e o site do repositório 484, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima quarta em 15/11/2026, à 1h (01:15 a 01:36): os projetos enviados depois de 03:04 UTC e os sites dos repositórios 488 em diante, quase todos achados pela primeira vez com `gh search code`, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima quinta em 15/11/2026, às 2h (02:17 a 02:38): os oito projetos enviados depois de 04:09 UTC, os links de projeto da API do Space Apps que nenhuma rodada tinha aberto (lidos agora nos 1.732 times, não só nos enviados) e os sites dos repositórios 525 em diante, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima sexta em 15/11/2026, às 3h (03:14 a 03:28): os nove projetos enviados depois de 05:11 UTC, cinco links de times que não enviaram e os sites dos repositórios 542 em diante, com a ficha de dez campos. Décima sétima em 15/11/2026, às 4h (04:12 a 04:35): os treze projetos enviados depois de 06:08 UTC, cinco links de times que não enviaram, os sites dos repositórios 555 em diante e dois sites que voltaram ou subiram (LunaMap e moonseal), com a ficha de dez campos. Décima oitava em 15/11/2026, às 5h (05:14 a 05:47): os doze projetos enviados depois de 07:12 UTC, os links novos de times que não enviaram e os sites dos repositórios 574 em diante, com a ficha de dez campos, mais o Lunar Window (364), o GIT_HAPPENS (453) e o Ribbon (447), que mudaram. Décima nona em 15/11/2026, às 6h (06:14 a 06:42): os dezesseis projetos enviados depois de 08:12 UTC, os links novos de times que não enviaram, os sites dos repositórios 593 em diante, a primeira ficha completa do Darksight (187) e do 171 e a ficha refeita do 2, que foi redesenhado, com a ficha de dez campos. Vigésima em 15/11/2026, às 7h (07:15 a 07:31): os 22 projetos enviados depois de 09:12 UTC, os nove links novos de times que não enviaram, os sites dos repositórios 602 em diante e o Darksight (187), que passou a usar relevo ao norte de 85°S, com a ficha de dez campos. Vigésima primeira em 15/11/2026, às 8h (08:15 a 08:50): os 15 projetos enviados depois de 10:12 UTC, os 23 links que mudaram nos times que não enviaram e os sites dos repositórios 618 em diante, com a ficha de dez campos em 22 sites. Vigésima segunda em 15/11/2026, às 9h (09:16 a 10:32): os 26 projetos enviados depois de 11:07 UTC, os 11 links que mudaram nos times que não enviaram e os sites dos repositórios 642 em diante, com a ficha de dez campos em 23 sites (seis por extenso). Vigésima terceira em 15/11/2026, às 10h (10:20 a 11:00): os 66 projetos enviados entre 12:16 e 13:47 UTC, os links que mudaram nos times que não enviaram e os sites dos repositórios 668 em diante, com a ficha de dez campos em 42 sites (dezessete por extenso), oito deles num quarto bloco das 11:05 às 11:55. Vigésima quarta em 15/11/2026, às 14h (13:58 a 15:33): o Sunchaser e nove sites dos 253 projetos enviados entre 13:47 e 16:59 UTC, com a ficha de dez campos; o resto ficou na fila. Abri cada demo no navegador embutido, como um visitante: página inicial, abas, telas secundárias (método, validação, comparação) e os controles principais. Olhei em largura de desktop e, nos mais fortes (2, 32, 30 e 33), também em 390 px. Só leitura: sem login, sem formulário, sem download. Uma visita por site.
+Primeira inspeção em [data anterior a 14/11/2026], à noite (horário de Brasília). Segunda em [data anterior a 14/11/2026], à noite: os sites novos por inteiro e, nos antigos, só se estão no ar e se a tela inicial mudou. Terceira em 14/11/2026, de manhã (entre 06:00 e 07:30 de Brasília), no primeiro dia do evento: os sites dos projetos já enviados e dos repositórios novos, e nos antigos só se respondem. Quarta em 14/11/2026, às 10h (10:10 a 10:40 de Brasília): o Sunchaser de novo, quatro sites novos por inteiro e o título dos outros 36. Quinta em 14/11/2026, às 11h (10:45 a 11:20 de Brasília): os 36 que ficaram na fila e os novos da hora, 40 por inteiro. Sexta em 14/11/2026, ao meio-dia (11:10 a 11:20 de Brasília): o Moonat (353) e o 298, que voltou. Sétima em 14/11/2026, às 12h (12:12 a 12:30 de Brasília): o SelenoGrid (356) e o 357 por inteiro, o Sunchaser e um teste de resposta nos outros 110 endereços. Oitava em 14/11/2026, às 15h30 (15:36 a 15:45 de Brasília): os dez sites dos repositórios 363 a 372 e o Sunchaser. Nona em 14/11/2026, a partir das 16h: a revisão completa pedida pelo Luiz, com a ficha de dez campos em cada site já visto (subseção "Revisão de 14/11, 16h" dentro da seção de cada um) e a consulta de referência nos de nível 1 e 2. Nona em 14/11/2026, às 16h (16:03 a 16:20 de Brasília): a primeira com a ficha de dez campos, por inteiro no Sunchaser, no Sightline (392) e no Dawnline (393), com a consulta de referência; os outros sites novos entraram na fila. Décima em 14/11/2026, às 17h (17:13 a 18:10): a fila das 16h40 e os sites novos da hora, com a ficha de dez campos. Décima primeira em 14/11/2026, às 22h (22:13 a 22:47): os sites dos 18 projetos enviados depois de 20:14 UTC e dos repositórios 435 a 467, com a ficha de dez campos, mais o Sunchaser, o Sightline e o Lunar Window de novo. Décima segunda em 14/11/2026, às 23h (23:12 a 23:48): os sites dos repositórios 468 em diante, os dois projetos enviados depois de 00:18 UTC e 36 links de projeto da API do Space Apps que nenhuma rodada tinha aberto, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima terceira em 15/11/2026, à meia-noite (00:12 a 00:27): os cinco projetos enviados depois de 01:43 UTC, os links de times que nenhuma rodada tinha aberto e o site do repositório 484, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima quarta em 15/11/2026, à 1h (01:15 a 01:36): os projetos enviados depois de 03:04 UTC e os sites dos repositórios 488 em diante, quase todos achados pela primeira vez com `gh search code`, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima quinta em 15/11/2026, às 2h (02:17 a 02:38): os oito projetos enviados depois de 04:09 UTC, os links de projeto da API do Space Apps que nenhuma rodada tinha aberto (lidos agora nos 1.732 times, não só nos enviados) e os sites dos repositórios 525 em diante, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima sexta em 15/11/2026, às 3h (03:14 a 03:28): os nove projetos enviados depois de 05:11 UTC, cinco links de times que não enviaram e os sites dos repositórios 542 em diante, com a ficha de dez campos. Décima sétima em 15/11/2026, às 4h (04:12 a 04:35): os treze projetos enviados depois de 06:08 UTC, cinco links de times que não enviaram, os sites dos repositórios 555 em diante e dois sites que voltaram ou subiram (LunaMap e moonseal), com a ficha de dez campos. Décima oitava em 15/11/2026, às 5h (05:14 a 05:47): os doze projetos enviados depois de 07:12 UTC, os links novos de times que não enviaram e os sites dos repositórios 574 em diante, com a ficha de dez campos, mais o Lunar Window (364), o GIT_HAPPENS (453) e o Ribbon (447), que mudaram. Décima nona em 15/11/2026, às 6h (06:14 a 06:42): os dezesseis projetos enviados depois de 08:12 UTC, os links novos de times que não enviaram, os sites dos repositórios 593 em diante, a primeira ficha completa do Darksight (187) e do 171 e a ficha refeita do 2, que foi redesenhado, com a ficha de dez campos. Vigésima em 15/11/2026, às 7h (07:15 a 07:31): os 22 projetos enviados depois de 09:12 UTC, os nove links novos de times que não enviaram, os sites dos repositórios 602 em diante e o Darksight (187), que passou a usar relevo ao norte de 85°S, com a ficha de dez campos. Vigésima primeira em 15/11/2026, às 8h (08:15 a 08:50): os 15 projetos enviados depois de 10:12 UTC, os 23 links que mudaram nos times que não enviaram e os sites dos repositórios 618 em diante, com a ficha de dez campos em 22 sites. Vigésima segunda em 15/11/2026, às 9h (09:16 a 10:32): os 26 projetos enviados depois de 11:07 UTC, os 11 links que mudaram nos times que não enviaram e os sites dos repositórios 642 em diante, com a ficha de dez campos em 23 sites (seis por extenso). Vigésima terceira em 15/11/2026, às 10h (10:20 a 11:00): os 66 projetos enviados entre 12:16 e 13:47 UTC, os links que mudaram nos times que não enviaram e os sites dos repositórios 668 em diante, com a ficha de dez campos em 42 sites (dezessete por extenso), oito deles num quarto bloco das 11:05 às 11:55. Vigésima quarta em 15/11/2026, às 14h (13:58 a 16:50): o Sunchaser, nove sites à mão e, num terceiro bloco com uma sonda fixa, os 128 que restavam na fila, mais 68 reabertos; antes, às 14h, o Sunchaser e nove sites dos 253 projetos enviados entre 13:47 e 16:59 UTC, com a ficha de dez campos; o resto ficou na fila. Abri cada demo no navegador embutido, como um visitante: página inicial, abas, telas secundárias (método, validação, comparação) e os controles principais. Olhei em largura de desktop e, nos mais fortes (2, 32, 30 e 33), também em 390 px. Só leitura: sem login, sem formulário, sem download. Uma visita por site.
 
 Os números de repositório são os de [repos-concorrentes.md](repos-concorrentes.md). Tudo o que está aqui é o que o site mostra ou declara, não o que eu conferi. A comparação com o nosso app está em [concorrencia.md](concorrencia.md#comparação-com-o-nosso-app).
 
 ## Fila de inspeção
 
-Sites e repositórios com demo que achei e ainda não abri por inteiro. Um item só sai daqui depois da inspeção completa. **Atualizada em 15/11/2026 às 15:35 de Brasília.**
+Sites e repositórios com demo que achei e ainda não abri por inteiro. Um item só sai daqui depois da inspeção completa. **Atualizada em 15/11/2026 às 16:55 de Brasília: vazia, a não ser pelos itens com motivo externo abaixo.**
 
-**Entraram às 13:59 de 15/11**, pela API do Space Apps (lida às 13:59, 253 projetos enviados entre 13:47 e 16:59 UTC) e por `gh search repos`. Saíram com a ficha completa às 14h: Peak of Eternal Light, Outliers, o "Sunchaser" do time zenon, Mare Hackematis, ALPHA LUNAR, o do time Larping Masters e, no segundo bloco, AetherRidge, Moon Slip e o do time LunarExplorers ([vigésima quarta inspeção](#vigésima-quarta-inspeção-15112026-às-14h)). **Ficaram 97 sites, 58 repositórios enviados sem site achado e 68 links que já tinham ficha e precisam da tela inicial reaberta.** Motivo: a hora de maior envio do evento (253 projetos em pouco mais de três horas) não coube na rodada; não é motivo externo, e a próxima rodada começa por aqui, do mais antigo para o mais novo.
+Os 97 sites novos, os 25 sites achados nos repositórios novos e os 6 achados no campo homepage dos repositórios antigos saíram com a ficha de dez campos no terceiro bloco da [vigésima quarta inspeção](#vigésima-quarta-inspeção-15112026-às-14h); os 58 repositórios enviados tiveram o README lido e a linha atualizada em [repos-concorrentes.md](repos-concorrentes.md#novos-de-15112026-às-14h); os 68 links que já tinham ficha foram reabertos (lista no fim do terceiro bloco).
 
-Sites novos (entraram às 13:59; time, local, hora do envio em UTC, link):
+Ficam com motivo externo:
 
-- Starship Troopers (Sangolqui, Ecuador; 13:50 UTC): https://cesarleon911.github.io/NASA-SPACE-APP-2026/
-- ASTRA CARTO (Jeddah, Saudi Arabia; 13:50 UTC): https://astra-carto.vercel.app/
-- ASTRA 2.0 (Harohalli, India; 13:51 UTC): https://lunar-apex.vercel.app
-- Orbit-Forge (6 of October, Egypt; 13:51 UTC): https://phelopatererian-boop.github.io/Lunar-landing-/
-- Cosmic Variance (Ankara, Turkey; 13:59 UTC): https://lunasight.netlify.app
-- Falak-6 (Jeddah, Saudi Arabia; 14:02 UTC): https://lunanav-ten.vercel.app/
-- EC PEOPLE (Kanjirappally, India; 14:03 UTC): https://guia-lunar-nasa.vercel.app
-- OreCode (Doha, Qatar; 14:03 UTC): http://www.nasa-allis.courses/
-- AEGis-F (Ankara, Turkey; 14:04 UTC): https://demonszy07.github.io/lunarplanb/
-- Vodka (Port Louis, Mauritius; 14:05 UTC): https://vodka-winning-team.github.io/NASA-Space-Apps-Challenge/, HTTP 404
-- Loop Ladies (6 of October, Egypt; 14:07 UTC): https://aliaayounes22-crypto.github.io/Lunapath-Nasa-App-Challenge/
-- claude.md (Ankara, Turkey; 14:11 UTC): https://nasa-spaceapps-team-claudemd.netlify.app
-- Moonkeeper (Seoul, South Korea; 14:14 UTC): https://nkm1020.github.io/moonkeeper/
-- Moonpossible (Haifa, Israel; 14:30 UTC): https://www.moonpossible.earth
-- Space Besties (Ras Al Khaimah, United Arab Emirates; 14:32 UTC): https://regolithforge.netlify.app/?px=8&py=876
-- G.A.M.A G.P.T (Cottbus, Germany; 14:35 UTC): https://gamagpt.github.io/Lunar-Landing/
-- Newbie (Universal Event, Anywhere in the World; 14:39 UTC): https://moonshift-nasa-2026.vercel.app
-- MAST (Barcelona, Spain; 14:49 UTC): https://www.dropbox.com/scl/fi/1sw812dqni138qr3kkt62/MAST_final.zip?rlkey=b1yhphs9ygsw60xewvjwnrxil&st=gylq2ikl&dl=0
-- Space conquerors (Tumakuru, India; 14:52 UTC): https://stirring-panda-1f39dd.netlify.app/
-- Ginkgo Orbit (Seoul, South Korea; 14:55 UTC): https://kiisophii.github.io/lunar-landing-site-navigator/
-- The Winners 2026 azare (Azare, Nigeria; 14:57 UTC): https://jarferh-tech.github.io/MoonWindow/
-- PATOS (Milano, Italy; 15:01 UTC): https://lucanaranza.github.io/Lunar_Webapp/
-- Nasa-bbajim (Universal Event, Anywhere in the World; 15:01 UTC): https://lunar-navigator-sigma.vercel.app
-- Rocket Surgeons (Delhi, India; 15:21 UTC): https://lunarsitelandingproject.netlify.app/
-- Letmein (Sakarya, Turkey; 15:21 UTC): https://lunar-devo.github.io/
-- OFOQ | أُفُق (Jeddah, Saudi Arabia; 15:24 UTC): https://ofoq-lunar-navigator-qpjqggmfeucweboc6c4xen.streamlit.app, HTTP 303
-- Lunar Selenix (Kharagpur, India; 15:26 UTC): https://lunar-selenix.vercel.app/
-- MoonSeekers (Coimbatore, India; 15:26 UTC): https://l1nk.dev/z9f2tc5
-- Earthset (Faisalabad, Pakistan; 15:27 UTC): https://earthset.spaceapps-earthset.workers.dev/site
-- Da Cool Kids (Coimbatore, India; 15:28 UTC): https://lunar-landing-site-navigator-pi.vercel.app/
-- Moon Flyers (Sofia, Bulgaria; 15:36 UTC): https://moon-flyers.tail644248.ts.net/
-- DeployOnFriday (Santa Cruz de la Sierra, Bolivia; 15:41 UTC): http://cornflowerblue-meerkat-181187.hostingersite.com/?l=en
-- GitCantCommit (Manila, Philippines; 15:44 UTC): https://gitcantcommitnasa-web-1qpt.vercel.app/
-- Star Ai Lab (Haldia, India; 15:45 UTC): https://lunar-navigatorsite.vercel.app/
-- TK (Ajmer, India; 15:52 UTC): https://lunar-landing-site-navigator.netlify.app
-- BYTE THE MOON (Milano, Italy; 15:52 UTC): https://byte-the-moon-weld.vercel.app/
-- Nyawit (Jakarta, Indonesia; 15:53 UTC): https://nasa.taruna.me
-- Plero (Singapore, Singapore; 15:54 UTC): https://selene-scout-kpyt6jazya-as.a.run.app/
-- Dell Monitors (KUALA LUMPUR, Malaysia; 15:55 UTC): https://arairo.github.io/NASA_lunarmoon-/
-- PSCUPM-Albert and the Einsteins (KUALA LUMPUR, Malaysia; 15:57 UTC): https://vocal-blancmange-302e59.netlify.app
-- Project Hail Mayari (Universal Event, Anywhere in the World; 15:58 UTC): https://lunav-phi.vercel.app/
-- CHARMAQ (Gaziantep, Turkey; 15:58 UTC): https://gleeful-strudel-ee9268.netlify.app, HTTP 401
-- Cislunar (Montréal, Canada; 15:59 UTC): https://zachrobitaille.github.io/CisLunar/
-- La La Land (KUALA LUMPUR, Malaysia; 15:59 UTC): https://sparkling-gecko-a794e1.netlify.app/
-- Brickheads (Cochabamba, Bolivia; 15:59 UTC): https://brickheads-lunar-landing-site-navig.vercel.app/
-- Horizon Circuits (Surabaya, Indonesia; 16:03 UTC): https://fowlu.github.io/lunar-window-planner/
-- Nova Squads (Azare, Nigeria; 16:04 UTC): https://vector-horizon.onrender.com
-- Lunar Heuristics: (Universal Event, Anywhere in the World; 16:04 UTC): https://lunar-heuristics.vercel.app
-- Séléné (Besançon, France; 16:05 UTC): https://mega.nz/file/g5pCWJrQ#-7juCyqbIIRwLl4adDOjUYMzXfSk7ScNBv-x4Ayc-dM
-- Pheonix Knights (Amaravati, India; 16:06 UTC): https://bhuvan-reddy-07.github.io/Pluton-NSA/
-- Alien Cats (Eskişehir, Turkey; 16:07 UTC): https://nilk12186-code.github.io/NasaSpaceAppChallange/, HTTP 503
-- Crescent Dev (Universal Event, Anywhere in the World; 16:10 UTC): https://akzoialzhn9.github.io/crescent-lunar-navigator/
-- OPAQUE (Thrissur, India; 16:10 UTC): https://lunar-explorer.vercel.app/
-- Quasar ⭐ (Gaziantep, Turkey; 16:10 UTC): https://lunaris.quasacode.com/en/
-- Plastic Tree (Universal Event, Anywhere in the World; 16:12 UTC): https://gankonadoni95.github.io/Lunar-Horizon/
-- Mochileiros das Galáxias (Luanda, Angola; 16:13 UTC): https://lunarisproject.vercel.app/
-- RPM (Dnipro, Ukraine; 16:13 UTC): https://tarashunchak.github.io/NasaHackathon/
-- Asteriq (Shivamogga, India; 16:16 UTC): https://nasa-hackathon-one.vercel.app/
-- ARKLUNAR (Abu Dhabi, United Arab Emirates; 16:17 UTC): https://cautious-palm-tree-6vrvvp5q477j24w74-8000.app.github.dev/
-- Lunarise (Dhaka, Bangladesh; 16:17 UTC): https://abrupt-omelet-ovqyt.ship.place/
-- Aterin (Kyiv, Ukraine; 16:17 UTC): https://nasa-space-apps-challenge-git-main-httpsvercelcommax-dev.vercel.app/
-- HexaKong (Jakarta, Indonesia; 16:18 UTC): https://skyline.dftrg.com
-- Beyond Earth Engineering and Space Research Alliance (BEESRA) (Universal Event, Anywhere in the World; 16:19 UTC): https://colab.research.google.com/drive/1a2F7zOmqDLO3Mp9Qq108Muy5I7xHr6mC?usp=sharing
-- Fl2mw (Hyderabad, India, India; 16:21 UTC): https://fl2mw.github.io/lunarwindow/
-- The Starseekers (Singapore, Singapore; 16:24 UTC): https://lunar-navigator-spaceapps.vercel.app
-- The Prototype (Thrissur, India; 16:25 UTC): https://lunaristheprototype-71bd90.netlify.app
-- Lunar Conqueror (Ho Chi Minh, Vietnam; 16:26 UTC): https://lunarsight.vercel.app/
-- team98792837 (Universal Event, Anywhere in the World; 16:26 UTC): https://lunar-navigator-drab.vercel.app/
-- sitelight (Coimbatore, India; 16:28 UTC): https://sitelight.vercel.app/
-- BK_SLAYER (Ho Chi Minh, Vietnam; 16:29 UTC): https://lunar-navigator-six.vercel.app
-- LunarScope (Bangalore, India; 16:30 UTC): https://elegant-valkyrie-c5bd62.netlify.app/
-- Estelar 1 (Ciudad del Este, Paraguay; 16:31 UTC): https://artemis-forge-estelar-1.vercel.app/index.html
-- Nova Mind (Colombo, Sri Lanka; 16:31 UTC): https://lunar-scope.vercel.app/
-- Moonbyte (6 of October, Egypt; 16:31 UTC): https://moonbyte-7dzt.vercel.app/lunar-navigator/
-- Astryon (Raipur, India; 16:33 UTC): https://lunar-landing-site-navigator-tcp0.onrender.com
-- To Land or Not to Land: Lunar Landing Site Navigator (Universal Event, Anywhere in the World; 16:34 UTC): https://to-land-or-not-to-land.vercel.app/
-- Horizon Breachers (Ramallah, Palestinian Territories; 16:37 UTC): https://lunanator.horizonbreachers.workers.dev/#home
-- CALYPSO (Bangalore, India; 16:38 UTC): https://lunar-missionbrowser-1.onrender.com/
-- Space_craft (Trivandrum, India; 16:38 UTC): https://amrutha02426.github.io/luna-nav/
-- LunaScope (Colombo, Sri Lanka; 16:39 UTC): https://luna-scope.afras.dev/
-- COSMOSMARTES (Dushanbe, Tajikistan; 16:40 UTC): https://lunar-navigator-nasa.streamlit.app/, HTTP 303
-- Team J.A.I (Chennai, India; 16:42 UTC): https://www.dropbox.com/scl/fi/8111qdtemfel59709th6d/Team-J.A.I-Lunar-Autonomy-Master-Deck.pdf?rlkey=24s9qje2ndc2ep7t33w91oxwa&st=vsq972qr&dl=0
-- Glint (Zugdidi, Georgia; 16:43 UTC): https://llsn.pages.dev/
-- team solace (Harohalli, India; 16:45 UTC): https://nasakepler.vercel.app
-- ShadowLine (Universal Event, Anywhere in the World; 16:46 UTC): https://shadowline-navigator.vercel.app
-- TENET blue (Kanjirappally, India; 16:46 UTC): https://tenetblue6-bot.github.io/LUNAR-LANDING-SITE-NAVIGATOR/
-- Claude Opus 5.5 (Almaty, Kazakhstan; 16:47 UTC): https://moonsill.onrender.com, HTTP 000
-- Astra Motion (Universal Event, Anywhere in the World; 16:50 UTC): https://space-explorer-astra.vercel.app
-- Ag - nas (Mymensingh, Bangladesh; 16:51 UTC): https://shair73.github.io/polarclock1/
-- Lunar explorers (Bhopal, India; 16:52 UTC): https://selenenasa.netlify.app/
-- LUNAV (Jakarta, Indonesia; 16:53 UTC): https://lunav.earth/
-- Celestial (Pune, India; 16:53 UTC): https://celestial-nine-tau.vercel.app/
-- Stellaron (Kannur, India; 16:53 UTC): https://stellaron.vercel.app
-- Zero Gravity Labs (Delhi, India; 16:57 UTC): https://moonis.vercel.app/
-- Code Mavericks (Medellín, Colombia; 16:57 UTC): https://nasa-hackaton-lunar-topography.vercel.app/
-- Horizon90 (Kyiv, Ukraine; 16:58 UTC): https://luna.tutpro.org/
-- Cumulus (Virudhunagar, India; 16:59 UTC): https://selene3d-mzvw.vercel.app/
+- Só Drive, Canva ou vídeo, sem site (ver o conteúdo seria baixar arquivo ou entrar com conta): interstellarteam (Van, Turkey; 13; Bean Drift (KUALA LUMPUR, Malaysia; 13; JPTECH (Ahmedabad, India; 13; STCJC (Cluj-Napoca, Romania; 14; Selene Team (Universal Event, Anywhere in the World; 14; Algoz (Kannur, India; 14; Astraman (Milano, Italy; 14; LONELY LUNAR (Thrissur, India; 14; Space team (Kochi, India; 14; LunarPulse (İzmir, Turkey; 14; Archemetis_lunar (Mysore, India; 15; GIK (KUALA LUMPUR, Malaysia; 15; Lunar-tic (KUALA LUMPUR, Malaysia; 15; Nehir Duan Team (Şanlıurfa, Turkey; 16; Yorix.um (Universal Event, Anywhere in the World; 16; Zenith; Orecx (Kanjirappally, India; 16; INFINITUM (Universal Event, Anywhere in the World; 16; Night Owls (NAGPUR, India; 16; Trināka Dynamics (Raipur, India; 16; Civilianz (Thrissur, India; 16.
+- MAST (Espanha) e Team J.A.I (Índia): o link é um arquivo no Dropbox (um zip e um PDF); seria baixar.
+- Séléné (França): o link é um arquivo de 3,49 GB no MEGA; seria baixar.
+- BEESRA (universal): o link é um caderno no Google Colab; ver o resultado exige rodar o código.
+- MoonSeekers (Índia): o link curto (l1nk.dev) para numa página intermediária de anúncio do encurtador; não segui.
+- CHARMAQ (Turquia): o Netlify pede login ("This site is private").
+- Aterin (Ucrânia) e o homepage do repositório EJainDev/Nasa-Space-Apps: a Vercel pede login (prévias protegidas).
+- ARKLUNAR (Emirados): o link é um Codespace do GitHub, que respondeu 404 (desligado).
+- Vodka (Maurício): GitHub Pages em 404 ("There isn't a GitHub Pages site here").
+- Nova Squads (Nigéria, vector-horizon.onrender.com): o Render ficou em "SERVICE WAKING UP" nas duas visitas (≈15:01 e ≈16:01).
+- itani-jr-404/moonmaps: o homepage é só a API (404 na raiz); não há site.
+- aeroinformagicos-llsn-data.pages.dev: 404 (é o endereço de dados; o site do mesmo repositório, lunarsightline.pages.dev, tem ficha).
+- hariszafar740-lang: o link é um portfólio de engenharia elétrica, não um projeto do desafio.
 
-Repositórios enviados como link de projeto (entraram às 13:59; os que são novos estão em [repos-concorrentes.md](repos-concorrentes.md#novos-de-15112026-às-14h), 697 a 789; falta ler o README e achar o site):
+Volta à fila se subir: **Naviluna**, **Skimline** (525), **500, Penumbra**, **484, SELENARA X**, **Orbital Insight** (611), **MAXQMOON**, **Kijanki** e **Astrea**, como às 10h, e os itens acima que estão fora do ar.
 
-- EXENOS (Thrissur, India; 13:51 UTC): https://github.com/Niyasmc47/LunarExenos2026
-- gedegeutecene (Cluj-Napoca, Romania; 13:58 UTC): https://github.com/mihaicostache1/nasa-space-apps
-- Project Hail Mary Thumbs Up (Manila, Philippines; 14:00 UTC): https://github.com/Trashbindev/Lunar-Navigation-Map.git
-- She'ar Force (Ankara, Turkey; 14:01 UTC): https://github.com/yajmurrs/she-ar-force-navigator
-- LunaTwin (Jeddah, Saudi Arabia; 14:07 UTC): https://github.com/qarimarya10-lgtm/LunaTwin1.git
-- Tudou (KUALA LUMPUR, Malaysia; 14:09 UTC): https://github.com/truffleloaf/Lunar-Mission-Navigator
-- Marvel (6 of October, Egypt; 14:10 UTC): https://github.com/adelreda2008/LUNAPATH
-- MAX-Q (Istanbul, Turkey; 14:15 UTC): https://github.com/kekurttel/MAXQMOON
-- CosmynX (Kandy, Sri Lanka; 14:16 UTC): https://github.com/Oshaniderun/CosmynX
-- UluNova (Bursa, Turkey; 14:24 UTC): https://github.com/Ferhat-01/lunar-landing-site-navigator-3d1.git
-- Supersonic Legends (Bursa, Turkey; 14:27 UTC): https://github.com/yk-mutlu/lunar-site-assessment
-- ENIGMA SPACE (Ankara, Turkey; 14:27 UTC): https://github.com/kingos352/luna-sight
-- NERF (Kohima, India; 14:28 UTC): https://github.com/shivam8368215871-sys/lunar-landing-site-navigator
-- OrbitalUV (Valencia, Spain; 14:33 UTC): https://github.com/Noehm12/OrbitalUV.git
-- DD Engineering (Singapore, Singapore; 14:36 UTC): https://github.com/devadd2105-max/Clearway
-- Vi@bility42 (Valencia, Spain; 14:41 UTC): https://github.com/8who/Lunar-Landing-Site-Nav
-- AETHEREUS (Taipei, Taiwan; 14:52 UTC): https://github.com/kakashi4896/AETHEREUS_2026_project
-- SH STEMERS (Shebeen El-Kom, Egypt; 14:54 UTC): https://github.com/saif3348768578/SH-STEMERS
-- Schrodinger's Cat (Kochi, India; 14:59 UTC): https://github.com/Dhinu-2001/NASA-Space-Apps-2026.git
-- Proj. ENZYLA (Legazpi City, Philippines; 14:59 UTC): https://github.com/azemo-cpp/Proj.ENZYLA
-- Lunar Maps (Singapore, Singapore; 15:02 UTC): https://github.com/walizow/Lunar-Maps
-- CodeXY (Bhopal, India; 15:03 UTC): https://github.com/SidzArt/CLPS-Lunar-Module
-- AstroDYNAMICS (Milano, Italy; 15:06 UTC): https://github.com/gabrielebirri/astroDYNAMICS.git
-- Ibains (Dadu, Pakistan; 15:10 UTC): https://github.com/Abdul-Kabeer78/Earth_System_Trendetective
-- Stargate (Singapore, Singapore; 15:15 UTC): https://github.com/MohamedIkbal/Solar-Terminator
-- Tech spatranzz (Chennai, India; 15:19 UTC): https://github.com/Thaneshiyyappan/Lunar_learning_portal
-- Prospecta (Oslo, Norway; 15:20 UTC): https://github.com/mar109us/prospector
-- Lunar Horizon Analytics (Karachi, Pakistan; 15:26 UTC): https://github.com/Irfan-code-cloud/CLPS-Lunar-South-Pole-Horizon-Browser.git
-- 3andna 7al (Shebeen El-Kom, Egypt; 15:30 UTC): https://github.com/M9nx/Lunar-Hackathon
-- Anonymous member 492 (Ho Chi Minh, Vietnam; 15:32 UTC): https://github.com/phongletu/Anonymous-member-492-
-- NullPointer (Santa Cruz de la Sierra, Bolivia; 15:34 UTC): https://github.com/Tarqui-Mamani-Yimy/nullNasaP.git
-- Apeejians (Haldia, India; 15:34 UTC): https://github.com/Arknath846-dot/Astralune.git
-- Drunk Owl (Surabaya, Indonesia; 15:35 UTC): https://github.com/voccy/lunabackendreal/tree/main
-- LunarEnvelope (Multan, Pakistan; 15:43 UTC): https://github.com/hariszafar740-lang/hariszafar740-lang/tree/e20ef4fda50f5e189ab11754dae5c159a0d826ff/lunar-envelope
-- BZLunar (Riyadh, Saudi Arabia; 15:45 UTC): https://github.com/khaled222K/BZlunar-landing-site-navigator
-- RESONA (Mumbai, India; 15:48 UTC): https://github.com/sarthaky363-ux/NASA-SPACE-APPS-CHALLENGE
-- Moon Bytes (Santa Cruz de la Sierra, Bolivia; 15:52 UTC): https://github.com/ELkin2624/Lunar-Landing-Site-Navigator
-- Lunar Prime (Singapore, Singapore; 15:59 UTC): https://github.com/Aryand43/lunar-prime
-- The Moroccanauts: Taht Dar (Ben Guerir, Morocco; 16:00 UTC): https://github.com/x1mlqn/NasaSpaceApp-Challenge
-- CSM Space (Meknès, Morocco; 16:05 UTC): https://github.com/ChaymaeCoding/nasa-hack
-- Rovion (Chennai, India; 16:07 UTC): https://github.com/Gowtham-0315/NASA-Lunar
-- AXON (Universal Event, Anywhere in the World; 16:08 UTC): https://github.com/devanshi442/AXON
-- MoonBunny (New York, NY, United States; 16:10 UTC): https://github.com/shamalzahra/MoonBunny
-- AAST engineering (Salam Misr, Egypt; 16:15 UTC): https://github.com/youssefkamall/Light_Link
-- Nabla Team (Santa Cruz de la Sierra, Bolivia; 16:17 UTC): https://github.com/Hackaton-NasaBol/lunascope.git
-- Snow leopard (Universal Event, Anywhere in the World; 16:18 UTC): https://github.com/dilmun1101/lunar-landing-site-navigator
-- Nyxara_in (Kanjirappally, India; 16:19 UTC): https://github.com/nyxaraindia/LUNA-NAV
-- Gypsy Danger (Raipur, India; 16:26 UTC): https://github.com/Inert-Om/ArtemisOS/
-- Adinfinitium (Pune, India; 16:33 UTC): https://github.com/Imok282/Adinfinitium
-- AutoPilot (Kandy, Sri Lanka; 16:36 UTC): https://github.com/azhendilhara/LunaRIDGE-2026
-- kodeX (Sivas, Turkey; 16:40 UTC): https://github.com/SeymanurYlmz/LUNA_Navigator
-- Lunar Shield (Faisalabad, Pakistan; 16:42 UTC): https://github.com/Shiro3264/Lunar-Site-Nav
-- OneXDegree (Universal Event, Anywhere in the World; 16:43 UTC): https://github.com/JTI22/One_Degree_Lunar_Planner.git
-- 100% Phys-Info UdeM (Montréal, Canada; 16:48 UTC): https://github.com/Cass3139/LunarLandingSite
-- ASTRO AI (Shivamogga, India; 16:53 UTC): https://github.com/gaganbk23/lunar-landing-site-navigator
-- LONOS (Boston, MA, United States; 16:55 UTC): https://github.com/EJainDev/Nasa-Space-Apps
-- Singularityy (Bangalore, India; 16:57 UTC): https://github.com/sachitharao491-a11y/Lunar-landing-navigation.git
-- SMA Negeri 49 Jakarta (Jakarta, Indonesia; 16:58 UTC): https://github.com/SitiZainabArrabiihah/lumenwise
-
-Já tinham ficha; enviados agora; falta reabrir a tela inicial e conferir se mudou (entraram às 13:59):
-
-- Albedo (13:50 UTC): https://rizgarozan.github.io/albedo-spaceapps/web/
-- !0aSS - SpaceSoldiers (13:51 UTC): https://github.com/Umutcagn/lunar-landing-navigator
-- Team_of_AEers (13:53 UTC): https://github.com/quentinliu-a11y/Lunar_Landing_Optimal_System
-- Crescent Luna (13:55 UTC): https://dhanukesavan214-source.github.io/Lunar-landing-site-navigation-/
-- Narinform (13:57 UTC): https://github.com/yujixli88/Lunar-landing-site-navigation
-- Horizon Protocol (13:57 UTC): https://github.com/Sezergumus/lunaris
-- SkyCode (13:58 UTC): https://github.com/Egemen2611/AyInisNavigatoru
-- ✦ IT STEP Poltava × Mindal1ka.com ✦ (13:58 UTC): https://github.com/Mindal1ka/lunar-site-navigator
-- LunaZen (13:59 UTC): https://lunazen-v1.vercel.app/
-- EarthResident (14:00 UTC): https://lunamap.leozzmc.com/
-- CCode (14:01 UTC): https://ccode-lunarlandingsitenavigator.netlify.app/
-- NIRJAYA Labs (14:02 UTC): https://catyee-cty.github.io/hackathon2/
-- SolutionX (14:03 UTC): https://lunawin.myspaceproject.app/
-- Fractured Toes (14:03 UTC): https://penumbra-lunar.pages.dev
-- REGOLITH FINDER (14:23 UTC): https://github.com/oiassix/Regolith-Finder
-- Orbiting_Alpha (14:32 UTC): https://github.com/Vaibhavi-1107/orbiting_alpha_lunar_mission_browser
-- HorizonLine Solo (14:32 UTC): https://sameermistrii.github.io/horizonline/app/
-- Aeroespeciais lunares (14:33 UTC): https://martimcorreia30-coder.github.io/aeroespeciais_lunares/
-- Cosall (14:35 UTC): https://cosall.onrender.com
-- LUNARAº (14:36 UTC): https://github.com/JuanGilArregui/lunara-
-- Hawkins (14:37 UTC): https://nasa-lunar-x2her4ehyq-el.a.run.app/
-- Gemini (14:46 UTC): http://195.62.49.174/
-- AZAS (14:48 UTC): https://azas-fe-xi.vercel.app/
-- Lunar G-Spotters (14:49 UTC): https://github.com/kaizarmerchantt-git/Lunar-G-spotters
-- sparks-allot (14:50 UTC): https://redwhiteblue.net/nasa/
-- DU:NE (14:53 UTC): https://du-ne-mission-portal.ellfuge1507.workers.dev/
-- Gabay (14:55 UTC): https://gabay-tanaw.app
-- Datanauts (14:57 UTC): https://github.com/Datanauts-Nasa-Space-Apps-Challenge
-- HerTech (15:02 UTC): https://lunar-landing-site-six.vercel.app/
-- Tteam Stark (15:04 UTC): https://universeexpanded.vercel.app
-- HyperNova (15:08 UTC): https://spaceapps.adeeshaperera.me/
-- IntegratedAI (15:08 UTC): https://nasa-lunar-ten.vercel.app/
-- Oslo Test Team 2026 (15:08 UTC): https://www.nasa.gov/
-- Moonle (15:09 UTC): https://hkl7-dev.github.io/NasaHackathon26-LunarNavigator/
-- MOONDA (15:19 UTC): https://moonda.us/
-- minnions (15:25 UTC): https://mervesafakkkk.github.io/lunar-landing-navigator/
-- Regolith Rebels (15:30 UTC): https://pinjulin97-maker.github.io/project-regolith-horizon/
-- KiyoSpace (15:32 UTC): https://github.com/hafdas/kiyospace-lunar-navigator?tab=MIT-1-ov-file
-- Astro X Bound (15:34 UTC): https://github.com/AntoLin-cyber/MUNE-Lunar-Mission-Navigator
-- Team MergeConflict_IUT (15:39 UTC): https://moonscope-two.vercel.app/
-- Oymuos_022 (15:42 UTC): https://selene-x-f56vuucwehbldyafe5cfjx.streamlit.app/
-- Rays of Kindness (15:52 UTC): https://shadowline.space
-- CastorLab (15:53 UTC): https://mehrafruz.github.io/lunar-horizon/
-- Hood Rocketry Department™ (15:57 UTC): https://stargazer-clps-lunar-navigator.vercel.app/
-- GLYFT (15:58 UTC): https://darksight.space
-- The Space Trek (15:59 UTC): https://3d-moon-globe.netlify.app/
-- K2 (15:59 UTC): https://k2-lunar-horizon.vercel.app/
-- Fortuna (16:00 UTC): https://dundaryusuf566-maker.github.io/clps-lunar-mission-lite/
-- _UMBRA_ (16:03 UTC): https://daniel27-space.github.io/lunar-navigator/
-- AVIRA_LunarNav_RELOADED (16:05 UTC): https://github.com/2026-NASA-Space-Apps-Besanzon/AVIRA_LunarNav_RELOADED
-- L-SEA (16:08 UTC): https://github.com/rafaa-sf/l-sea-space-apps
-- MoonX (16:10 UTC): https://github.com/Mjay06/MoonX
-- OrbitXI (16:16 UTC): https://orbitxi-lunar-landing-site-navigato.vercel.app
-- Hackclub Marina High School Chapter Team 1 (16:17 UTC): https://selenehorizon.vercel.app
-- ARIJU-VII (16:28 UTC): https://astrosite-arijuvii.netlify.app/
-- Karak & Cosmos (16:29 UTC): https://github.com/SaoudBumjaid/LUNARIS
-- Moon crator (16:33 UTC): https://harshitachauhan2410.github.io/lunar-navigator/
-- Aiman Malib (16:34 UTC): https://aimanmalib.github.io/spaceapps26/
-- Bon Voyage (16:37 UTC): https://moonbound.wiki
-- DISM4NTLE (16:45 UTC): https://13-54-224-119.sslip.io
-- Red rocket (16:45 UTC): https://github.com/ncn1issad/Lunar-Lens
-- The polymaths (16:46 UTC): https://acookiefor2.github.io/lunar-sites/
-- Building Better Worlds (16:47 UTC): https://github.com/alex-tereshkovv/lunarsight
-- SYNEXIS (16:51 UTC): https://github.com/tyloor2010/SYNEXIS
-- Trần Đăng Huy (16:54 UTC): https://lunavigator.com/
-- TIMOREX (16:55 UTC): https://github.com/kelekers/selenis/
-- 06 Spacelanders (16:57 UTC): https://viethedev.github.io/seal/
-- Craterly (16:58 UTC): https://lunaslipplanner.vercel.app/
-
-Saíram com motivo externo (13:59): os 21 projetos cujo link é só uma pasta ou arquivo no Google Drive, um Canva ou um vídeo, sem site; ver o conteúdo seria baixar arquivos ou entrar com conta: interstellarteam (Van, Turkey; 13; Bean Drift (KUALA LUMPUR, Malaysia; 13; JPTECH (Ahmedabad, India; 13; STCJC (Cluj-Napoca, Romania; 14; Selene Team (Universal Event, Anywhere in the World; 14; Algoz (Kannur, India; 14; Astraman (Milano, Italy; 14; LONELY LUNAR (Thrissur, India; 14; Space team (Kochi, India; 14; LunarPulse (İzmir, Turkey; 14; Archemetis_lunar (Mysore, India; 15; GIK (KUALA LUMPUR, Malaysia; 15; Lunar-tic (KUALA LUMPUR, Malaysia; 15; Nehir Duan Team (Şanlıurfa, Turkey; 16; Yorix.um (Universal Event, Anywhere in the World; 16; Zenith; Orecx (Kanjirappally, India; 16; INFINITUM (Universal Event, Anywhere in the World; 16; Night Owls (NAGPUR, India; 16; Trināka Dynamics (Raipur, India; 16; Civilianz (Thrissur, India; 16.
-
-Volta à fila se subir: **Naviluna**, **Skimline** (525), **500, Penumbra**, **484, SELENARA X**, **Orbital Insight** (611), **MAXQMOON**, **Kijanki** e **Astrea**, como às 10h (não reabri nesta rodada).
-
-Fila anterior (11:55). **Atualizada às 11:55 de 15/11.** Entraram às 10:20 de 15/11, pela API do Space Apps (lida às 10:13) e por `gh search repos` e `gh search code`, sessenta e um itens (os links dos 37 projetos enviados entre 12:16 e 13:13 UTC, 29 links que mudaram em times que não enviaram, os sites dos repositórios novos e as voltas pendentes) e, às 10:48, mais 43 (os links dos 29 projetos enviados entre 13:16 e 13:47 UTC e 14 links de times que não enviaram que nenhuma rodada tinha aberto). Saíram, na [vigésima terceira inspeção](#vigésima-terceira-inspeção-15112026-às-10h): 42 com a ficha de dez campos (dezessete por extenso), dezessete só com a tela inicial (já tinham ficha) e o resto com motivo externo (login, Drive, Docs, Colab, só vídeo, só slides, só repositório, 404, outro desafio).
+Fila anterior (15:35): 97 sites, 58 repositórios e 68 links para reabrir, entrados às 13:59. Fila anterior (11:55). **Atualizada às 11:55 de 15/11.** Entraram às 10:20 de 15/11, pela API do Space Apps (lida às 10:13) e por `gh search repos` e `gh search code`, sessenta e um itens (os links dos 37 projetos enviados entre 12:16 e 13:13 UTC, 29 links que mudaram em times que não enviaram, os sites dos repositórios novos e as voltas pendentes) e, às 10:48, mais 43 (os links dos 29 projetos enviados entre 13:16 e 13:47 UTC e 14 links de times que não enviaram que nenhuma rodada tinha aberto). Saíram, na [vigésima terceira inspeção](#vigésima-terceira-inspeção-15112026-às-10h): 42 com a ficha de dez campos (dezessete por extenso), dezessete só com a tela inicial (já tinham ficha) e o resto com motivo externo (login, Drive, Docs, Colab, só vídeo, só slides, só repositório, 404, outro desafio).
 
 **Vazia às 11:55.** Os oito que tinham ficado na fila às 11:00 sem motivo externo saíram com a ficha de dez campos no quarto bloco da vigésima terceira inspeção: MoonScope, L.U.N.A. do TerraBits, Cosall, WISPR do Hawkins no endereço novo, SELENE-GPU, The Space Trek, AstroApex e Tanaw.
 
@@ -305,7 +87,7 @@ Saíram com motivo externo (00:23 a 00:25):
 
 ## Vigésima quarta inspeção, 15/11/2026, às 14h
 
-De 13:58 a 15:33 de Brasília (dois blocos), no navegador embutido, a 1.024 px e a 390 px. Os horários de cada ficha são aproximados (≈). Só leitura, uma visita por site, sem login e sem formulário com dado pessoal; as consultas de ponto e data são cálculo, não cadastro. Não abri nenhum assistente de IA. A consulta de referência é a mesma: **A** é o ponto final do IM-2 Athena, de 06/03/2025 00:00 UTC, 48 h, a 2 m; **B** é o Connecting Ridge, de 01/12/2026 00:00 UTC, 29,5 dias, a 2 m. **A nossa API respondeu às 13:58 (16:58 UTC), HTTP 200** (A em 0,6 s, B em 0,4 s), com os mesmos números de antes: A, 48 h de Sol (fração média 0,975) e 48 h de Terra, sem pôr do Sol; B, 708,73 h de Sol, 331,39 h de Terra (46,8%), nascer da Terra às 16:05:27 de 13/12 e pôr às 11:28:58 de 27/12, os dois atrás do Mons Malapert. O nosso site também abriu no navegador embutido (ver [concorrencia.md](concorrencia.md#o-nosso-app-hoje)).
+De 13:58 a 16:50 de Brasília (três blocos), no navegador embutido, a 1.024 px e a 390 px. Os horários de cada ficha são aproximados (≈). Só leitura, uma visita por site, sem login e sem formulário com dado pessoal; as consultas de ponto e data são cálculo, não cadastro. Não abri nenhum assistente de IA. A consulta de referência é a mesma: **A** é o ponto final do IM-2 Athena, de 06/03/2025 00:00 UTC, 48 h, a 2 m; **B** é o Connecting Ridge, de 01/12/2026 00:00 UTC, 29,5 dias, a 2 m. **A nossa API respondeu às 13:58 (16:58 UTC), HTTP 200** (A em 0,6 s, B em 0,4 s), com os mesmos números de antes: A, 48 h de Sol (fração média 0,975) e 48 h de Terra, sem pôr do Sol; B, 708,73 h de Sol, 331,39 h de Terra (46,8%), nascer da Terra às 16:05:27 de 13/12 e pôr às 11:28:58 de 27/12, os dois atrás do Mons Malapert. O nosso site também abriu no navegador embutido (ver [concorrencia.md](concorrencia.md#o-nosso-app-hoje)).
 
 **Por que a fila cresceu:** entre 13:47 e 16:59 UTC a API do Space Apps registrou **253 projetos enviados** neste desafio (eram 66 nas duas horas da rodada anterior). Deles, 68 apontam para links que já têm ficha, 21 só para Drive, Canva ou vídeo, 58 para repositórios no GitHub e 106 para sites que nenhuma rodada tinha aberto. Antes de abrir, baixei o HTML e o script principal de cada um dos 106 (só leitura, um pedido por arquivo) e ordenei pelas fontes que citam (LOLA, SPICE, DE440, Horizons, PGDA, Mazarico, Barker). Abri por inteiro seis dos que mais citavam essas fontes (Larping Masters, Outliers, ALPHA LUNAR, zenon, Peak of Eternal Light e Mare Hackematis); os outros estão na fila acima, na ordem do envio.
 
@@ -483,6 +265,2197 @@ De 13:58 a 15:33 de Brasília (dois blocos), no navegador embutido, a 1.024 px e
 - **O que eles têm e nós não:** o jogo de cinco passos com o tipo de missão e as metas; o calendário com a nota de cada dia na mesma tela do sítio; o quadro de alfinetes para comparar.
 - **O que nós temos e eles não:** DEM de 20 m e SPICE; Occluder; contagem; horizonte plano ao lado; DSN; dispersão; escada; Prova com controles negativos; PT; 2025.
 - **O que vale trazer:** o tipo de missão como primeira escolha, que define as metas (Relevance e Influence: transforma Sol e Terra em sim ou não para quem não é planejador; liga com o número de aula que já temos).
+
+**Terceiro bloco (15:40 a 16:50): a fila inteira.** A sessão coordenadora devolveu a rodada porque a fila tinha ficado "por volume". Neste bloco esvaziei a fila inteira. Para caber, usei no navegador embutido uma sonda fixa, a mesma em todos os sites, e registro o que ela viu; não li a página à mão como nas fichas dos dois primeiros blocos. A sonda: (a) abre a página a 1.024 px, espera 3,5 s e guarda o título, os primeiros 700 caracteres da tela, os botões e abas visíveis, os campos de formulário e a lista de pedidos de rede que não são script, estilo, fonte ou imagem; (b) clica nos três primeiros botões ou abas visíveis cujo texto não seja de login, envio, chat, download, compartilhar, aceitar, pagar ou apagar, e anota se o texto da tela mudou e o começo do texto novo; (c) procura na tela um trecho de validação e as fontes declaradas; (d) numa segunda passada, abre a mesma página a 390 px e mede a largura da página. Nenhum formulário com dado pessoal, nenhum login. A consulta de referência foi rodada pelo link nos que aceitam ponto e data no endereço, e por um preenchimento automático dos campos de data e coordenada nos outros de nível 2; o resultado de cada um está no campo 8. Os níveis deste bloco seguem uma regra escrita: **nível 2** se a tela cita relevo do LOLA (ou LDEM) e uma efeméride (SPICE, DE440, DE421, Horizons, Skyfield ou Astronomy Engine) e não se declara de exemplo; **nível 2 forte** se, além disso, mostra números de validação; nível 3 no resto. As notas dos de nível 2 seguem a mesma regra (Influence 4 se a tela tem campo de data; Validity 4 se há números de validação; Relevance pelo número de funcionalidades da lista; Presentation 4 se foi enviado e cabe a 390 px) e servem para ordenar, não para comparar com as notas escritas à mão.
+
+### Lunar Site Navigator (time Starship Troopers, Sangolqui, Ecuador; enviado às 13:50 UTC), ficha do terceiro bloco, nível 2
+
+[cesarleon911.github.io](https://cesarleon911.github.io/NASA-SPACE-APP-2026/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Site Navigator / / Sitios y fechas de alunizaje · Sol, Tierra y relieve real / / Posiciones Sol/Tierra validadas con JPL Horizons · error máx. 0,007° · sombras 96,8 % vs LOLA / ¿Por qué es difícil? / Compartir escenario / Exportar CSV / 1 · MISIONES Y SI".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** os outros controles da tela são campos (select-one,datetime-local,number,number,select-one,select-one,range,range,range,select-one,select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/sitios.json`, `/data/mapa_polo.json`, `/data/validacion.json`, `/data/terreno_sitios.json`, `/data/trek/manifest.json`, `/data/diviner.json`; declarado na tela: LOLA, LDEM, Horizons.
+6. **Validação:** trecho na tela: "Posiciones Sol/Tierra validadas con JPL Horizons · error máx. 0,007° · sombras 96,8 % vs LOLA".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** B: o link com o id `shackleton` abre o interior da cratera (0% de Sol e de Terra, "en sombra permanente"); a "Cresta Shackleton–de Gerlache" está na lista, mas não achei o id dela para o link. A: o "IM-2 Athena (2025) ≈" está na lista (marcado aproximado); não rodei pelo formulário.
+9. **Erros e lentidão:** carga em ≈4.9 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 4 (validação com números na tela); Relevance 2 (0 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### ASTRA CARTO — Explore the Moon. Plan with Precision. (time ASTRA CARTO, Jeddah, Saudi Arabia; enviado às 13:50 UTC), ficha do terceiro bloco, nível 3
+
+[astra-carto.vercel.app](https://astra-carto.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNAR MISSION PLANNING & VISIBILITY ANALYSIS / / ASTRA CARTO / / Explore the Moon. Plan with Precision. / / Analyze solar illumination, direct-to-Earth communication windows, and 360° LRO LOLA terrain horizons across curated lunar landing sites and custom coor".
+2. **Rotas:** Launch Mission Planner.
+3. **Controles:** "Launch Mission Planner" mudou a tela (novo texto: "◐ / ASTRA CARTO / Explore the Moon. Plan with Precision. / Offline Ephemeris Cache: 2025–2"); os outros controles da tela são campos (select-one,number,number,datetime-local,select-one,select-one,file,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,number,number,datetime-local,select-one,select-on).
+9. **Erros e lentidão:** carga em ≈5.1 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunaSight 2.0 — Lunar Landing Site Navigator (time ASTRA 2.0, Harohalli, India; enviado às 13:51 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-apex.vercel.app](https://lunar-apex.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LunaSight / / Lunar landing site navigator · Sun & Earth from any point on the Moon / / Waxing Crescent (35%) / Copy link / Export ▾ / Light theme / Help / Mission length / days / Window / 3 days / 7 days / 15 days / 30 days / 60 days / Shift all dates / −30 d".
+2. **Rotas:** 3 days, 7 days, 15 days, 30 days, 60 days, Fast local model, Live JPL Horizons, Custom coordinates…, Lunar south pole (90°S) , Shackleton crater (rim r, Haworth crater ≈, Faustini crater ≈, Shoemaker crater ≈, de Gerlache crater ≈, Malapert massif ≈, Cabeus crater ≈.
+3. **Controles:** os outros controles da tela são campos (number,select-one,number,number,select-one,checkbox,text,select-one,date,time,number,number,number,file,text,select-one,); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 403 px de largura (com rolagem lateral).
+5. **Dados:** conferido na rede: `/api/terrain/profiles`, `/api/sites`, `/api/lunar-phase`; declarado na tela: LOLA.
+6. **Validação:** trecho na tela: "Method, accuracy and limits".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** A (o nosso ponto e a data pelo link, 3 d, 2 m): Sol 100%, Terra 100%, nenhum pôr do Sol nem da Terra. Nós: 48 h de Sol e de Terra, nenhum pôr. **Batem.** B (o nosso ponto pelo link, 30 d): a tela deu Sol 31%, Terra 31% e um pôr de cada, o que não bate com nenhuma outra ferramenta; não confirmei que o link aplicou o período; sem conclusão.
+9. **Erros e lentidão:** carga em ≈4.7 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNAR-NAV // Selenographic Landing Site Navigator (time Orbit-Forge, 6 of October, Egypt; enviado às 13:51 UTC), ficha do terceiro bloco, nível 3
+
+[phelopatererian-boop.github.io](https://phelopatererian-boop.github.io/Lunar-landing-/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNAR-NAV // ME/PA-421 / DEMO — NO LIVE TELEMETRY / / R_MOON = 1,737.4 km • ILLUSTRATIVE LUNAR SITE EXPLORER / / 3D Globe / 2D Map / South Pole / GRID / COMPARE / Illustrative visualization: model terrain/elevation is synthetic; candidate-region pins are appro".
+2. **Rotas:** 2×, Apollo 11, Apollo 12, Apollo 14, Apollo 15, Apollo 16, Apollo 17, Luna 9, Surveyor 3, Chang'e 4 & Yutu-2, Chang'e 5, Chandrayaan-3, SLIM, Chang'e 6, IM-1 Odysseus, Blue Ghost Mission 1.
+3. **Controles:** "1.5×" mudou a tela (novo texto: "1.5× /  / English voiceover plays in sync with the video. /  / Apollo 11 (Tranquility Base"); os outros controles da tela são campos (range,select-one,select-one,text); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1018 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA; a tela diz "synthetic".
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (range,select-one,select-one,text).
+9. **Erros e lentidão:** carga em ≈5.7 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunaSight — Cosmic Variance (time Cosmic Variance, Ankara, Turkey; enviado às 13:59 UTC), ficha do terceiro bloco, nível 3
+
+[lunasight.netlify.app](https://lunasight.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "COSMIC VARIANCE / View project on GitHub ↗ / / NASA SPACE APPS CHALLENGE · ANKARA 2026 / / A clearer view of the Moon’s hardest trade‑offs. / / LunaSight helps people explore how landing location and arrival time can shape sunlight and direct-to-Earth communic".
+2. **Rotas:** COSMIC VARIANCE, View project on GitHub ↗, Project overview, GitHub repository.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/.netlify/scripts/ar`, `/.netlify/scripts/hud`; declarado na tela: Horizons.
+6. **Validação:** trecho na tela: "amples can be loaded in the app. Results are educational and exploratory, not landing certification or operational guidance. Detailed mission analysis requires validated ephemerides, local topography, and engineering rev".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.5 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunaNav | Lunar Landing Site Navigator (time Falak-6, Jeddah, Saudi Arabia; enviado às 14:02 UTC), ficha do terceiro bloco, nível 3
+
+[lunanav-ten.vercel.app](https://lunanav-ten.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "◔ / LUNANAV / LUNAR LANDING SITE NAVIGATOR / Home / Explore the Moon / Mission Planner / WORKBOOK DATA LOADED / / LUNANAV · THE LUNAR FRONTIER / / The Moon is / only the beginning. / / Every great discovery begins with curiosity. / / Explore the Moon / For eve".
+2. **Rotas:** Explore the MoonFor ever, Mission PlannerFor scien.
+3. **Controles:** "Explore the MoonFor ever" mudou a tela (novo texto: "01 / EXPLORE A LUNAR REGION /  / Discover the / lunar South Pole. /  / Pick a location and"); "Mission PlannerFor scien" não mudou o texto da tela; a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: aula; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### guia-lunar (time EC PEOPLE, Kanjirappally, India; enviado às 14:03 UTC), ficha do terceiro bloco, nível 2
+
+[guia-lunar-nasa.vercel.app](https://guia-lunar-nasa.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "☾ / GUÍA LUNAR / LUNAR LANDING NAVIGATOR / MISSION CONTROL / ◈ / Overview / ⌖ / Compare Sites / ▤ / Methodology / SYSTEM STATUS / RESEARCH MODE / / Exploring safer lunar landing possibilities through scientific data. / / NASA SPACE APPS CHALLENGE / 2026 · GUÍA".
+2. **Rotas:** Shackleton Rim, De Gerlache Rim 2, Malapert Massif.
+3. **Controles:** os outros controles da tela são campos (select-one,date,time); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈4.5 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (0 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### ALLIS – Autonomous Lunar Landing Intelligence System (time OreCode, Doha, Qatar; enviado às 14:03 UTC), ficha do terceiro bloco, nível 3
+
+[nasa-allis.courses](http://www.nasa-allis.courses/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "SUN / EARTH / MOON / LUNAR SOUTH POLE / LUNAR EQUATORIAL REGION / CRATER-DENSE HIGHLANDS / RELATIVELY FLAT TERRAIN / MOUNTAINOUS TERRAIN / PERMANENTLY SHADOWED REGION / ALLIS / AUTONOMOUS LUNAR LANDING INTELLIGENCE SYSTEM / MISSION ID / ALLIS-POLE-001 / MODE /".
+2. **Rotas:** Lunar South Pole, Lunar equatorial region, Crater-dense highlands, Relatively flat terrain, Mountainous terrain, Permanently shadowed reg.
+3. **Controles:** os outros controles da tela são campos (select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: IA; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one).
+9. **Erros e lentidão:** carga em ≈4.6 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunaricB (time AEGis-F, Ankara, Turkey; enviado às 14:04 UTC), ficha do terceiro bloco, nível 2
+
+[demonszy07.github.io](https://demonszy07.github.io/lunarplanb/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LunaricB / / vertical scale stretched 8× / / Seen by / the eye / a camera / . Stars as an eye shaded from the Sun would see them. / / Looking toward / the Sun / Earth / north / east / south / west / where you turned it / . / / Sun and Earth are drawn round, so".
+2. **Rotas:** panorama, from above, stand on the surface, the eye, a camera, the Sun, Earth, north, east, south, west, where you turned it, Site 1, connecting ridge, Site 4, Shackleton rim, Site 7, peak near Shackl, Site 11, de Gerlache rim.
+3. **Controles:** os outros controles da tela são campos (select-one,select-one,select-one,select-one,text,number,select-one,select-one,select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/sky.bin`, `/data/sites/site01.json`, `/data/sites/site01_view.bin`, `/data/stars.bin`, `/data/earth.bin`; declarado na tela: LOLA, Horizons, PGDA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: contagem; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunaPath – Moon Landing Planner | NASA Space Apps Challenge 2026 (time Loop Ladies, 6 of October, Egypt; enviado às 14:07 UTC), ficha do terceiro bloco, nível 2
+
+[aliaayounes22-crypto.github.io](https://aliaayounes22-crypto.github.io/Lunapath-Nasa-App-Challenge/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LunaPath / 2026 / MOON LANDING PLANNER / • / SOUTH POLE NAVIGATOR / Mission Explorer / Visibility Charts / Site Comparison / Scientific Sources / About LunaPath / LAUNCH EXPLORER / NASA Space Apps Challenge 2026 / • / Lunar Landing Site Navigator / Planning th".
+2. **Rotas:** LunaPath2026Moon Landing, Mission Explorer, Visibility Charts, Site Comparison, Scientific Sources, About LunaPath, Launch Explorer, Year 2025, Year 2026, Year 2027, Year 2028, Year 2029, Year 2030, Year 2031, Year 2032.
+3. **Controles:** os outros controles da tela são campos (select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1017 px; a 390 px a página tem 519 px de largura (com rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, SPICE, Wueller.
+6. **Validação:** trecho na tela: "Evaluate candidate landing site points within Artemis candidate regions. Illumination and simultaneous Earth communication windows reflect peer-reviewed modeled midsummer maxima.".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (0 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Base — Solar Power & DTE Mission Planner (time claude.md, Ankara, Turkey; enviado às 14:11 UTC), ficha do terceiro bloco, nível 2
+
+[nasa-spaceapps-team-claudemd.netlify.app](https://nasa-spaceapps-team-claudemd.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "🌙 / LUNAR BASE / SOLAR POWER & DTE MISSION / / Loading lunar topography... / / 🚀 / MISSION REGION / Apollo 11 — Mare Tranquillitatis / 0.67°N, 23.47°E · Lunar Near Side / ▾ / ☀️ Sun: Active / 🌍 Earth (DTE): Active / 🌅 Time to Sunset: / 271h 59m (11.3d) / 📡 Tim".
+2. **Rotas:** ✅ Viable: Power + DTE Ac, 🎓 Why It Matters?, EN, TR, ☀️ S. Polar Summer, 🌗 Equinox (Feb), ❄️ S. Winter / N. Summer, 🌓 Equinox (Aug), 🎯 Cell, 🚀 Station, 🔭 Overview, 🥽 Night Vision N, 30 Days, 24 Hours, ➖ Horizontal Panel (0°), 🗼 Vertical Sun Tracker .
+3. **Controles:** "✅ Viable: Power + DTE Ac" mudou a tela (novo texto: "🚀 / MISSION REGION / Apollo 11 — Mare Tranquillitatis / 0.67°N, 23.47°E · Lunar Near Side"); "🎓 Why It Matters?" não mudou o texto da tela; "EN" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/.netlify/scripts/hud`, `/textures/lola_dem_2880x1440.bin`, `/api/health`, `/api/health`; declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈8.6 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Moonkeeper · Where & when (time Moonkeeper, Seoul, South Korea; enviado às 14:14 UTC), ficha do terceiro bloco, nível 2
+
+[nkm1020.github.io](https://nkm1020.github.io/moonkeeper/web/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "moonkeeper / 01 / Where & when / 02 / Replan / 03 / Confidence / 04 / Evidence / 05 / Decision / EN / 한국어 / CR1 / SR1 / GR1 / MP1 / LP1 / IM2 / POLE / SHK / SUN / EARTH / If you land on / 13 JAN 2027 / / South Pole / / / / / / Land where the light stays. / / C".
+2. **Rotas:** EN, 한국어, CR1, SR1, GR1, MP1, LP1, IM2, POLE, SHK, moonkeeper, 01Where & when, 02Replan, 03Confidence, 04Evidence, 05Decision.
+3. **Controles:** "EN" não mudou o texto da tela; "한국어" mudou a tela (novo texto: "언제·어디 / 02 / 재계획 / 03 / 신뢰도 / 04 / 근거 / 05 / 결정 / EN / 한국어 / CR1 / SR1 / GR1 / MP1 / LP1 /"); "CR1" mudou a tela (novo texto: "CR1의 지평선 보기 → /  / 계산한 지도 · NASA LRO LOLA 80 m 지형 · JPL Horizons DE441 · 기준은 가정값 /  / 출처와").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://nkm1020.github.io/moonkeeper/data/polar/polar.json`, `https://nkm1020.github.io/moonkeeper/data/outputs/heatmap.json`, `https://nkm1020.github.io/moonkeeper/data/outputs/landing_success.json`; declarado na tela: LOLA, LDEM, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: dispersão de pouso, bateria ou energia; não vi: horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈4.8 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 3 (2 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Moonpossible: Lunar Landing Site Navigator, NASA Space Apps 2026 (time Moonpossible, Haifa, Israel; enviado às 14:30 UTC), ficha do terceiro bloco, nível 3
+
+[moonpossible.earth](https://www.moonpossible.earth/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / Moonpossible / Lunar Landing Site Navigator, NASA Space Apps 2026 / Plan / Assumptions / Validation / Status / Basic / Advanced / Moonpossible / Where can a lander keep sunlight and talk to Earth? / / Moonpossible turns NASA's terrain and eph".
+2. **Rotas:** Basic, Advanced, Open the app, For mission planners, MoonpossibleLunar Landin, Plan, Assumptions, Validation, Status.
+3. **Controles:** "Basic" não mudou o texto da tela; "Advanced" não mudou o texto da tela; "Open the app" mudou a tela (novo texto: "Loading the map…").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 398 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/api/validation`, `/api/health`, `/api/map/manifest`, `/app`, `/api/map/manifest`, `/api/profiles`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** trecho na tela: "Validation".
+7. **Funcionalidades:** tem ou cita na tela: atraso, melhor ou pior data; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### RegolithForge — Lunar South Pole Landing Site Navigator (time Space Besties, Ras Al Khaimah, United Arab Emirates; enviado às 14:32 UTC), ficha do terceiro bloco, nível 3
+
+[regolithforge.netlify.app](https://regolithforge.netlify.app/?px=8&py=876), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "REGOLITHFORGE / | / SHACKLETON · 89.9°S / Analogs / Sources / Perf / Standard / Site / Full Moon / Planner / Explorer 2m / BENCHMARK SITES / Connecting Ridge Primary / -89.45° / Shackleton Crater Rim / -89.90° / de Gerlache Ridge Rim / -88.50° / SHADER OVERLAY".
+2. **Rotas:** Vertical Azimuth-Trackin, Two-Axis Gimbal Tracking, Fixed Horizontal Deck.
+3. **Controles:** os outros controles da tela são campos (checkbox,checkbox,checkbox,checkbox,checkbox,range,select-one,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://regolithforge.netlify.app/.netlify/scripts/hud`, `https://regolithforge.netlify.app/data/heightmap_meta.json`, `https://regolithforge.netlify.app/data/ephemeris.json`, `https://regolithforge.netlify.app/data/heightmap_float32.bin`, `https://regolithforge.netlify.app/data/ice_proxy.json`, `https://regolithforge.netlify.app/data/thermal.json`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: inclinação; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (checkbox,checkbox,checkbox,checkbox,checkbox,range,select-on).
+9. **Erros e lentidão:** carga em ≈4.6 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### lunar-react-ui (time G.A.M.A G.P.T, Cottbus, Germany; enviado às 14:35 UTC), ficha do terceiro bloco, nível 2
+
+[gamagpt.github.io](https://gamagpt.github.io/Lunar-Landing/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "JPL HORIZONS // BODY 301 / LRO QUICKMAP + MOON TREK + CSA INTEGRATED / LUNAR SOUTH POLE NAVIGATOR / WINDOW (BASE (NOV 14)) / 2026-11-14 → 2026-11-21 / ACTIVE CURSOR (H+093) / 2026-11-17 21:00 UTC / SYNC REAL-TIME UTC / NASA SPEC & LINKS / EXPORT CSV / LIVE NAS".
+2. **Rotas:** None (Single Site), vs. Connecting Ridge (C1, vs. Malapert Massif, vs. de Gerlache Rim.
+3. **Controles:** os outros controles da tela são campos (select-one,range,range,range,range,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, DE440, Horizons, Mazarico.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.0 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (0 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Moonshift — Junior Mission Trainer (time Newbie, Universal Event, Anywhere in the World; enviado às 14:39 UTC), ficha do terceiro bloco, nível 3
+
+[moonshift-nasa-2026.vercel.app](https://moonshift-nasa-2026.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "◒ moonshift. / JUNIOR MISSION TRAINER / Restart mission / / YOUR MISSION • THE MOON / / Small crew. / Big decisions. / / Keep two astronauts safe for seven days. Every power unit has a job — and every choice has a consequence. / / ✦ / ✧ / LUNAR OUTPOST / TRAIN".
+2. **Rotas:** ◒ moonshift..
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Space Conquerors — Lunar Exploration & Mission Portal (time Space conquerors, Tumakuru, India; enviado às 14:52 UTC), ficha do terceiro bloco, nível 3
+
+[stirring-panda-1f39dd.netlify.app](https://stirring-panda-1f39dd.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Space Conquerors / Overview / Game / Manual / Play Space Conquerors / / SPACE CONQUERORS · CLPS & SOUTH POLE MISSION PORTAL / / Scroll through lunar lighting, Earth visibility, and Space Conquerors. / / NASA’s Commercial Lunar Payload Services (CLPS) and polar".
+2. **Rotas:** Instruction Manual, Overview, Game, Space Conquerors, Manual.
+3. **Controles:** "Instruction Manual" mudou a tela (novo texto: "OPERATOR DOCUMENTATION /  / Instruction Manual /  / Complete user guide for students, educ"); "Overview" mudou a tela (novo texto: "CLPS & SOUTH POLE MISSION PORTAL /  / Scroll through lunar lighting, Earth visibility, and"); "Game" mudou a tela (novo texto: "Instruction Manual /  / CREDITS: SPACE CONQUERORS /  / Space Conquerors — Lunar Mission Ga").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1016 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/.netlify/scripts/hud`; declarado na tela: Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: aula; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Luna Sight — Lunar Landing Site Navigator (time Ginkgo Orbit, Seoul, South Korea; enviado às 14:55 UTC), ficha do terceiro bloco, nível 2
+
+[kiisophii.github.io](https://kiisophii.github.io/lunar-landing-site-navigator/?sites=SHACKLETON_RIM,ARTEMIS_HAWORTH,APOLLO17&pn=1,2,3&focus=SHACKLETON_RIM&d=2026-11-15&p=29.5&t=7649&open=time), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to the comparison / SKIP / LUNA SIGHT / GitHub / KR / EN / Apollo 17 / Haworth area / Shackleton Rim / Sun / Earth / Sun / Earth / 1 / Mission conditions / Landing date (UTC) / Nov 15, 2026 / Operations period / 7 days / Lunar day (29.5 d) / 90 days / 1 y".
+2. **Rotas:** Skip, KR, EN, Apollo 17, Haworth area, Shackleton Rim, Nov 15, 2026, any, Done, Shackleton Rim
+        S, Haworth area
+        Art, Apollo 17
+        Apollo, Nobile Rim 1 
+        Ar, Mons Mouton
+        Arte, IM-2 Athena
+        CLPS, deGerlache R11
+        S.
+3. **Controles:** "Skip" não mudou o texto da tela; "KR" mudou a tela (novo texto: "비교로 건너뛰기 / SKIP / LUNA SIGHT / GitHub / KR / EN / Apollo 17 / Haworth (region) / Shackleto"); "EN" mudou a tela (novo texto: "Skip to the comparison / SKIP / LUNA SIGHT / GitHub / KR / EN / Apollo 17 / Haworth area /").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://kiisophii.github.io/lunar-landing-site-navigator/version.json`, `https://kiisophii.github.io/lunar-landing-site-navigator/data/ephem.json`, `https://kiisophii.github.io/lunar-landing-site-navigator/data/sites.json`, `https://kiisophii.github.io/lunar-landing-site-navigator/data/ephem.bin`, `https://kiisophii.github.io/lunar-landing-site-navigator/data/horizon_index.json`, `https://kiisophii.github.io/lunar-landing-site-navigator/data/horizon/APOLLO11.json`; declarado na tela: LOLA, LDEM, DE440, DE421, PGDA.
+6. **Validação:** trecho na tela: "Method & validation".
+7. **Funcionalidades:** tem ou cita na tela: inclinação; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** B: o Connecting Ridge não está na lista; o mais perto pelo link é a borda do Shackleton (SHACKLETON_RIM) em dezembro de 2026, um dia lunar: Sol 100%, Terra 44%. A: o IM-2 não está na lista.
+9. **Erros e lentidão:** carga em ≈4.7 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### MoonWindow | Lunar Landing Site Navigator (time The Winners 2026 azare, Azare, Nigeria; enviado às 14:57 UTC), ficha do terceiro bloco, nível 3
+
+[jarferh-tech.github.io](https://jarferh-tech.github.io/MoonWindow/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "MoonWindow / Lunar Landing Site Navigator / Keys / Export Briefing / Play Sun Orbit / Interactive 3D Moon Globe / 3D Globe / 2D Map / Focus Pole / Full Globe / Auto-Spin / + / − / Drag to rotate • Scroll to zoom • Click surface or pins to select / Artemis Expl".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** os outros controles da tela são campos (checkbox,range,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1018 px; a 390 px a página tem 469 px de largura (com rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, inclinação; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (checkbox,range,range).
+9. **Erros e lentidão:** carga em ≈4.9 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Moon Landing Site Navigator (time PATOS, Milano, Italy; enviado às 15:01 UTC), ficha do terceiro bloco, nível 3
+
+[lucanaranza.github.io](https://lucanaranza.github.io/Lunar_Webapp/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "EN / L.A.N.D. – Lunar Area Navigation and Determination / / CLICK TO CONTINUE / / L.A.N.D. – Lunar Area Navigation and Determination / EDUCATIONAL EDITION / EXPERT EDITION / CLICK TO SKIP".
+2. **Rotas:** Register, Back, 100%, 60%, 30%, 1 h, 6 h, 24 h, 7 d, Weighted arithmetic mean, Weighted geometric mean .
+3. **Controles:** "Register" não mudou o texto da tela; "Back" não mudou o texto da tela; os outros controles da tela são campos (text,text,select-one,range,text,text,text,text,password,file,range,range,range,datetime-local,select-one,checkbox,file,r); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://lucanaranza.github.io/api/health`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (text,text,select-one,range,text,text,text,text,password,file).
+9. **Erros e lentidão:** carga em ≈8.0 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### 달 착륙지 비교 (time Nasa-bbajim, Universal Event, Anywhere in the World; enviado às 15:01 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-navigator-sigma.vercel.app](https://lunar-navigator-sigma.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "루나 내비게이터 / 영어 / 달 착륙 후보지 탐색기 / 착륙 후보지를, / 더 명확하게 비교하세요. / / 후보지별 햇빛과 지구 통신 조건을 한 화면에서 비교하세요. / / 후보지 비교 시작 → / 달 남극 후보지 / 드래그해서 둘러보기".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/im-2_sun.json`, `/data/im-2_earth.json`, `/refined/im-2_sun.json`, `/refined/im-2_earth.json`, `/horizon/im-2.json`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunarLook – Lunar Landing Site Scout (time Rocket Surgeons, Delhi, India; enviado às 15:21 UTC), ficha do terceiro bloco, nível 3
+
+[lunarsitelandingproject.netlify.app](https://lunarsitelandingproject.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "🌙 LunarLook – Lunar Landing Site Scout / / Compare up to three landing sites and dates. See where the Sun and Earth sit against the horizon, how long until sunset or Earthset, and when a lander has both power and a direct-to-Earth link. / / New here? Why is th".
+2. **Rotas:** — none —, Shackleton rim (approx.), Malapert massif (approx., Haworth rim (approx.), Nobile rim (approx.), Mons Mouton / IM-2, Chandrayaan-3, Chang’e 4, Apollo 11, Apollo 12, Apollo 14, Apollo 15, Apollo 16, Apollo 17.
+3. **Controles:** os outros controles da tela são campos (datetime-local,select-one,select-one,select-one,range,number,number,text,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/.netlify/scripts/hud`; declarado na tela: LOLA, Horizons; a tela diz "synthetic".
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (datetime-local,select-one,select-one,select-one,range,number).
+9. **Erros e lentidão:** carga em ≈4.3 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Timewalker (time Letmein, Sakarya, Turkey; enviado às 15:21 UTC), ficha do terceiro bloco, nível 2 forte
+
+[lunar-devo.github.io](https://lunar-devo.github.io/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "NASA SPACE APPS CHALLENGE 2026 · SAKARYA / LUNAR TIMEWALKER / / Walk on real NASA Moon terrain; show historic sky events, galaxies, and how cosmic explosions affect Earth and the other planets, in a classroom or on your own. / / Sound: on / Settings / Controls".
+2. **Rotas:** Settings, Controls, Sources, Tutorial, Free Exploration, Explosion Lab, ▶ Spectator Mode, Landing Site NavigatorCo, Events (12), Galaxies (7), Worlds (9), All (12), Moon & Mars, Supernovae & Comet, Planetary Conjunctions, Sun & Eclipse.
+3. **Controles:** "Settings" mudou a tela (novo texto: "/ Settings / Close [Esc] / Language / Türkçe / English / Deutsch / Français / Español / I"); "Controls" mudou a tela (novo texto: "/ Controls / Close [Esc] / Drag / Mouse / Drag to look around (Tab toggles optional mouse"); "Sources" mudou a tela (novo texto: "/  / Data Sources / Close [Esc] /  / Imagery and data come from NASA’s public archives an").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/assets/manifest.textures.json`, `/assets/manifest.data.json`; declarado na tela: LOLA, LDEM, Horizons, PGDA, Barker.
+6. **Validação:** trecho na tela: "A dust storm that began in late May 2018 wrapped all of Mars within weeks. The solar-powered Opportunity rover fell silent in it.".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, aula; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈7.2 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 4 (validação com números na tela); Relevance 3 (2 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### ofoq-lunar-navigator-qpjqggmfeucweboc6c4xen.streamlit.app (time OFOQ | أُفُق, Jeddah, Saudi Arabia; enviado às 15:24 UTC), ficha do terceiro bloco, nível 3
+
+[ofoq-lunar-navigator-qpjqggmfeucweboc6c4xen.streamlit.app](https://ofoq-lunar-navigator-qpjqggmfeucweboc6c4xen.streamlit.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to main content / keyboard_double_arrow_left / أُفُق / OFOQ / / BEYOND THE HORIZON / / ◉ استكشف القمر / / ▦ كاميرا الهبوط / / ☼ الشمس والأرض / / ◇ الخطة البديلة / / الموقع المختار / / خط العرض: -89.00000° / / خط الطول: 0.00000° / / حفظ موقع بديل / / NASA ".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://stats.g.doubleclick.net/j/collect`, `https://qjmnz4vd2y07.statuspage.io/embed/frame`, `/api/v2/app/disambiguate`, `/api/v2/app/context`, `/api/v1/app/event/open`, `/api/v2/app/context`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈7.1 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Selenix · Lunar Site Navigator (time Lunar Selenix, Kharagpur, India; enviado às 15:26 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-selenix.vercel.app](https://lunar-selenix.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Solar System / Moon / Compare / Explorer Mode / Planner Mode / CONNECTING… / LOADING LROC SURFACE MOSAIC / NASA LRO · WAC COLOR · LOLA ELEVATION".
+2. **Rotas:** LUNAR SELENIXLunar Site , Solar System, Moon, Compare, Explorer Mode, Planner Mode, CONNECTING….
+3. **Controles:** "LUNAR SELENIXLunar Site " não mudou o texto da tela; "Solar System" não mudou o texto da tela; "Moon" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://lunar-selenix.onrender.com/api/health`; declarado na tela: LOLA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunaris: lunar landing site navigator (time Da Cool Kids, Coimbatore, India; enviado às 15:28 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-landing-site-navigator-pi.vercel.app](https://lunar-landing-site-navigator-pi.vercel.app/?s=connecting-ridge%402026-12-01T00%3A00%7E30%3Bapollo11%402026-12-01T00%3A00%7E30&t=0.00&v=sky&a=0), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar landing site navigator / / Compare landing sites and dates by when they get sunlight and can see Earth. / / Share / Help / A / Connecting Ridge / B / Apollo 11 / Add site / A / Connecting Ridge / Sunlight / 100% / most / (Sunlight: highest of the sites s".
+2. **Rotas:** Sky view, 3D terrain, Timeline, All numbers, JPL Horizons, NAIF SPICE kernels, LOLA elevation data (PDS, LROC Quickmap, NASA Moon Trek, Fit, Near the horizon, Whole sky, Slow, Normal, Fast, Very fast.
+3. **Controles:** "Sky view" não mudou o texto da tela; "3D terrain" mudou a tela (novo texto: "South pole terrain, lit by the real Sun / Full screen / Exaggerate heights / 1× / At Conne"); "Timeline" mudou a tela (novo texto: "Timeline /  / Days since each site’s landing date. Click anywhere on the bars to jump to t").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://lunar-navigator-api-12on.onrender.com/api/health`, `https://lunar-navigator-api-12on.onrender.com/api/sites`, `https://lunar-navigator-api-12on.onrender.com/api/scenario`, `https://lunar-navigator-api-12on.onrender.com/api/scenario`, `https://lunar-landing-site-navigator-pi.vercel.app/terrain/meta.json`, `https://lunar-landing-site-navigator-pi.vercel.app/terrain/heightmap.bin`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** B (o próprio link de abertura: Connecting Ridge, 01/12/2026, 30 d): Sol 100%, Terra 46%, "Earth comes into view on day 12 and stays for 14 days", Sol a 1,8° e Terra 2,0° abaixo do horizonte às 00:00. Nós: 100%, 46,8%, nascer em 12 d 16 h e pôr em 27/12. **Batem.** A: o IM-2 não está na lista.
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Moon Flyers (time Moon Flyers, Sofia, Bulgaria; enviado às 15:36 UTC), ficha do terceiro bloco, nível 3
+
+[moon-flyers.tail644248.ts.net](https://moon-flyers.tail644248.ts.net/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "⚙ / SETTINGS / ▶ / SITES / + Add / 2 of 19 compared / Shackleton rim / -89.9297°, -139.407° / Connecting Ridge / -89.45°, -140.2° / de Gerlache rim / -88.67°, -68° / Malapert massif / -86°, 0° / IM-1 Odysseus (Malapert A) / -80.13°, 1.44° / IM-2 Athena (Mons M".
+2. **Rotas:** ▶Sites, + Add, Satellite imagery, Topography / altitude co.
+3. **Controles:** "▶Sites" mudou a tela (novo texto: "Lunar landing site navigator / Comparing sites… / Map / Site Comparison / Route Planner /"); "+ Add" mudou a tela (novo texto: "Site name / Latitude (decimal degrees) / Longitude (decimal degrees) / Add site / Cancel /"); os outros controles da tela são campos (checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,che); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 804 px de largura (com rolagem lateral).
+5. **Dados:** conferido na rede: `/api/sites`, `/api/compare`, `/api/sites`, `/api/sites`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (checkbox,checkbox,checkbox,checkbox,checkbox,checkbox,checkb).
+9. **Erros e lentidão:** carga em ≈5.9 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUMINA · Lunar Mission Illumination & Network Analyzer (time DeployOnFriday, Santa Cruz de la Sierra, Bolivia; enviado às 15:41 UTC), ficha do terceiro bloco, nível 2 forte
+
+[cornflowerblue-meerkat-181187.hostingersite.com](https://cornflowerblue-meerkat-181187.hostingersite.com/?s=ridge@2026-11-15T00:00~30~2;shackleton-floor@2026-11-15T00:00~30~2;malapert@2026-11-15T00:00~30~2;im2@2026-11-15T00:00~30~2&a=0&t=0&l=en&v=polar&m=sun), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUMINA / Light and link for landing at the lunar south pole / Landing (UTC) / Duration / 14 d / 30 d / 60 d / 90 d / Height of the mast / 2 m / 10 m / 50 m / Copy link / Tour / Simple / Expert / ES / EN / The sky from Connecting Ridge / / 15 Nov 2026 00:00 UTC".
+2. **Rotas:** 14 d, 30 d, 60 d, 90 d, mast, 2 m, 10 m, 50 m, Tour, Simple, Expert, ES, EN, View in 3D, Connecting RidgePeak of , Compare (1).
+3. **Controles:** "14 d" mudou a tela (novo texto: "96 / viability index, 0 to 100 / In sunlight / 100% / Longest night / none / With Earth li"); "30 d" mudou a tela (novo texto: "83 / viability index, 0 to 100 / In sunlight / 100% / Longest night / none / With Earth li"); "60 d" mudou a tela (novo texto: "4 / viability index, 0 to 100 / In sunlight / 100% / Longest night / none / With Earth lin").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://cornflowerblue-meerkat-181187.hostingersite.com/api/heightmap`, `https://cornflowerblue-meerkat-181187.hostingersite.com/api/horizon`, `https://cornflowerblue-meerkat-181187.hostingersite.com/api/horizon`, `https://cornflowerblue-meerkat-181187.hostingersite.com/api/horizon`, `https://cornflowerblue-meerkat-181187.hostingersite.com/api/horizon`, `https://cornflowerblue-meerkat-181187.hostingersite.com/api/psr`; declarado na tela: LOLA, Horizons.
+6. **Validação:** trecho na tela: "Light 100% of the mission and permanent shadow 2.3 km away: power and science within a rover's reach.".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** A (cenário `im2`, 14 d, mastro de 2 m, pelo link): às 00:00 de 06/03/2025, "30% of the disc visible"; luz 100% da missão, maior escuro de 1 h 15 min, Terra 94% ("Link is lost in 13 d 4 h"). Nós: fração 0,305 às 00:00, Sol e Terra nas 48 h inteiras. **Batem** no começo (30%). B (cenário `ridge`, 89,44°S 137,17°W, 30 d, 2 m): Sol 100%, Terra 46%, noite nenhuma. Nós: 100% e 46,8%. **Batem.**.
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 4 (validação com números na tela); Relevance 2 (0 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Moonward — Mission Control Adventure (time GitCantCommit, Manila, Philippines; enviado às 15:44 UTC), ficha do terceiro bloco, nível 3
+
+[gitcantcommitnasa-web-1qpt.vercel.app](https://gitcantcommitnasa-web-1qpt.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "MOONWARD / / Mission Control Adventure / Plan the light. Read the sky. Make the call. / / Loading… / NASA Space Apps 2026 · Credits & data sources".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/index.wasm`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### SELENARA X (A Modified Lunar Landing Site Navigator) (time Star Ai Lab, Haldia, India; enviado às 15:45 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-navigatorsite.vercel.app](https://lunar-navigatorsite.vercel.app/space), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "SELENARA X / A MODIFIED LUNAR LANDING SITE NAVIGATOR / ☰ / Menu / Space / MISSION JOURNEYS / EARTH → MOON / / Pick a mission to watch its launch site, route and timing animated in the live environment — reconstructed from published event times for flown missio".
+2. **Rotas:** ☰ Menu, Space, Earth, Earth orbit, Moon approach, Moon orbit, Lunar surface, Location, Mission, SELENARA XA MODIFIED LUN, ◷History47 MISSIONS↗, ⚡3D NavigatorHYBRID, ◉Missions, ✦Copilot, paused, 1×.
+3. **Controles:** "× Menu" mudou a tela (novo texto: "× / Menu / ◇ / 3D Navigation / SPACE · MOON / Space / ▾ / ◷ / History / 47 MISSIONS / ↗ /"); "Space" não mudou o texto da tela; "Earth" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://lunar-navigatorsite.vercel.app/api/v1/sources`, `https://lunar-navigatorsite.vercel.app/api/v1/missions`, `https://lunar-navigatorsite.vercel.app/api/v1/lunar/regions`, `https://lunar-navigatorsite.vercel.app/api/v1/landing-sites`, `https://lunar-navigatorsite.vercel.app/api/v1/spacecraft`, `https://lunar-navigatorsite.vercel.app/api/v1/assets`; declarado na tela: Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,text).
+9. **Erros e lentidão:** carga em ≈5.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator (time TK, Ajmer, India; enviado às 15:52 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-landing-site-navigator.netlify.app](https://lunar-landing-site-navigator.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNAR NAVIGATOR / SYS TIME: UTC 12:00:00 / MISSION PARAMETERS / PRESETS / CUSTOM / CANDIDATE LANDING SITE / Shackleton Crater Rim / Connecting Ridge / Malapert Mountain / Haworth Crater Rim / EVALUATION DATE / UTC TIMESTAMP / 12:00 / Sync Ephemeris Data / TARG".
+2. **Rotas:** Shackleton Crater Rim, Connecting Ridge, Malapert Mountain, Haworth Crater Rim.
+3. **Controles:** os outros controles da tela são campos (select-one,text,number,number,number,number,date,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/.netlify/scripts/hud`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,text,number,number,number,number,date,range).
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### ByteTheMoon · Lunar Landing Site Navigator (time BYTE THE MOON, Milano, Italy; enviado às 15:52 UTC), ficha do terceiro bloco, nível 3
+
+[byte-the-moon-weld.vercel.app](https://byte-the-moon-weld.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Data attribution / ByteTheMoon / Insights / Lunar Landing Site Navigator · basemap: NASA Moon Trek / LANDING SITES / Expand / Past missions / Artemis mission LS / My landing sites / Selected point / Show landing-site markers / Go to coordinates / Go / Region f".
+2. **Rotas:** Insights, Start tutorial, Skip, Choose a site…, Apollo 11 · Tranquility , Apollo 12, Apollo 14, Apollo 15 · Hadley–Apenn, Apollo 16 · Descartes, Apollo 17 · Taurus–Littr, Chang'e 3, Chang'e 4 · von Kármán, Chang'e 6 · Apollo basin, Chandrayaan-3 · Shiv Sha, IM-1 Odysseus · Malapert, Blue Ghost M1 · .
+3. **Controles:** "Insights" mudou a tela (novo texto: "Off / › / Choose a site… / Apollo 11 · Tranquility Base / Apollo 12 / Apollo 14 / Apollo 1"); "Start tutorial" mudou a tela (novo texto: "Navigate the Moon / 1 / 10 /  / Drag to rotate, scroll to zoom, Ctrl + drag (or drag with"); "Skip" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/dem/index.json`, `/data/slope/index.json`, `/data/sky/index.json`, `/cesiumStatic/Assets/approximateTerrainHeights.json`, `/data/sites.json`, `/radiation/radiation_overlay.json`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (checkbox,text,select-one,text,date,text,date,checkbox,checkb).
+9. **Erros e lentidão:** carga em ≈4.5 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Landy — Lunar Landing Site Evaluator & Flight Operations (time Nyawit, Jakarta, Indonesia; enviado às 15:53 UTC), ficha do terceiro bloco, nível 3
+
+[nasa.taruna.me](https://nasa.taruna.me/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "landy / target fix selector / scanner / matrix / cursor: -89.90° Lat, +0.00° Lon / target fix selector / hazard >5° / KNOWN SITES / Shackleton Crater Rim (South Pole) / Malapert Mountain (Mons Malapert) (South Pole) / Connecting Ridge (Shackleton-de Gerlache) ".
+2. **Rotas:** Shackleton Crater Rim (S, Malapert Mountain (Mons , Connecting Ridge (Shackl, de Gerlache Rim 2 (South, Mons Mouton South Platea, Nobile Crater Rim (Mons , Hermite North Polar Smoo, Intuitive Machines IM-1 , Chandrayaan-3 (Shiv Shak, Sinus Medii Alpha (Nears, Mare Ingenii Floor (Fars, Chang'e 6 (Apo.
+3. **Controles:** os outros controles da tela são campos (select-one,number,number,number,range,range,range,select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/api/sites`, `/api/ephemeris`, `/api/forecast`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,number,number,number,range,range,range,select-one).
+9. **Erros e lentidão:** carga em ≈7.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### SELENE SCOUT — Lunar Landing Site Navigator (time Plero, Singapore, Singapore; enviado às 15:54 UTC), ficha do terceiro bloco, nível 3
+
+[selene-scout-kpyt6jazya-as.a.run.app](https://selene-scout-kpyt6jazya-as.a.run.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "◎ / SELENE SCOUT / / LUNAR LANDING SITE NAVIGATOR / / AI-powered analysis of Artemis candidate landing zones at the Lunar South Pole. Real-time 3D terrain, physics-accurate solar illumination, and a Mission Control Council that tells you exactly why you should".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/cesium/Assets/approximateTerrainHeights.json`, `/api/sites`, `/cesium/Assets/IAU2006_XYS/IAU2006_XYS_18.json`, `https://dev.virtualearth.net/REST/v1/Imagery/Metadata/Aerial`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, IA; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈8.0 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Site Planner (time Dell Monitors, KUALA LUMPUR, Malaysia; enviado às 15:55 UTC; Arairo/NASA_lunarmoon, repositório 30), ficha do terceiro bloco, nível 2
+
+[arairo.github.io](https://arairo.github.io/NASA_lunarmoon-/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "🔊 / Skip intro / NASA SPACE APPS 2026 · LUNAR SOUTH POLE / Lunar Site Planner / / Find where the Sun keeps your lander powered and Earth stays in view to call home. / / Start / About this project / 29 lunar sites / NASA LOLA terrain horizons / Matches JPL Hori".
+2. **Rotas:** Mission Explorer, Compare
+          0, −1d, +1d, Reset Date, Beginner, 🔊, ☀︎, Explain, Guide me, Spacecraft, + Coords, All, Best-Lit, South Pole, CLPS.
+3. **Controles:** "Mission Explorer" não mudou o texto da tela; "Compare
+          0" mudou a tela (novo texto: "Scenario Comparison Lab /  / Compare sites side by side, test launch slips of one to three"); "−1d" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, atraso; não vi: dispersão de pouso, horizonte plano, DSN, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈5.0 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 3 (2 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNE: Mission Control (time PSCUPM-Albert and the Einsteins, KUALA LUMPUR, Malaysia; enviado às 15:57 UTC), ficha do terceiro bloco, nível 3
+
+[vocal-blancmange-302e59.netlify.app](https://vocal-blancmange-302e59.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNE / MISSION CONTROL / Every landing site is a decision. Every hour matters. / START ADVENTURE / SCIENTIFIC SANDBOX / Sound / HALO assistant / Reduce motion / Mission Control · Independent NASA Space Apps entry, not an official NASA tool · NASA JPL Horizons ".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, IA; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.6 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LuNav | Plan your mission (time Project Hail Mayari, Universal Event, Anywhere in the World; enviado às 15:58 UTC), ficha do terceiro bloco, nível 3
+
+[lunav-phi.vercel.app](https://lunav-phi.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LuNav / / Let's Get You to the Moon. / / MISSION DATE / TODAY + 3 DAYS / TODAY + 1 WEEK / TODAY + 1 MONTH / / Manual entry default • quick presets start today in your timezone. / / LANDING SITE / MANUAL ENTRY / PREDEFINED / PIN COORDINATES / MORE SETTINGS / MI".
+2. **Rotas:** TODAY + 3 DAYS, TODAY + 1 WEEK, TODAY + 1 MONTH, MANUAL ENTRY, PREDEFINED, PIN COORDINATES, MORE SETTINGS, FIND LANDING SITES, FIND LANDING WINDOWS, POPULAR, RESULTS, COMPARE, HELPER, IM-2 Athena (2025)Near M, IM-1 Odysseus (2024)Near, Chandrayaan-3 (2023)Shiv.
+3. **Controles:** "TODAY + 3 DAYS" não mudou o texto da tela; "TODAY + 1 WEEK" não mudou o texto da tela; "TODAY + 1 MONTH" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, inclinação; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (date,number,number,number,number,number,number,select-one,se).
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Accueil — CisLunar (time Cislunar, Montréal, Canada; enviado às 15:59 UTC), ficha do terceiro bloco, nível 3
+
+[zachrobitaille.github.io](https://zachrobitaille.github.io/CisLunar/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Aller au contenu / CisLunar / Accueil / Comprendre / Les lieux / Solutions / Le logiciel / Aperçu / Tutoriel / L’équipe / FR / EN / / COMPARAISON DE SITES ET DE DATES / / Simuler les conditions / d’un alunissage / / CisLunar est un simulateur en développement ".
+2. **Rotas:** Animation : activée, CisLunarLUNAR HORIZON, Accueil, Comprendre, Les lieux, Solutions, Le logiciel, Aperçu, Tutoriel, L’équipe, FR, EN.
+3. **Controles:** "Animation : désactivée" mudou a tela (novo texto: "désactivée /  / À VOUS D’EXPLORER /  / Choisir un site. / Comparer les dates. /  / Projet"); a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.6 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### SELENE-3D · LA LA LAND (time La La Land, KUALA LUMPUR, Malaysia; enviado às 15:59 UTC), ficha do terceiro bloco, nível 2
+
+[sparkling-gecko-a794e1.netlify.app](https://sparkling-gecko-a794e1.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "SELENE-3DLA LA LAND / ☰ Sites / Grid / Markers / Sun & Earth / Relief ×4 / ◎ Inspect / 🚙 Rover / ⇄ Compare / ⌖ Reset view / Light / Sky / Power · Link / Planning / All / Landing sites / Ice / PSR / Features / Apollo 11 · Tranquility Base / 0.67°, 23.47° / Apol".
+2. **Rotas:** Image centred on 0° lon, Image starts at 0° (0–36, Wide, Regional, Site, Flat, horizontal, Vertical, az-tracking, Full Sun-tracking, S 2.2 GHz, X 8.4 GHz, Ka 26 GHz, 10, 15, 20, 25, 30.
+3. **Controles:** os outros controles da tela são campos (text,text,text,text,text,file,text,file,file,select-one,file,select-one,checkbox,number,number,number,number,number,numb); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, Astronomy Engine, PGDA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈4.6 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator (time Brickheads, Cochabamba, Bolivia; enviado às 15:59 UTC; diegodev-01/Brickheads---Lunar-Landing-Site-Navigator, repositório 724), ficha do terceiro bloco, nível 3
+
+[brickheads-lunar-landing-site-navig.vercel.app](https://brickheads-lunar-landing-site-navig.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Landing Site Navigator ☾ / / Pick a spot on the Moon and see, in plain words, if it is a good place to land. / / Simple / Expert / Plan your landing / Answer the three questions below. / Pick a spot on the Moon map (click it, or use Yaw and Pitch). / Rea".
+2. **Rotas:** Simple, Expert, ▼ South pole zone: full , 🌐 Whole Moon, ASpot A98 / 100Go there , BSpot B97 / 100Go there , CSpot C95 / 100Go there , 1 day, 1 week, 2 weeks, 1 month (a full lunar da, 2 months.
+3. **Controles:** "Simple" não mudou o texto da tela; "Expert" mudou a tela (novo texto: "Shackleton – de Gerlache corridor · mission-planning panel · NASA LOLA + JPL Horizons /  /"); "▼ South pole zone: full " mudou a tela (novo texto: "+ / – / 🌐 Whole Moon / 🔍 South pole close-up / LAYER: Overall suitability /  / How good ea").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/region.json`, `/data/sites.json`, `/data/ephemeris.json`, `/data/grid/grid.json`, `/data/sensors/sensors.json`, `/data/sensors/sensors.bin.gz`; declarado na tela: LOLA, Horizons, PGDA, Mazarico, Barker; a tela diz "simulated".
+6. **Validação:** trecho na tela: "Grid check: our 14-month Sun/Earth visibility vs NASA's independent 18.6-year maps correlate at r = 0.984 (Sun) and r = 0.971 (Earth); mean differences 1.4 and 5.4 points.".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (date,select-one,radio,radio,radio,radio,number,range,number,).
+9. **Erros e lentidão:** carga em ≈3.9 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Window | South Pole Mission Planner (time Horizon Circuits, Surabaya, Indonesia; enviado às 16:03 UTC), ficha do terceiro bloco, nível 2 forte
+
+[fowlu.github.io](https://fowlu.github.io/lunar-window-planner/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to comparison / ◒ Lunar Window / Planner / NASA data / Pause motion / / NASA Space Apps Challenge / Lunar Landing Site Navigator / / When can a lander see Earth? / / Compare lunar touchdown sites for a clear view of Earth and enough time in sunlight. See ".
+2. **Rotas:** Pause motion, Reset demo, Set 30-day window, LOLA terrain, Flat reference, Test 2026-11-17 06:00 UT, Test 2026-11-17 12:00 UT, Test 2026-11-18 00:00 UT, Earth within 2 hours?, What if the antenna is 5, Find terrain blockage, ◒ Lunar Window, Planner, NASA data, Malapert Massif, de Gerlache Rim 2.
+3. **Controles:** "Play motion" mudou a tela (novo texto: "lay motion /  / NASA Space Apps Challenge / Lunar Landing Site Navigator /  / When can a l"); "Reset demo" mudou a tela (novo texto: "0:10 UTC /  / Export comparison CSV / Mission questions /  / The planner ranks the evaluat"); "Set 30-day window" mudou a tela (novo texto: "2-17 00:00 UTC · 2 m antenna /  / LOLA terrain / Flat reference /  / de Gerlache Rim 2 is").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, Horizons.
+6. **Validação:** trecho na tela: "Try a deadline such as “within two hours” or an antenna height of 2 m or 5 m.".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈4.9 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 4 (validação com números na tela); Relevance 2 (0 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Heuristics · Lunar site navigator (time Lunar Heuristics:, Universal Event, Anywhere in the World; enviado às 16:04 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-heuristics.vercel.app](https://lunar-heuristics.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to explorer / ◒ / LUNAR HEURISTICS / Data & methodology ↗ / / LUNAR LANDING SITE NAVIGATOR / / Find your window. / / One Moon. Different horizons. Compare light and connection before you land. / / NASA / JPL HORIZONS / 01 / LOCATION / MEAN-EARTH FRAME / O".
+2. **Rotas:** Load bundled demo, Compare reference sites , ◒LUNAR HEURISTICS, Data & methodology ↗, Polar site A, Polar site B, Equatorial reference, Custom coordinates, 7 Earth days, 14 Earth days, 30 Earth days.
+3. **Controles:** "Load bundled demo" mudou a tela (novo texto: "Bundled JPL data · 721 hourly samples · 2026-11-15 / 15 DEC · UTC /  / LOCAL SKY / AZIMUTH"); "Compare reference sites " mudou a tela (novo texto: "Comparison ready · same UTC dates and clearance for every site. /  / LOCAL SKY / AZIMUTH &"); os outros controles da tela são campos (select-one,number,number,date,select-one,range,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/polar-a.json`, `/data/polar-b.json`, `/data/equator.json`; declarado na tela: Horizons.
+6. **Validação:** trecho na tela: "Observation time within selected window".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,number,number,date,select-one,range,range).
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### PLUTON | Polar Lunar Utilities, Topography & Orbital Navigator (time Pheonix Knights, Amaravati, India; enviado às 16:06 UTC), ficha do terceiro bloco, nível 2
+
+[bhuvan-reddy-07.github.io](https://bhuvan-reddy-07.github.io/Pluton-NSA/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "PLUTON / v2.5 HUD / Tactical Lunar Mission Console / TARGET: / Shackleton Connecting Ridge / SUN / DTE: / 83% / 39% / PRIMARY CONSOLE VIEWS / 3D TACTICAL HUD / LIVE / 1 / SITE ASSESSMENT / GO / 2 / LAUNCH WINDOWS / 3 / MISSION EVENTS / 4 / ASTRODYNAMIC CENTERS".
+2. **Rotas:** Shackleton Connecting Ri, Malapert Massif Peak (-8, Mons Mouton (IM-2 / VIPE, Nobile Crater Rim 1 (-85, De Gerlache Crater Rim 2, CSA LEAP Traverse (Shack, Shiv Shakti Point (Chand, Haworth Crater Floor (PS, CSA LEAP Lunar Utility R, NASA CLPS Nova-C / Griff, Artemis III Crewed HLS /, Legacy Equator.
+3. **Controles:** os outros controles da tela são campos (select-one,select-one,range,range,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/Moon_NASA_LRO_15k_Grid_Small.glb`; declarado na tela: LOLA, SPICE.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: DSN; não vi: dispersão de pouso, horizonte plano, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.5 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### NASA LUNAR DIGITAL TWIN – ERAH MOON EXPLORER (time Alien Cats, Eskişehir, Turkey; enviado às 16:07 UTC), ficha do terceiro bloco, nível 3
+
+[nilk12186-code.github.io](https://nilk12186-code.github.io/NasaSpaceAppChallange/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Apollo 12 / Apollo 14 / Chang'e 3 & Yutu / Chang'e 5 / Luna 17 & Lunokhod 1 / Copernicus Krateri / Aristarchus Platosu & Krateri / NASA LUNAR DIGITAL TWIN – ERAH / / IAU 2000 Ay Referans Küresi (R = 1737.4 km) • SLDEM2015 / LROC / Diviner / M3 Bilimsel Veri Si".
+2. **Rotas:** 🇹🇷 TR, 🇬🇧 EN, 🇩🇪 DE, 🇫🇷 FR, Hızlı Bilimsel Hedef Seç, 🏛️ Üs Adayı: Shackleton, 🏛️ Üs Adayı: Malapert M, 🚀 Apollo 11 (Mare Tranq, ❄️ Shackleton Krateri (G, 🧭 Ay Güney Kutbu (-90.0, ⛰️ Mons Huygens - En Yük, 💧 Cabeus Krateri - LCRO, 💥 Tycho Krateri (-43.31, 🛰️ Chang'e 4 - Von Kárm, 🇮🇳 Chandrayaan-3 - .
+3. **Controles:** os outros controles da tela são campos (range,select-one,number,number,select-one,select-one,range,checkbox,range,checkbox,range,checkbox,range,checkbox,range,c); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, LDEM.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (range,select-one,number,number,select-one,select-one,range,c).
+9. **Erros e lentidão:** carga em ≈6.5 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Crescent — Lunar Landing Site Navigator (time Crescent Dev, Universal Event, Anywhere in the World; enviado às 16:10 UTC), ficha do terceiro bloco, nível 2
+
+[akzoialzhn9.github.io](https://akzoialzhn9.github.io/crescent-lunar-navigator/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Crescent / / Lunar Landing Site Navigator · south pole / / Planner / 3D terrain / How it works / Loading NASA LOLA terrain & JPL Horizons ephemeris… / SOUTH POLE MAP / Scroll to zoom · drag to pan · click to drop a custom site / candidate site / selected / Sun".
+2. **Rotas:** 1 lunar day (30 d), 3 months, 1 year, 0° (horizon), 1°, 2°, 5°, 3 days, 6.5 days, 14 days, 90%, 95%, 100%.
+3. **Controles:** os outros controles da tela são campos (number,number,date,select-one,select-one,range,range,range,range,select-one,select-one,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/sites.json`, `/data/meta.json`, `/data/ephem.bin`, `/data/dem_near.bin`, `/data/dem_far.bin`; declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈4.0 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunarNav – Lunar Landing Site Explorer (time OPAQUE, Thrissur, India; enviado às 16:10 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-explorer.vercel.app](https://lunar-explorer.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LunarNav / NASA Selenographic Explorer / / Interactive 3D Moon & Landing Site Navigation / / Sea of Tranquility (Mare Tranquillitatis) / · / 0.67°N, 23.47°E / · / Sun, 15 Nov 2026 17:42:20 UTC / AI Best Sites / Mission / Report / First Quarter / · / 44% Lit / ".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** os outros controles da tela são campos (text,date,time); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** trecho na tela: "COORDINATE ACCURACY LEVEL".
+7. **Funcionalidades:** tem ou cita na tela: IA; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (text,date,time).
+9. **Erros e lentidão:** carga em ≈3.9 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNARIS | Which day, which spot to land? (time Quasar ⭐, Gaziantep, Turkey; enviado às 16:10 UTC), ficha do terceiro bloco, nível 2
+
+[lunaris.quasacode.com](https://lunaris.quasacode.com/en/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / LUNARIS / Menu / Which day, / which spot / to land? / / At the pole the Sun and Earth move just above the horizon. A small change in place or date can completely change power and communication. / / Start planning / Start the tour / Lunar logb".
+2. **Rotas:** Skip to content, LUNARIS, Home, Planner, Expert analysis, Site detail, Compare, Missions, Simulation, About, Library, Türkçe.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://lunaris.quasacode.com/veri/guncel.json`, `https://lunaris.quasacode.com/veri/v2-20c189d598/manifest.json`, `https://lunaris.quasacode.com/veri/v2-20c189d598/siteler.json`, `https://lunaris.quasacode.com/veri/v2-20c189d598/bolgeler.json`, `https://lunaris.quasacode.com/veri/v2-20c189d598/dogrulama.json`, `https://lunaris.quasacode.com/veri/v2-20c189d598/hesap.json`; declarado na tela: LOLA, SPICE, DE440.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈7.7 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNAR HORIZON — Lunar Landing Site Navigator (time Plastic Tree, Universal Event, Anywhere in the World; enviado às 16:12 UTC), ficha do terceiro bloco, nível 3
+
+[gankonadoni95.github.io](https://gankonadoni95.github.io/Lunar-Horizon/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNAR HORIZON / / LUNAR HORIZON translates NASA LRO and JPL Horizons data into a rapid, interactive 3D evaluation of lunar landing sites. Fly the mission with real orbital physics and see at a glance which site and date give a safe soft landing. / / Real Astro".
+2. **Rotas:** ENTER SIMULATION, Clear Sky, Overcast, Thunderstorm, Low, Moderate geomagnetic sto, Severe solar flare, Shackleton Crater Rim, Malapert Massif, Connecting Ridge, Apollo 11 (Mare Tranquil, Chang'e 5 (Mons Rümker), Mons Mouton (Artemis III, Apollo 16 (Descartes Hig, Apollo 17 (Taurus-Littro, Chandraya.
+3. **Controles:** "ENTER SIMULATION" mudou a tela (novo texto: "z z / LUNAR HORIZON / Lunar Landing Site Navigator / Team Plastic Tree · Astana, Kazakhsta"); os outros controles da tela são campos (range,range,range,range,select-one,select-one,select-one,number,number,number,number,datetime-local,text,range,checkbox,); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: IA; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (range,range,range,range,select-one,select-one,select-one,num).
+9. **Erros e lentidão:** carga em ≈4.1 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNARIS — Lunar Explorer (time Mochileiros das Galáxias, Luanda, Angola; enviado às 16:13 UTC), ficha do terceiro bloco, nível 3
+
+[lunarisproject.vercel.app](https://lunarisproject.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "L / LUNARIS / LUNAR EXPLORER / Mission Overview / Lunar Explorer / Site Comparison / Analysis History / Data & Models / API: configured / Base: /api/v1 (proxy) / Lunar Explorer / Lunar exploration and analysis · up to 3 sites in comparison / Sites: 0/3 / Data:".
+2. **Rotas:** EN, PT, ES, 1, 3, 6, 12, 24.
+3. **Controles:** os outros controles da tela são campos (select-one,date,date,select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1014 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride; a tela diz "synthetic", "mock".
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,date,date,select-one).
+9. **Erros e lentidão:** carga em ≈5.0 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Перевірка місячної ділянки (time RPM, Dnipro, Ukraine; enviado às 16:13 UTC), ficha do terceiro bloco, nível 3
+
+[tarashunchak.github.io](https://tarashunchak.github.io/NasaHackathon/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Перевірка місячної ділянки / / Сонце й Земля над місцем посадки. Два сценарії, спільна шкала часу. UTC. / / UA / EN / Світла / Темна / Як це працює / Пуск / 0.25× / 0.5× / 1× / 2× / +0 дн 0 год / Обмеження місії / / Це пороги для попереднього відбору, а не мод".
+2. **Rotas:** UA, EN, Світла, Темна, Копіювати посилання на с, Експортувати CSV, 0.25×, 0.5×, 1×, 2×, Apollo 11 (База Спокою), Apollo 15 (звивина Хедлі, Apollo 17 (Тавр-Літтров), Chandrayaan-3 (точка Шив, Малаперт A (IM-1 «Одіссе, Власні координати.
+3. **Controles:** "UA" não mudou o texto da tela; "EN" mudou a tela (novo texto: "Lunar site check /  / Sun and Earth at a landing site. Two scenarios, one timeline. UTC. /"); "Light" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/sites.json`, `/data/horizons/chandrayaan-3.json`, `/data/horizons/im-1.json`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** trecho na tela: "WITHIN MISSION LIMITS".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,range,number,number,number,select-one,number,numb).
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNA NAV — Lunar South Pole Landing Site Intelligence (time Asteriq, Shivamogga, India; enviado às 16:16 UTC), ficha do terceiro bloco, nível 3
+
+[nasa-hackathon-one.vercel.app](https://nasa-hackathon-one.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNA NAV / | / LUNAR SOUTH POLE LANDING INTELLIGENCE & NAV / MISSION: / ARTEMIS-III-SPT / DATA: / 6/6 VERIFIED / STATUS: / OPERATIONAL / 2026-11-15 17:42:56.69 UTC / AUTONOMOUS ENGINE / NAVIGATION MODULES / 1. Mission Overview / 2. Lunar Navigator / CORE / 3. ".
+2. **Rotas:** 1. Mission Overview, 2. Lunar NavigatorCORE, 3. Terrain Intelligence, 4. Illumination Analysis, 5. Landing Site Evaluati, 6. Site Comparison, 7. Mission Planner, 8. Reports, 9. Data Sources, 10. Settings.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** trecho na tela: "LOLA GDR Topography Transects Validated".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNARISE · Lunar Landing Site Navigator (time Lunarise, Dhaka, Bangladesh; enviado às 16:17 UTC), ficha do terceiro bloco, nível 3
+
+[abrupt-omelet-ovqyt.ship.place](https://abrupt-omelet-ovqyt.ship.place/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNARISE / LUNAR LANDING SITE NAVIGATOR · NASA SPACE APPS 2026 / UTC date/time / −1 d / −1 h / +1 h / +1 d / +1 lunar day / Planner mode / Explorer mode / Now / ▶ Play / 1 h/s / 6 h/s / 1 d/s / SITES · RANKED BY SCORE / All regions / Polar (≤ −80°) / South mid".
+2. **Rotas:** Planner mode, Explorer mode, 1 h/s, 6 h/s, 1 d/s, All regions, Polar (≤ −80°), South mid (−80…−60°), Low latitude, All programs, Artemis III, Artemis III / CLPS, CLPS, ISRO, CNSA, Apollo 11.
+3. **Controles:** os outros controles da tela são campos (datetime-local,select-one,select-one,search,select-one,select-one,range,range,range,checkbox,checkbox,checkbox,checkbox,); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, inclinação; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (datetime-local,select-one,select-one,search,select-one,selec).
+9. **Erros e lentidão:** carga em ≈5.1 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Skyline · What brings you to the Moon? (time HexaKong, Jakarta, Indonesia; enviado às 16:18 UTC), ficha do terceiro bloco, nível 3
+
+[skyline.dftrg.com](https://skyline.dftrg.com/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "POINT UNDER EARTH / Skyline / / What brings you to the Moon? / / Just curious? / Explore the Moon / / Fly from the whole Moon down to a polar ridge, and see why a few metres change everything. / / Ready to experiment? / Try the simulation / / Predict, move the".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈10.8 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunarWindow — Landing Site & Date Planner (time Fl2mw, Hyderabad, India, India; enviado às 16:21 UTC), ficha do terceiro bloco, nível 3
+
+[fl2mw.github.io](https://fl2mw.github.io/lunarwindow/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LunarWindow / / Compare lunar landing sites & dates in seconds — Sun power, Earth comms, and how long until dark. / / 1 · LANDING SITE / Connecting Ridge, Shackleton (approx.) / de Gerlache Rim (approx.) / Malapert Massif (approx.) / Nobile Rim region (approx.".
+2. **Rotas:** Connecting Ridge, Shackl, de Gerlache Rim (approx., Malapert Massif (approx., Nobile Rim region (appro, IM-2 Athena — Mons Mouto, IM-1 Odysseus — Malapert, Blue Ghost M1 — Mare Cri, Chandrayaan-3 Vikram (In, Luna 25 target, Boguslaw, SLIM (Japan), Chang'e 4 — far side (Ch, Chang'e 6 — far side (Ch, .
+3. **Controles:** os outros controles da tela são campos (select-one,number,number,datetime-local,number,number,number,select-one,select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** trecho na tela: "y ch. 47, physical libration ch. 53), including optical and physical libration and Earth’s topocentric parallax. Checked against Apollo landings (Sun elevation within ~0.1°) and Meeus’ example 53.a. Terrain is modelled a".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,number,number,datetime-local,number,number,number).
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Navigator | Lunar surface conditions (time The Starseekers, Singapore, Singapore; enviado às 16:24 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-navigator-spaceapps.vercel.app](https://lunar-navigator-spaceapps.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNAR NAVIGATOR / Skip intro / LUNAR NAVIGATOR / Explore / Compare / Method / About / Look at site / Pick site / Inspection light / Choose a place. See the conditions. / / Drag the map or move the crosshair. Sun and Earth directions update for the selected loc".
+2. **Rotas:** Skip intro, Explore, Compare, Method, About, Look at site, Pick site, Inspection light, How it works, Dismiss, Hide, Compare sites, Methods, Lunar Navigator, Local east, north, up, Moon-fixed ME.
+3. **Controles:** "Skip intro" mudou a tela (novo texto: "Explore / Compare / Method / About / Look at site / Pick site / Inspection light / Choose"); "Explore" não mudou o texto da tela; "Compare" mudou a tela (novo texto: "Back to map / Compare sites /  / See how a different location or date changes the measured").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/assets/visual/south-pole-lola-visual1025.bin`, `/assets/ephemeris/manifest.json`, `/assets/terrain/manifest.json`, `/assets/terrain/regional.json`, `/assets/terrain/far.json`, `/assets/terrain/shackleton-polar20.bin`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,radio,radio,checkbox,checkbox,select-one,number,n).
+9. **Erros e lentidão:** carga em ≈7.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNARIS 3.1 | Lunar Mission Control (time The Prototype, Thrissur, India; enviado às 16:25 UTC), ficha do terceiro bloco, nível 3
+
+[lunaristheprototype-71bd90.netlify.app](https://lunaristheprototype-71bd90.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "◐ LUNARIS / LUNAR SOUTH POLE MISSION CONTROL · VERSION 3.2 / ● SYSTEM ONLINE · EDUCATIONAL SIMULATION / OVERVIEW / HORIZON / SITE COMPARISON / EARTH / MOON / MISSION LAB / SATELLITE DATABASE / ABOUT / 01 / MISSION CONTROL / Explore the lunar south pole. / / A ".
+2. **Rotas:** Shackleton Rim, De Gerlache Rim, Haworth Crater Region, Custom coordinates, Communications Relay Sat, High-Resolution Imaging , Polar Science Satellite, Synthetic Aperture Radar, Thermal Mapping Orbiter, Laser Altimetry Satellit, All technologies, Imaging, Radar, Scientific instruments, Communicatio.
+3. **Controles:** os outros controles da tela são campos (select-one,date,number,number,range,radio,radio,checkbox,select-one,number,number,number,number,search,select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; não medi a 390 px.
+5. **Dados:** conferido na rede: `/.netlify/scripts/ar`, `/.netlify/scripts/hud`, `/.netlify/scripts/hud`, `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/2/1/1`, `https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/2/1/1`, `https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/2/1/2`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,date,number,number,range,radio,radio,checkbox,sel).
+9. **Erros e lentidão:** carga em ≈4.8 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunarSight — NASA-sourced data explorer (time Lunar Conqueror, Ho Chi Minh, Vietnam; enviado às 16:26 UTC), ficha do terceiro bloco, nível 3
+
+[lunarsight.vercel.app](https://lunarsight.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Sun: no time cursor. Earth: no time cursor. Lighting: neutral light (no Sun direction for this site yet). / Relief / Elev / Aa / Fill / HD / i / Neutral light · no Sun direction yet / Fill light · display aid / LunarSight / Site 04 — Shackleton rim / Computing".
+2. **Rotas:** Relief, Elev, Aa, Fill, HD, Site 04 — Shackleton rim, Site overview, Ground view, Cancel, Site 01 — Connecting rid, Site 06 — Nobile Rim 1-8, Site 07 — Peak Near Shac, Site 11 — de Gerlache ri, Site 20 — Leibnitz Beta , Site 23 — Malapert Massi, Haworth-86.764° · 337.22.
+3. **Controles:** "Relief" não mudou o texto da tela; "Elev" não mudou o texto da tela; "Aa" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/pilot/terrain_manifest.json`, `/data/pilot/terrain_south_pole_480m.bin`, `/data/pilot/terrain_site04_5m.bin`, `/data/pilot/terrain_site01_40m.bin`, `/data/pilot/terrain_site04_40m.bin`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (number,number,datetime-local,number,number,text,select-one,s).
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Site Navigator (time team98792837, Universal Event, Anywhere in the World; enviado às 16:26 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-navigator-drab.vercel.app](https://lunar-navigator-drab.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Site Navigator / Landing-site light & comms / Simulation / Compare places / Best months / Ask AI / How it works / NASA terrain · 5 places / Matches JPL · 0.004° / AI · off / Places / Connecting Ridge, Athena site (IM-2), Apollo 11 / Landing (UTC) / for /".
+2. **Rotas:** Connecting Ridge, Athena.
+3. **Controles:** "Connecting Ridge, Athena" mudou a tela (novo texto: "South pole · real terrain / Connecting Ridge / One of the best-lit spots at the pole / Sha"); os outros controles da tela são campos (datetime-local,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/api/ask`; declarado na tela: LOLA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, IA; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (datetime-local,range).
+9. **Erros e lentidão:** carga em ≈4.6 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### SiteLight AI · Lunar Landing Site Navigator (time sitelight, Coimbatore, India; enviado às 16:28 UTC), ficha do terceiro bloco, nível 3
+
+[sitelight.vercel.app](https://sitelight.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "SiteLight / Explore / Compare / Screening / Evidence / Demo video / ↥ Export / Moon maps: NASA’s Scientific Visualization Studio · artistic studio lighting / + / − / ↺ / Shackleton rim / Mission / A / Shackleton rim / ✓ / B / Nobile rim / 13 Jan 2027 / 7 days ".
+2. **Rotas:** SiteLight, Real data · DEM + DE421, JPL reference · tangent , Sample · synthetic demo, Shackleton · DEM study p, Connecting ridge · DEM s, de Gerlache · DEM study , Nobile · DEM study point, Peak near Shackleton · D, Malapert · DEM study poi.
+3. **Controles:** os outros controles da tela são campos (select-one,checkbox,checkbox,checkbox,range,select-one,datetime-local,number,range,number,number,number); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/api/science/capabilities`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,checkbox,checkbox,checkbox,range,select-one,datet).
+9. **Erros e lentidão:** carga em ≈6.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator (time BK_SLAYER, Ho Chi Minh, Vietnam; enviado às 16:29 UTC), ficha do terceiro bloco, nível 2
+
+[lunar-navigator-six.vercel.app](https://lunar-navigator-six.vercel.app/?start=2028-01-01&end=2028-06-30&panelMode=auto&scope=region&stay=6&dark=24&comm=12&panel=1000&battery=10000&load=300&radius=10&mode=simple&screen=map), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Landing Site Navigator / / Tell us your landing spot and your mission's limits. We find the best nearby sites and dates. / / Plan with AI / Language / English / Tiếng Việt / Deutsch / Русский / 한국어 / 日本語 / Español / Simple / Expert / Map & scenario / Res".
+2. **Rotas:** Plan with AI, Simple, Expert, Map & scenario, Results, Cell detail, Globe, Learn, About, South pole, 1 h, 6 h, Help me get started Fill, Try an example, Grid cell, Famous site.
+3. **Controles:** "Plan with AI" não mudou o texto da tela; "Simple" não mudou o texto da tela; "Expert" mudou a tela (novo texto: "ongest dark period allowed (h) / Longest comm loss allowed (h) / Panel power at full Sun (").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://lunar-navigator-six.vercel.app/data/regions.json`, `https://lunar-navigator-six.vercel.app/data/ephemeris.json`, `https://lunar-navigator-six.vercel.app/data/sites.json`, `https://lunar-navigator-six.vercel.app/maps/maps.json`, `https://lunar-navigator-six.vercel.app/data/cap/index.json`, `https://lunar-navigator-six.vercel.app/data/dsn.json`; declarado na tela: LOLA, LDEM, Horizons, PGDA.
+6. **Validação:** trecho na tela: "Within a radius".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunaScope | Lunar Landing Site Navigator (time LunarScope, Bangalore, India; enviado às 16:30 UTC), ficha do terceiro bloco, nível 3
+
+[elegant-valkyrie-c5bd62.netlify.app](https://elegant-valkyrie-c5bd62.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "◉ / LUNASCOPE / MISSION CONTROL / PROTOTYPE / BUNDLED SCIENTIFIC DATA // LUNAR DATA EXPLORER / ● BUNDLED DATA ONLINE / MISSION MODULES / ◉ / Moon Overview / ▥ / Terrain Analysis / ☼ / Solar Illumination / ◎ / Earth Visibility / ◈ / Water & Resources / ⚠ / Haza".
+2. **Rotas:** GLOBAL TERRAIN, SOUTH POLE TERRAIN, GLOBAL VISIBILITY, SOUTH POLE VISIBILITY, 25, 100, 250, 500, 1000.
+3. **Controles:** os outros controles da tela são campos (select-one,select-one,datetime-local); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/datasets/index.json`, `/datasets/index.json`, `/datasets/global_terrain.json`; declarado na tela: LOLA, LDEM.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,select-one,datetime-local).
+9. **Erros e lentidão:** carga em ≈4.6 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### CLPS Lunar Mission Browser — Estelar 1 | NASA Space Apps 2026 (time Estelar 1, Ciudad del Este, Paraguay; enviado às 16:31 UTC), ficha do terceiro bloco, nível 2
+
+[artemis-forge-estelar-1.vercel.app](https://artemis-forge-estelar-1.vercel.app/index.html), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "CLPS Lunar Mission Browser / ESTELAR 1 · NASA SPACE APPS 2026 / ★ / NASA SPACE APPS CHALLENGE 2026 · EQUIPO ESTELAR 1 / Exploración Lunar CLPS al Alcance de Todos / / Planificar misiones al Polo Sur de la Luna requiere coordinar iluminación extrema y enlaces d".
+2. **Rotas:** ES, Compartir, CLPS Lunar Mission Brows, Home, Mapa, Análisis de Sitio, Comparar, Pathfinder, Por qué es difícil, Método y Fuentes.
+3. **Controles:** "ES" mudou a tela (novo texto: "ES / Español / EN / English / ★ / NASA SPACE APPS CHALLENGE 2026 · EQUIPO ESTELAR 1 / Expl"); "Compartir" mudou a tela (novo texto: "★ / NASA SPACE APPS CHALLENGE 2026 · EQUIPO ESTELAR 1 / Exploración Lunar CLPS al Alcance"); a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://artemis-forge-estelar-1.vercel.app/models/luna.glb`; declarado na tela: LOLA, DE421, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: incerteza; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.6 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** incerteza (a faixa do relevo é a #30, com o PR #48 aberto).
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNAR SCOPE (time Nova Mind, Colombo, Sri Lanka; enviado às 16:31 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-scope.vercel.app](https://lunar-scope.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / Online / / SECTION / / Mission Control / / MISSION / / Untitled mission / / Basic / Scientific / / 17:45:37 UTC / / 2026-11-15 / / API online / LUNAR GLOBE / / PREPARING LUNAR SURFACE… / / Loading surface imagery / / ● LIVE / 2026-11-15 17:45".
+2. **Rotas:** Basic, Scientific, ● LIVE2026-11-15 17:45 U, Show details, Mission setup, Apollo 11, South Pole Rim, Online, Select landing site…, Apollo 11 (Tranquility B, Apollo 12, Apollo 14, Apollo 15, Apollo 16, Apollo 17, Chang'e 3.
+3. **Controles:** "Basic" mudou a tela (novo texto: "/ SECTION /  / Mission Control /  / MISSION /  / Untitled mission /  / Basic / Scientific"); "Scientific" mudou a tela (novo texto: "Online /  / SECTION /  / Mission Control /  / MISSION /  / Untitled mission /  / Basic / S"); "● LIVE2026-11-15 17:45 U" mudou a tela (novo texto: "1 UTC /  / 2026-11-15 /  / API online / LUNAR GLOBE / INSTALLED IMAGERY /  / PREPARING LUN").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://100.53.192.244.sslip.io/api/health`, `https://100.53.192.244.sslip.io/api/sites`, `https://100.53.192.244.sslip.io/api/missions/timeline`, `https://100.53.192.244.sslip.io/api/health`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,date,time,number).
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator — Shackleton Crater (Artemis & LRO) (time Moonbyte, 6 of October, Egypt; enviado às 16:31 UTC), ficha do terceiro bloco, nível 3
+
+[moonbyte-7dzt.vercel.app](https://moonbyte-7dzt.vercel.app/lunar-navigator), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "ARTEMIS III / VIPER / Lunar South Pole Explorer — Shackleton Crater / 89.9° S, 0.0° E · 21 km diameter · 4.2 km depth · Simulated terrain / Simulation layer: / Photorealistic surface (LROC-inspired) / Thermal view (Diviner-inspired: 40K–220K) / Slope and landi".
+2. **Rotas:** Photorealistic surface (, Thermal view (Diviner-in, Slope and landing hazard, Permanently shadowed reg.
+3. **Controles:** os outros controles da tela são campos (select-one,range,range,checkbox); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA; a tela diz "simulated".
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: inclinação; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,range,range,checkbox).
+9. **Erros e lentidão:** carga em ≈4.9 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator (time Astryon, Raipur, India; enviado às 16:33 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-landing-site-navigator-tcp0.onrender.com](https://lunar-landing-site-navigator-tcp0.onrender.com/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "🌙 / Lunar Landing Site Navigator / / Scientific Prototype / / ● / DEMO / SYNTHETIC DATA — Not validated for mission use / DashboardExplorerAnalysisCompare / Mission Dashboard / Site Explorer / Geometry Analysis / Site Comparison / AI Explanation / Export Data ".
+2. **Rotas:** Shackleton Crater RimLat, Connecting RidgeLat: -89, de Gerlache Crater RimLa, Nobile Crater RimLat: -8, Faustini CraterLat: -87., Amundsen Crater RimLat: , Malapert MassifLat: -86., Cabeus Crater (LCROSS Im, South Pole Peak (Peak of, Whipple Crater RimLat: -, Shoemaker CraterLat: -88, Dashboard, Exp.
+3. **Controles:** "Shackleton Crater RimLat" mudou a tela (novo texto: "Shackleton Crater Rim /  / Near-continuous illumination on rim; PSR in crater floor. Artem"); "Connecting RidgeLat: -89" mudou a tela (novo texto: "Connecting Ridge /  / High illumination fraction; direct Earth visibility. Between Shackle"); "de Gerlache Crater RimLa" mudou a tela (novo texto: "de Gerlache Crater Rim /  / Favorable illumination; potential water ice access. Near Conne").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1016 px; a 390 px a página tem 641 px de largura (com rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: SPICE, Horizons.
+6. **Validação:** trecho na tela: "DEMO / SYNTHETIC DATA — Not validated for mission use".
+7. **Funcionalidades:** tem ou cita na tela: IA; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,datetime-local).
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### To Land or Not to Land: Lunar Landing Site Navigator (time To Land or Not to Land: Lunar Landing Site Navigator, Universal Event, Anywhere in the World; enviado às 16:34 UTC), ficha do terceiro bloco, nível 3
+
+[to-land-or-not-to-land.vercel.app](https://to-land-or-not-to-land.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "INPUTS & PARAMETERS / TO LAND OR NOT TO LAND / / LUNAR LANDING SITE NAVIGATOR / / Planner / Educator / SITE ASSESSMENT / GO / 0° / 30°E / 60°E / 30°W / 0° EQ / 30°S / 60°S / 80°S / CABEUS B PK / 5.4° · 85% / HAWORTH / 8.6° · 78% / MALAPERT / 6.8° · 84% / MONS ".
+2. **Rotas:** Inputs & ParametersInput, Planner, Educator, Site AssessmentAssessmen, CABEUS B PK5.4° · 85%, HAWORTH8.6° · 78%, MALAPERT6.8° · 84%, MONS MOUTON4.1° · 92%, MOUTON PLT3.4° · 92%, NOBILE RIM 19.2° · 71%, NOBILE RIM 214.8° · 10%, DE GERLACHE6.2° · 88%, 3D Moon Globe, 3D Surface Patch, NASA Artemis Cand.
+3. **Controles:** "Inputs & ParametersInput" mudou a tela (novo texto: "CABEUS B PK / 5.4° · 85% / HAWORTH / 8.6° · 78% / MALAPERT / 6.8° · 84% / MONS MOUTON / 4."); "Planner" não mudou o texto da tela; "Educator" mudou a tela (novo texto: "EDUCATOR GUIDE · SURVIVAL FACTORS /  / Slope: Tilts over ~10° risk tip-over during touchdo").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** trecho na tela: "GO: All evaluated terrain, illumination, and communication factors fall within safe margins.".
+7. **Funcionalidades:** tem ou cita na tela: inclinação, aula; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (range,range,date,time,number,number,text,date,time,range,ran).
+9. **Erros e lentidão:** carga em ≈5.5 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator (time Horizon Breachers, Ramallah, Palestinian Territories; enviado às 16:37 UTC), ficha do terceiro bloco, nível 2
+
+[lunanator.horizonbreachers.workers.dev](https://lunanator.horizonbreachers.workers.dev/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Landing Site Navigator / SOUTH POLE · SUN & EARTH VISIBILITY / Overview / Site explorer / Mission planner / Robot spec advisor / Compare / Method & accuracy / NASA Space Apps Challenge · Lunar Landing Site Navigator / Know when the Sun and Earth will act".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/lunar-data.json`; declarado na tela: LOLA, Horizons, PGDA.
+6. **Validação:** trecho na tela: "Method & accuracy".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.0 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNARIS — 2026 NASA Space Apps Challenge // CLPS Lunar Mission Browser (time CALYPSO, Bangalore, India; enviado às 16:38 UTC), ficha do terceiro bloco, nível 2 forte
+
+[lunar-missionbrowser-1.onrender.com](https://lunar-missionbrowser-1.onrender.com/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNARIS / SPACE APPS 2026 // CALYPSO / HOME / ROUTE PLANNER / MISSION BROWSER / THE MOON / DOESN’T WAIT / FOR DAYLIGHT. / / A new era of lunar exploration begins with understanding sunlight, terrain and Earth's visibility. / / EXPLORE THE MISSION / → / MISSION".
+2. **Rotas:** LUNARISSPACE APPS 2026 /, HOME, ROUTE PLANNER, MISSION BROWSER.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1018 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, SPICE, DE440, Horizons.
+6. **Validação:** trecho na tela: "Dive directly into the validated planetary ephemeris models, astrodynamics engine, and 3D lunar terrain simulator.".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈5.4 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 4 (validação com números na tela); Relevance 2 (0 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNA NAV | Lunar Landing Site Navigator (time Space_craft, Trivandrum, India; enviado às 16:38 UTC), ficha do terceiro bloco, nível 3
+
+[amrutha02426.github.io](https://amrutha02426.github.io/luna-nav/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "◒ LUNANAV / MISSION PLANNING INTERFACE / / NASA SPACE APPS CHALLENGE 2026 / / Navigate the Moon. / Plan the Landing. / / Explore potential lunar landing locations and understand the environmental factors that influence future lunar missions. / / 🌑 / ⌖ / SELECT".
+2. **Rotas:** Shackleton Rim, De Gerlache Ridge, Haworth Crater Region.
+3. **Controles:** os outros controles da tela são campos (select-one,date); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: Horizons; a tela diz "placeholder".
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,date).
+9. **Erros e lentidão:** carga em ≈4.2 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LunaScope (time LunaScope, Colombo, Sri Lanka; enviado às 16:39 UTC), ficha do terceiro bloco, nível 3
+
+[luna-scope.afras.dev](https://luna-scope.afras.dev/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / ◇ / Real data, unverified / REPLAY MODE / : show details / LUNASCOPE / / TERRAIN-AWARE SUNLIGHT AND EARTH VISIBILITY AT THE LUNAR SOUTH POLE / / ENTER / HOW IT WORKS / / ILLUSTRATION / MOON IMAGERY: NASA/GSFC/ASU, LRO WAC MOSAIC. LIGHTING IS ".
+2. **Rotas:** Start the reference miss, Compare the Artemis III , Compare the well-known c.
+3. **Controles:** "Starting…" mudou a tela (novo texto: "LunaScope Atlas: the lunar south pole / Loading the Moon… /  / LUNASCOPE / MOON / SITE SKY"); "Opening…" mudou a tela (novo texto: "Imagery: NASA/GSFC/Arizona State University, LRO WAC mosaic, via NASA Moon Trek. Illustrat"); "Opening…" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/api/v1/health`, `/api/v1/references/GR-001`, `/api/v1/references/GR-002`, `/api/v1/references/GR-003`, `/api/v1/analyses`, `/atlas`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: horizonte plano; não vi: dispersão de pouso, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈5.1 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, PT.
+- **O que vale trazer:** nada novo.
+
+### lunar-navigator-nasa.streamlit.app (time COSMOSMARTES, Dushanbe, Tajikistan; enviado às 16:40 UTC), ficha do terceiro bloco, nível 3
+
+[lunar-navigator-nasa.streamlit.app](https://lunar-navigator-nasa.streamlit.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to main content / public / / Site & dates / / battery_charging_full / / Power / / cell_tower / / Mast trade-off / / compare_arrows / / Compare sites / / calendar_month / / Landing windows / / menu_book / / Methods & data / / Lunar Landing Site Navigator /".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://stats.g.doubleclick.net/j/collect`, `https://qjmnz4vd2y07.statuspage.io/embed/frame`, `/api/v2/app/disambiguate`, `/api/v2/app/context`, `/api/v1/app/event/open`, `/api/v2/app/context`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, melhor ou pior data; não vi: dispersão de pouso, horizonte plano, DSN, atraso, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈6.2 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNAR HORIZON - Lunar South Pole Landing Site Navigator (time Glint, Zugdidi, Georgia; enviado às 16:43 UTC), ficha do terceiro bloco, nível 3
+
+[llsn.pages.dev](https://llsn.pages.dev/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNAR HORIZON / South pole landing site navigator / Explore / Compare / Timeline / 3D Landing / Learn / Data & Sources / UTC / 17:47 / Landing site / 6 regions / Mons Mouton Plateau / 4,658 m · 11 sites / Mons Mouton / 6,445 m · 10 sites / Haworth Rim / 1,678 ".
+2. **Rotas:** Explore, Compare, Timeline, 3D Landing, Learn, Data & Sources, Mons Mouton Plateau4,658, Mons Mouton6,445 m · 10 , Haworth Rim1,678 m · 11 , Nobile Rim 16,767 m · 9 , Nobile Rim 21,134 m · 9 , Malapert Massif4,950 m ·, Enter custom coordinates, Lunar day, -7d, -1d.
+3. **Controles:** "Explore" mudou a tela (novo texto: "light from Earth / 8.1 days / Total Δv / 6.06 km/s / Relief everywhere from LOLA elevation"); "Compare" mudou a tela (novo texto: "8 / Compare sites and dates /  / Every number here is computed against each site's own LOL"); "Timeline" mudou a tela (novo texto: "Timeline /  / Sun and Earth elevation for Mons Mouton Plateau (MMP04) across a longer span").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 392 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/horizons.json`, `/data/registry.json`, `/data/terrain/mons-mouton-plateau.json`, `/api/health`, `/data/moon_global.json`, `/data/polar_height.json`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (text,select-one,datetime-local,range).
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### KEPLER — Lunar Landing Intelligence & Horizon Decision Studio (time team solace, Harohalli, India; enviado às 16:45 UTC), ficha do terceiro bloco, nível 2
+
+[nasakepler.vercel.app](https://nasakepler.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "KEPLER / Overview / Mission Control / Horizon Replay / Science Explorer / Lunar Experience / Landing Robustness / Decision Brief / SPICE / LOLA / KEPLER / / LUNAR LANDING & HORIZON DECISION STUDIO / / ENTER MISSION CONTROL / EXPLORE MISSION DATA / PHYSICAL LUN".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, SPICE, DE421.
+6. **Validação:** trecho na tela: "Validated against high-resolution LROC NAC imagery and polar shadow maps.".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (0 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Shadowline: Lunar Landing Site Navigator (time ShadowLine, Universal Event, Anywhere in the World; enviado às 16:46 UTC), ficha do terceiro bloco, nível 2 forte
+
+[shadowline-navigator.vercel.app](https://shadowline-navigator.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Shadowline / Navigator / Learn / GitHub ↗ / (opens in a new tab) / SHADOWLINE / LAT / 90 / 45 / 0 / -45 / -90 / / LIVE SUN · DRAG TO ROTATE / / NASA SPACE APPS 2026 · LUNAR LANDING SITES / / Find where / the light is. / / Compare lunar landing sites by sunligh".
+2. **Rotas:** Shadowline, Navigator, Learn, GitHub ↗ (opens in a new, How it works, Source on GitHub ↗.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, DE421, Horizons, Skyfield, PGDA.
+6. **Validação:** trecho na tela: "ched the Mons Mouton plateau in March 2025 but came to rest on its side in a cold, shadowed crater. With too little sunlight on its panels, it ran out of power within about a day.".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.8 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 4 (validação com números na tela); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### TENET — LUNAR MISSION NAVIGATOR (v1.0) (time TENET blue, Kanjirappally, India; enviado às 16:46 UTC), ficha do terceiro bloco, nível 2
+
+[tenetblue6-bot.github.io](https://tenetblue6-bot.github.io/LUNAR-LANDING-SITE-NAVIGATOR/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "TENET / v1.0 / / LUNAR MISSION NAVIGATOR / / Mission Control / 3D Map / Analysis / Planning / Resources / Lunar Time (LST) / 10:32:17 / Nov 21, 2026 / Systems Online / Dashboard / Landing Sites / Calculations / Advisor / Data Sources / TELEMETRY / EXPERT / MIS".
+2. **Rotas:** 1x (Real-Time), 600x (10m / sec), 3600x (1h / sec), 21600x (6h / sec).
+3. **Controles:** os outros controles da tela são campos (date,number,number,range,select-one); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1018 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: contagem; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** B (o nosso ponto e 01/12/2026 pelo formulário "Analysis"): Sol 24% do dia lunar, Terra 50%, "Next Sunset: 3d 17h". Nós: Sol 100%, nenhum pôr. **Divergem** muito; o próprio site diz "Severe terrain shadowing"; sem referência para decidir, mas cinco outras ferramentas desta rodada dão 100% de Sol no ponto.
+9. **Erros e lentidão:** carga em ≈4.1 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Moonsill (time Claude Opus 5.5, Almaty, Kazakhstan; enviado às 16:47 UTC), ficha do terceiro bloco, nível 2 forte
+
+[moonsill.onrender.com](https://moonsill.onrender.com/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "MOONSILL / LUNAR LANDING SITE NAVIGATOR · CLPS / Custom · Connecting ridge, resolved point 166 m from the Site01 tile center · 89.46°S 137.17°W · TD 2027-01-10 00:00 UTC / REAL DATA / · JPL HORIZONS + LOLA / COPY LINK / EXPORT JSON / EXPORT CSV / 01 / SHEET 01".
+2. **Rotas:** Connecting ridge near Si, Catalog, Map, Coordinates, Terrain (LOLA), Smooth sphere, Tracking, Vertical, Horizontal, Recompute, show deciding stretch on, −1 d, −1 h, +1 h, +1 d, Nominal.
+3. **Controles:** "Connecting ridge near Si" não mudou o texto da tela; "Catalog" mudou a tela (novo texto: "SOUTH POLE STUDY SITES / Connecting ridge (Site01) / 89.46°S 137.49°W / TERRAIN / Shacklet"); "Map" mudou a tela (novo texto: "outh pole · stereographic / 6° / 3° / 1.4° / 0°E · toward Earth / 90°E / 90°W / 180° / 100").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/api/v1/catalog`, `/api/v1/examples`, `/api/v1/examples`, `/api/v1/examples/site01-2027-01`, `/api/v1/scenarios/encode`, `/api/v1/coverage`; declarado na tela: LOLA, LDEM, Horizons, PGDA, Barker.
+6. **Validação:** trecho na tela: "Independently verified (this request, model 0.5.0): 80 m DEM: verdict agrees, earth set -2 s, slip boundary +28 s · 20 m DEM (≤ 20 km): verdict agrees, earth set -2 s, slip boundary +28 s. Method".
+7. **Funcionalidades:** tem ou cita na tela: horizonte plano, atraso; não vi: dispersão de pouso, DSN, bateria ou energia, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈10.3 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 4 (validação com números na tela); Relevance 3 (2 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, PT.
+- **O que vale trazer:** nada novo.
+
+### Space Explorer (time Astra Motion, Universal Event, Anywhere in the World; enviado às 16:50 UTC), ficha do terceiro bloco, nível 2
+
+[space-explorer-astra.vercel.app](https://space-explorer-astra.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Space Explorer / Home / Lunar Navigator / Missions / Time Machine / Gallery / Assistant / / Candidate landing site / / Shackleton Rim Candidate Area / / -89.9, 0 deg / / NASA Space Apps 2026 / Placeholder data / Lunar Landing Site Navigator / / Compare Moon la".
+2. **Rotas:** Space Explorer, Home, Lunar Navigator, Missions, Time Machine, Gallery, Assistant.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1016 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://space-explorer-astra-production.up.railway.app/api/v1/missions`, `https://space-explorer-astra-production.up.railway.app/api/v1/missions`, `https://space-explorer-astra-production.up.railway.app/api/v1/rovers`, `https://space-explorer-astra-production.up.railway.app/api/v1/lunar/sites`, `https://space-explorer-astra-production.up.railway.app/api/v1/rovers/perseverance/images`; declarado na tela: LOLA, SPICE.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: IA; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### PolarClock (time Ag - nas, Mymensingh, Bangladesh; enviado às 16:51 UTC), ficha do terceiro bloco, nível 2
+
+[shair73.github.io](https://shair73.github.io/polarclock1/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "PolarClock / / Which south-pole site and landing date still works when the schedule slips? Sun power and direct-to-Earth windows, compared in one view. / / First landing date (UTC) / Mission length / 3 days / 7 days / 14 days / 21 days / 28 days / Need sunligh".
+2. **Rotas:** Open LROC Quickmap, Open Moon Trek, 3 days, 7 days, 14 days, 21 days, 28 days, 2 days, 15 days, 30 days (see seasons), Region (10° around the p, Wide (30°, includes Chan, Pole close-up (5°), Sun-tracking, Flat on the ground.
+3. **Controles:** "Open LROC Quickmap" não mudou o texto da tela; "Open Moon Trek" não mudou o texto da tela; os outros controles da tela são campos (date,select-one,range,range,range,select-one,number,select-one,range,range,checkbox,checkbox,number,number,number,number); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, Horizons.
+6. **Validação:** trecho na tela: "nd pasted here as numbers. PolarClock's own ephemeris is run at the same site and times and compared. This is a spot check of one site and one week, not a full validation.".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, atraso; não vi: dispersão de pouso, horizonte plano, DSN, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈3.9 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 3 (2 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Selene — Lunar Mission Planner (time Lunar explorers, Bhopal, India; enviado às 16:52 UTC), ficha do terceiro bloco, nível 3
+
+[selenenasa.netlify.app](https://selenenasa.netlify.app/?lat=-89.4398&lon=-137.1700&site=Connecting+Ridge+%28C1%29&start=2026-11-15T17%3A49%3A10.524Z&end=2026-11-22T17%3A49%3A10.524Z&step=3&tz=America%2FSao_Paulo), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Moon / Sky / Compare / Forecast / Operations / Agent Swarm / Mission lab / Tools / UTC / America/Sao Paulo / Asia/Kolkata / Africa/Abidjan / Africa/Accra / Africa/Addis Ababa / Africa/Algiers / Africa/Asmera / Africa/Bamako / Africa/Bangui / Africa/Banjul / Af".
+2. **Rotas:** Now, View from crater, 1Shackleton vicinity, 2Malapert Massif vicinit, 3Connecting Ridge (C1), 4de Gerlache vicinity, 5Haworth vicinity, 6Nobile Rim vicinity, Open local sky, Hey, I'm Selene. How can, SELENE, Moon, Sky, Compare, Forecast, Operations.
+3. **Controles:** "Now" não mudou o texto da tela; "View from crater" mudou a tela (novo texto: "Back to globe / Surface view /  / Connecting Ridge (C1) /  / LIVE / Nov 15, 2026, 14:49 GM"); "1Shackleton vicinity" mudou a tela (novo texto: "Shackleton vicinity /  / LIVE / Nov 15, 2026, 14:49 GMT-3 / Sun 1.4° up · bearing 45° / Ea").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://selenenasa.netlify.app/.netlify/scripts/hud`, `https://nsac-backend.onrender.com/api/environment`, `https://nsac-backend.onrender.com/api/environment`, `https://nsac-backend.onrender.com/api/surface/skyline`, `https://nsac-backend.onrender.com/api/timeline`, `https://nsac-backend.onrender.com/api/environment`; declarado na tela: LOLA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,select-one,number,number,datetime-local,range,fil).
+9. **Erros e lentidão:** carga em ≈4.5 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### lunav.earth (time LUNAV, Jakarta, Indonesia; enviado às 16:53 UTC), ficha do terceiro bloco, nível 3
+
+[lunav.earth](https://lunav.earth/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNAV / Data attribution / 1× / 10× / 60× / 600× / 3600× / 86400× / SIMULATION TIME / 15 NOV 20:00 / 16 NOV 00:00 / 04:00 / 08:00 / 12:00 / 16:00 / / 15 NOV 2026 / / 17:49:21 UTC / Now".
+2. **Rotas:** Now, 1×, 10×, 60×, 600×, 3600×, 86400×.
+3. **Controles:** "Now" mudou a tela (novo texto: "3 UTC / Now"); os outros controles da tela são campos (select-one,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/launch_sites`, `/cesium/Assets/approximateTerrainHeights.json`, `/moon_positions`, `/cesium/Assets/IAU2006_XYS/IAU2006_XYS_18.json`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,range).
+9. **Erros e lentidão:** carga em ≈5.0 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNAR / HORIZON — Lunar South Pole Mission Intelligence (time Celestial, Pune, India; enviado às 16:53 UTC), ficha do terceiro bloco, nível 3
+
+[celestial-nine-tau.vercel.app](https://celestial-nine-tau.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "SKIP TO MISSION CONTENT / LUNAR / HORIZON / MISSION INTELLIGENCE / MISSION TELEMETRY / NOMINAL / FLIGHT DAY / SIM • 04 / DURATION / 7 DAYS / / MISSION SYSTEMS / / Overview / 01 / Landing Sites / 02 / Horizon Simulator / 03 / Solar Analysis / 04 / Communication".
+2. **Rotas:** LIGHT, Mission dashboard, Landing sites, Compare sites ↗, Focus region ⌖, 3D, 7D, 14D, Explore Landing Sites, Track Site, View windows, Inspect solar analysis, Compare sites, Overview01, Landing Sites02, Horizon Simulator03.
+3. **Controles:** "DARK" mudou a tela (novo texto: "9 / DARK /  / LUNAR NAVIGATION / SOUTH POLAR REGION /  / LUNAR HORIZON /  / LIVE SURFACE V"); "Mission dashboard" mudou a tela (novo texto: "31 / DARK /  / LUNAR NAVIGATION / SOUTH POLAR REGION /  / LUNAR HORIZON /  / LIVE SURFACE"); "Landing sites" mudou a tela (novo texto: "LANDING SITES / EARTH UTC / 15 NOV 2026 / 17:49:32 / DARK /  / MISSION SYSTEMS / LIVE TELE").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** trecho na tela: "Visibility and illumination are schematic only; they are not validated ephemeris, elevation models or operational link predictions.".
+7. **Funcionalidades:** tem ou cita na tela: DSN; não vi: dispersão de pouso, horizonte plano, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,range,select-one,select-one,range).
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### STELLARON — Lunar Landing Site Navigator (time Stellaron, Kannur, India; enviado às 16:53 UTC; ATK-SAN/Stellaron, repositório 712), ficha do terceiro bloco, nível 2
+
+[stellaron.vercel.app](https://stellaron.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to main content / STELLARON / MISSION BRIEFING / How it works / STELLARON · LUNAR LANDING SITE NAVIGATOR · NASA SPACE APPS 2026 / Where should we land? / / Compare candidate Moon landing sites on terrain, sunlight, Earth link and power, then rehearse the ".
+2. **Rotas:** How it works.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/library_index.json`; declarado na tela: LOLA, SPICE, DE421, Mazarico.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, atraso; não vi: dispersão de pouso, horizonte plano, DSN, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.4 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 3 (2 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### MOONIS | Lunar Mission What-If & Recovery Engine (time Zero Gravity Labs, Delhi, India; enviado às 16:57 UTC), ficha do terceiro bloco, nível 3
+
+[moonis.vercel.app](https://moonis.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "The idea / Open planner / A CHANGE OF PLANS. / A WAY FORWARD. / / Moon landings don’t always run on time. / Find out what a delay changes—and what to do next. / / Plan your landing / Moonis · Lunar mission planning / Discover the idea / 36 HOURS LATE. / WHAT C".
+2. **Rotas:** The idea, Open planner, 01Home, 02Mission, 03Landing sites, 04Open planner.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1021 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, atraso; não vi: dispersão de pouso, horizonte plano, DSN, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈5.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Mission Navigator — NASA Space Apps 2026 (time Code Mavericks, Medellín, Colombia; enviado às 16:57 UTC), ficha do terceiro bloco, nível 2
+
+[nasa-hackaton-lunar-topography.vercel.app](https://nasa-hackaton-lunar-topography.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Mission Navigator / / ¡Encuentra el mejor lugar para alunizar! / / Proyecto realizado para la hackatón NASA Space Apps 2026, 14 y 15 de noviembre / ENSÉÑAME / DEMO / INFORME / Explorador / Ingeniero / ES / EN / Ajustes / Mis lugares para comparar / A Mon".
+2. **Rotas:** Enséñame, Demo, Informe, ESEN, Otro dato ➜, Luz realInspección, Artemis tripulada (6.5 d, CLPS lander (10 d), CLPS extendida (14 d), Rover polar (30 d), 12 h, 24 h, 48 h, 72 h, 120 h, Auto (HD).
+3. **Controles:** "Enséñame" mudou a tela (novo texto: "− / Escenario A(activo) / CACHÉ JPL / Sitio / Shackleton Crater Rim (polo) — Artemis III ("); "Detener" mudou a tela (novo texto: "TENER / INFORME / Explorador / Ingeniero / ES / EN / Ajustes / Mis lugares para comparar /"); "Informe" mudou a tela (novo texto: "Informe de misión / Copiar / .md / # Informe de misión lunar — 2026-11-15 /  / **Perfil:**").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/api/llm-status`, `/data/sites.json`, `/api/copilotkit/info`, `/api/copilotkit`, `/data/ephemeris_2026-11_2027-11.bin.gz`, `/data/dem_s75_16ppd.i16.gz`; declarado na tela: LOLA, LDEM, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈5.2 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (0 das funcionalidades da lista); Presentation 4 (enviado e bom no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNA — Lunar Landing Site Navigator (time Horizon90, Kyiv, Ukraine; enviado às 16:58 UTC), ficha do terceiro bloco, nível 3
+
+[luna.tutpro.org](https://luna.tutpro.org/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / Explore / The Mission / How It Works / Science / About / / NASA SPACE APPS CHALLENGE 2026 / / The Moon is complicated. / Exploring it shouldn’t be. / / Meet LUNA. Explore the Moon’s south pole, visualize sunlight and Earth visibility, and com".
+2. **Rotas:** Show the Sun ↗, ▶ Watch demo, Explore, The Mission, How It Works, Science, About, Launch LUNA ↗, Watch the Film ›.
+3. **Controles:** "Show Earth ↗" mudou a tela (novo texto: "Sun grazing the horizon / Show Earth ↗ / Meet LUNA. /  / Watch introductory film /  / ▶ /"); "▶ Watch demo" mudou a tela (novo texto: "One interface. / A clearer perspective. /  / LUNA brings lunar terrain, Sun and Earth posi"); os outros controles da tela são campos (text); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://www.youtube.com/iframe_api`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** trecho na tela: "Stay within".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (text).
+9. **Erros e lentidão:** carga em ≈4.7 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### SELENE-3D | NASA Interactive Lunar Exploration (time Cumulus, Virudhunagar, India; enviado às 16:59 UTC), ficha do terceiro bloco, nível 3
+
+[selene3d-mzvw.vercel.app](https://selene3d-mzvw.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "SELENE / 3D / NASA ATLAS / / Photographic Lunar Globe & Exploration Portal / / Home / Explore / Lunar Missions / Discoveries / Science & Tech / About / LAUNCH EXPLORER / NASA / ISRO / LROC DATA-POWERED EXPLORATION / EXPLORE THE MOON. / BEYOND WHAT WE SEE. / / ".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA; a tela diz "synthetic".
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈7.5 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### 404: NOT_FOUND (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[kiyospace-lunar-navigator-frontend.vercel.app](https://kiyospace-lunar-navigator-frontend.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "This page doesn’t exist / / It may have been moved, removed, or never existed. / / 404 DEPLOYMENT_NOT_FOUND / / gru1::7fkh5-1794766985206-729aea547d97 / / VIEW DOCUMENTATION / COPY DEBUG PROMPT".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈3.7 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Adinfinitium · Autonomy that lands where missions survive (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[adinfinitium.vercel.app](https://adinfinitium.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / Pilot / Navigator / Research / Company / A / D / I / N / F / I / N / I / T / I / U / M / Join the waitlist / Autonomy that lands where missions survive. / / Landing and surface autonomy, tested in thousands of simulated missions before flight".
+2. **Rotas:** Pilot, Navigator, Research, Company, ADINFINITIUM, Read the research, Join the waitlist, Adinfinitium Pilot, Adinfinitium Navigator, Mission control, Watch a landing, All research, Pilot benchmark, Hazard model, Dream-RSI, Watch it learn.
+3. **Controles:** os outros controles da tela são campos (email); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/assets/data/benchmarks.json`, `/assets/data/stats.json`, `/assets/data/projections.json`, `/assets/data/mission_bench.json`, `/assets/data/dream_rsi.json`, `/assets/models/lander.glb`; declarado na tela: LOLA, SPICE, DE440, PGDA; a tela diz "simulated".
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (email).
+9. **Erros e lentidão:** carga em ≈5.5 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Create Next App (link citado num repositório da tabela; AshaneS/lunar-landing-site-navigator, repositório 710), ficha do terceiro bloco, nível 3
+
+[lunar-landing-site-navigator-sable.vercel.app](https://lunar-landing-site-navigator-sable.vercel.app/?lat=-85.9948&lon=-0.2358&alt=0), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Dashboard / Workspace / Explore South Pole / Compare Sites / Compare Dates / LIBRARY / Saved Library / Toggle Sidebar / Malapert Massif / / lon / / lat / / Alt / / km / / November 15th, 2026 / Select time / Lunar Day / 29.5D / + / – / i / Custom Coordina".
+2. **Rotas:** Explore South Pole, Compare Sites, Compare Dates, Saved Library, Toggle Sidebar, Malapert Massif▼, November 15th, 2026, Select time, 29.5D, + Save to Site Library, Pin, Compare.
+3. **Controles:** "Explore South Pole" não mudou o texto da tela; "Compare Sites" não mudou o texto da tela; "Compare Dates" não mudou o texto da tela.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1280 px; a 390 px a página tem 1001 px de largura (com rolagem lateral).
+5. **Dados:** conferido na rede: `https://lunar-landing-site-navigator-sable.vercel.app/library`, `https://lunar-landing-site-navigator-sable.vercel.app/compare-dates`, `https://lunar-landing-site-navigator-sable.vercel.app/compare-sites`, `https://lunar-landing-site-navigator-sable.vercel.app/library`, `https://lunar-landing-site-navigator-sable.vercel.app/compare-dates`, `https://lunar-landing-site-navigator-sable.vercel.app/compare-sites`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (text,text,text,text,text,range).
+9. **Erros e lentidão:** carga em ≈6.0 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNA NAV 2.0 | Lunar Mission Workspace (link citado num repositório da tabela; nyxaraindia/LUNA-NAV, repositório 758), ficha do terceiro bloco, nível 3
+
+[nyxaraindia.github.io](https://nyxaraindia.github.io/LUNA-NAV/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "◒ / LUNA NAV / MISSION INTELLIGENCE / WORKSPACE / ⌂ / Overview / ◎ / Lunar map / ⌁ / LOLA analysis / ⚙ / Mission lab / ⇄ / Compare sites / ✳ / LUNA assistant / ▤ / Reports & exports / ◈ / NASA data hub / NASA open data / LOLA south-pole DEMs ↗ / Moon Trek ↗ / ".
+2. **Rotas:** ⌂ Overview, ◎ Lunar map, ⌁ LOLA analysis, ⚙ Mission lab, ⇄ Compare sites, ✳ LUNA assistant, ▤ Reports & exports, ◈ NASA data hub, NASA MOON TREK ↗, Shackleton vicinity, de Gerlache vicinity, Malapert massif vicinity, All candidates (comparis, Shackleton vicinity only, de Gerlache vicinity onl.
+3. **Controles:** os outros controles da tela são campos (radio,checkbox,checkbox,checkbox,checkbox,select-one,number,number,text,select-one,text,number,number,select-one,select-); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/lola_samples.json`; declarado na tela: LOLA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: IA, incerteza; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, contagem, relevo nomeado, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (radio,checkbox,checkbox,checkbox,checkbox,select-one,number,).
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** incerteza (a faixa do relevo é a #30, com o PR #48 aberto).
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNA — Lunar Landing Site Navigator (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[seymanurylmz.github.io](https://seymanurylmz.github.io/LUNA_Navigator/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNA / Lunar Landing Site Navigator · South Pole / −7D / +7D / ▶ PLAY / PROTOTYPE · SLOPE: NASA LOLA / ? / ARTEMIS III CANDIDATE REGIONS / 01 / Slater Plain / Plain · deep shadow / 73% / 02 / Nobile Rim 2 / Crater rim / 35% / 03 / Nobile Rim 1 / Crater rim / 2".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** os outros controles da tela são campos (date,text); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** trecho na tela: "How to read it? Pick a region on the left, slide the date at the top. The same region can drop from "continuous daylight" to "continuous night" within a few days — this is why Artemis III fine-tunes its landing date for ".
+7. **Funcionalidades:** tem ou cita na tela: inclinação; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (date,text).
+9. **Erros e lentidão:** carga em ≈4.3 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNA — Lunar Landing Site Navigator (link citado num repositório da tabela; areteeem/luna, repositório 706), ficha do terceiro bloco, nível 3
+
+[luna-xi-bay.vercel.app](https://luna-xi-bay.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / Explore / The Mission / How It Works / Science / About / / NASA SPACE APPS CHALLENGE 2026 / / The Moon is complicated. / Exploring it shouldn’t be. / / Meet LUNA. Explore the Moon’s south pole, visualize sunlight and Earth visibility, and com".
+2. **Rotas:** Show the Sun ↗, ▶ Watch demo, Explore, The Mission, How It Works, Science, About, Launch LUNA ↗, Watch the Film ›.
+3. **Controles:** "Show Earth ↗" mudou a tela (novo texto: "Sun grazing the horizon / Show Earth ↗ / Meet LUNA. /  / Watch introductory film /  / ▶ /"); "▶ Watch demo" mudou a tela (novo texto: "One interface. / A clearer perspective. /  / LUNA brings lunar terrain, Sun and Earth posi"); os outros controles da tela são campos (text); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://www.youtube.com/iframe_api`, `https://www.youtube.com/embed/R3W25BC510k`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** trecho na tela: "Stay within".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (text).
+9. **Erros e lentidão:** carga em ≈3.9 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNA-LOCK // CLPS Lunar South Pole Mission Navigator (link citado num repositório da tabela; TMXDev/luna-lock, repositório 779), ficha do terceiro bloco, nível 3
+
+[luna-lock-beta.vercel.app](https://luna-lock-beta.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "SPACE APPS / ARTEMIS TRACK / LUNA-LOCK / TACTICAL DESCENT SAFETY ENGINE / ACTIVE LANDING ZONE / Shackleton–de Gerlache Connecting Ridge / 89.453°S 137.69°W · 2,136 m / DEC 2026 / MAR 2027 / JUN 2027 / MISSION ELAPSED TIME · DAY 4 / MET +003:06:00:00 (T+78h · 2".
+2. **Rotas:** Shackleton–de Gerlache C, Peak Near Shackleton (Ri, Malapert Massif Summit P, Mons Mouton (Leibnitz Be, Nobile Crater Rim 1 (VIP, de Gerlache Crater Rim 2, Haworth Crater Southern , Cabeus Crater Southern R, Intuitive Machines Nova-, Astrobotic Griffin (Heav, Firefly Blue Ghost (Pola, Artemis VSAT P.
+3. **Controles:** os outros controles da tela são campos (select-one,select-one,range,range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1018 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, inclinação; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (select-one,select-one,range,range).
+9. **Erros e lentidão:** carga em ≈4.9 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LUNAVISTA | Lunar Landing-Site Evaluation Platform (link citado num repositório da tabela; Niyasmc47/LunarExenos2026, repositório 756), ficha do terceiro bloco, nível 3
+
+[lunavista.exenoz.in](https://lunavista.exenoz.in/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to workspace / LUNAVISTA / A clearer view of the Moon / 01 EXPLORE / Moon explorer / Terrain explorer / 02 PLAN / Mission requirements / Compare scenarios / Screen candidate sites / Find mission windows / 03 DECIDE / Assess landing terrain / Balance prior".
+2. **Rotas:** Site 01 (Connecting Ridg, Site 04 (Shackleton Rim , Site 11 (de Gerlache Rim, Apollo 11 (Statio Tranqu, Apollo 12 (Oceanus Proce, Apollo 17 (Taurus-Littro, Shackleton Crater (South, Chang'e 4 (Von Kármán / , Copernicus CraterLandmar, Tycho CraterLandmark · 4, Sinus Medii (0°N, 0°E)Re, Reset, Skip to.
+3. **Controles:** "Site 01 (Connecting Ridg" mudou a tela (novo texto: "89.46320° S, 137.48960° W / Illustrative lighting · No global elevation model / Imagery: N"); "Site 04 (Shackleton Rim " mudou a tela (novo texto: "76140° S, 157.11560° W / Illustrative lighting · No global elevation model / Imagery: NASA"); "Site 11 (de Gerlache Rim" mudou a tela (novo texto: "8.66820° S, 68.38200° W / Illustrative lighting · No global elevation model / Imagery: NAS").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://trek.nasa.gov/tiles/Moon/EQ/LRO_WAC_Mosaic_Global_303ppd_v02/1.0.0/WMTSCapabilities.xml`; declarado na tela: LOLA.
+6. **Validação:** trecho na tela: "Coordinate source and accuracy".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (search,select-one,number,number).
+9. **Erros e lentidão:** carga em ≈4.9 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### LuNaVi · NASA Space Apps Challenge 2026 (link citado num repositório da tabela; DiachenkoDenis/lunavi, repositório 723), ficha do terceiro bloco, nível 3
+
+[diachenkodenis.github.io](https://diachenkodenis.github.io/lunavi/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Site / ◎ / / Choose a ridge near the lunar south pole or enter coordinates. / / Shackleton / 1.2 km to ice / Mouton / 4.0 km to ice / Malapert / 6.0 km to ice / Cabeus / 0.3 km to ice / CUSTOM POINT / Latitude, ° / Longitude, ° / Show point / ↗ / LuNaVi / Sunl".
+2. **Rotas:** Shackleton1.2 km to ice, Mouton4.0 km to ice, Malapert6.0 km to ice, Cabeus0.3 km to ice, Show point ↗, Delay launch + 14 days, Save mission card ↗.
+3. **Controles:** "Shackleton1.2 km to ice" não mudou o texto da tela; "Mouton4.0 km to ice" mudou a tela (novo texto: "Mouton / ♫ / Play the horizon / Sun 2.4° / Earth 10.3° / 84.6000° S · 31.0000° E / Landing"); "Malapert6.0 km to ice" mudou a tela (novo texto: "alapert / ♫ / Play the horizon / Sun 0.3° / Earth 9.4° / 86.0000° S · 3.0000° E / Landing").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, atraso; não vi: dispersão de pouso, horizonte plano, DSN, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (number,number,text,checkbox,checkbox,checkbox,date,range).
+9. **Erros e lentidão:** carga em ≈4.1 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Intelligence Platform | NASA & CSA Integrated (link citado num repositório da tabela), ficha do terceiro bloco, nível 2
+
+[nasa-lunar.onrender.com](https://nasa-lunar.onrender.com/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "LUNAR LANDING SITE INTELLIGENCE / SOLAR • EARTH VISIBILITY • DSN COMMS • TERRAIN SHADOW • MCDA SCORING • SQLITE / 🚀 Lunar Command (React) ↗ / LROC QuickMap / NASA Moon Trek / JPL Horizons / ASC-CSA Rover / 🎯 MISSION PARAMETERS / Candidate Landing Site / Canadi".
+2. **Rotas:** 🚀 Lunar Command (React), LROC QuickMap, NASA Moon Trek, JPL Horizons, ASC-CSA Rover, Canadian Lunar Rover Pri, Canadian Lunar Rover Sec, CSA Volatile Cold-Trap S, Peak Near Shackleton (Ar, Malapert Mountain (Artem, Connecting Ridge (Artemi, de Gerlache Rim 1 (Artem, Haworth Rim (Artemis III, Nobile .
+3. **Controles:** os outros controles da tela são campos (select-one,datetime-local,datetime-local,select-one,number,select-one,range,range,select-one,number,range,range,range,ra); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 650 px de largura (com rolagem lateral).
+5. **Dados:** conferido na rede: `/api/sites`, `/api/csa-overview`, `/sites`, `/api/evaluate`, `/api/link-budget`; declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: DSN; não vi: dispersão de pouso, horizonte plano, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela tem campos de data ou ponto, mas o preenchimento automático não trocou a resposta (tentativa às ≈16:40); o site não aceitou a consulta pelo formulário.
+9. **Erros e lentidão:** carga em ≈6.2 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator (link citado num repositório da tabela), ficha do terceiro bloco, nível 2
+
+[bzlunar-navigator-site-chi.vercel.app](https://bzlunar-navigator-site-chi.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "BZLunar / Lunar Landing Site Navigator / / Pick a place on the Moon and a day. See when it gets sunlight and when it can talk to Earth. / / Show expert numbers / How to use / 1 / Choose a place / All / South pole / Apollo / Robotic / Sunniest spots / Apollo 11".
+2. **Rotas:** How to use, All, South pole, Apollo, Robotic, Sunniest spots, Apollo 11CrewedFirst cre, Apollo 12CrewedOcean of , Apollo 14CrewedFra Mauro, Apollo 15CrewedHadley Ri, Apollo 16CrewedDescartes, Apollo 17CrewedTaurus–Li, IM-2 AthenaRoboticIntuit, IM-1 OdysseusRoboticIntu, Blue Ghost 1RoboticFiref, Chan.
+3. **Controles:** "How to use" não mudou o texto da tela; "All" não mudou o texto da tela; "South pole" mudou a tela (novo texto: "IM-2 Athena / Robotic / Intuitive Machines for NASA CLPS, 6 Mar 2025 / Sun 52% / Earth 83%").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/ephem.json`, `/data/polar_s.b64.json`, `/data/ldem_4.b64.json`, `/data/ephem.b64.json`, `/data/polar_a.b64.json`, `/data/polar_b.b64.json`; declarado na tela: LOLA, SPICE, DE421.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** A (o IM-2 Athena, que é o sítio de abertura, 84,7906°S 29,1957°E, 2 m): "Earthset in 13 days 4 h"; Terra à vista nas 48 h. Nós: Terra visível o tempo todo. B (pelo link com o nosso ponto exato, 2 m, 29,53 d): Sol 100%, Terra 47%, "No sunset in the next 30 days", "Earthrise in 12 days 16 h". Nós: 100%, 46,8%, nascer em 12 d 16 h. **Batem.** (A primeira tentativa pelo link não trocou a tela; só depois de recarregar a página.).
+9. **Erros e lentidão:** carga em ≈5.3 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (0 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator (link citado num repositório da tabela; lunar-site-navigator/lunar-landing-site-navigator, repositório 748), ficha do terceiro bloco, nível 2
+
+[lunar-site-navigator.github.io](https://lunar-site-navigator.github.io/lunar-landing-site-navigator/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Landing Site Navigator / / Compare two lunar landing sites: Sun and Earth positions, solar power and direct-to-Earth communications. / / Date (UTC) / −1 day / +1 day / +3 days / +7 days / Load data.json / Apollo 11 / Apollo 17 / Chandrayaan-3 / Malapert ".
+2. **Rotas:** Load data.json, Apollo 11, Apollo 17, Chandrayaan-3, Malapert (massif), Shackleton (rebord), Nobile (Artemis), Connecting Ridge (Artemi, Mons Mouton (IM-2), Apollo 12, Apollo 14, Apollo 15, Apollo 16, Chang'e 3, Chang'e 4, Chang'e 5.
+3. **Controles:** "Load data.json" não mudou o texto da tela; os outros controles da tela são campos (datetime-local,file,select-one,number,number,select-one,number,number); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data.json`; declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, contagem; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** B (data 01/12/2026 e o nosso ponto nos campos lat/lon): "Sun visible 61%, Earth visible 67%" e "Sun visible 52%, Earth 100%" em dois cartões; não confirmei que o ponto foi aplicado (os campos aceitaram, a tela não mostrou a coordenada nova); sem conclusão.
+9. **Erros e lentidão:** carga em ≈3.8 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 3 (2 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Landing Site Navigator | Mission HUD (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[moonx-six.vercel.app](https://moonx-six.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Loading live geometric visibility for Shackleton Crater Rim. / MOONX / LUNAR LANDING SITE NAVIGATOR / ARTEMIS SOUTH POLE / STYLE: / Relief / LOLA-style / Contours / ▢ Full Map / FRAME PENDING / + / − / Reset / Grid / Labels / / Illustrative lunar relief / / Sy".
+2. **Rotas:** Relief, LOLA-style, Contours, ▢ Full Map, Reset, Grid, Labels, Shackleton, Connecting Ridge, Malapert Mountain (Massi, Haworth, Faustini Rim Peak, + Compare, Reset All, 1. Shackleton Crater Rim, 2. Connecting Ridge-89.4.
+3. **Controles:** "Relief" não mudou o texto da tela; "LOLA-style" mudou a tela (novo texto: "/ ILLUSTRATIVE PALETTE /  / High / Raised / Baseline / Low / Deep / + / − / Reset / Grid"); "Contours" mudou a tela (novo texto: "+ / − / Reset / Grid / Labels /  / Illustrative contour overlay /  / Synthetic Canvas visu").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA; a tela diz "synthetic".
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (text,range).
+9. **Erros e lentidão:** carga em ≈4.6 s; dados de exemplo declarados.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Maps · Lunar Landing Site Navigator (link citado num repositório da tabela), ficha do terceiro bloco, nível 2
+
+[lunarmaps.vercel.app](https://lunarmaps.vercel.app/web/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / LUNAR MAPS / Why it matters / Demos / NASA data / Launch navigator / ↗ / / LUNAR LANDING SITE NAVIGATOR / / Plan for light. / Stay in contact. / / Explore the Moon’s south pole. Compare landing sites and arrival dates to see how terrain chang".
+2. **Rotas:** LUNAR MAPS, Why it matters, Demos, NASA data, Launch navigator ↗.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈5.2 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Sightline (link citado num repositório da tabela; aeroinformagicos/lunar-landing-site-navigator, repositório 702), ficha do terceiro bloco, nível 2
+
+[lunarsightline.pages.dev](https://lunarsightline.pages.dev/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to main view / / 3D view centred on site A, Malapert A (85.97° S, 2.23° W). The Sun is in view at -2.52° elevation and lights the site. The Earth is in view at -2.37° elevation. / / 3D controls / LUNAR SIGHTLINE / When will your landing site see the Sun a".
+2. **Rotas:** 3D controls, A · Malapert A, B · Malapert B, Compare, Explore, Plan, Learn, 3D, 2D, Sites, Setup · 19 Oct 2028 · 14, Now at site A, Sun & Earth visibility, Power & comms, More, Horizon.
+3. **Controles:** "3D controls" mudou a tela (novo texto: "Camera: orbit, 45 km from the site, looking east-southeast. /  / Orbit / Fly / Ground / ✕"); "A · Malapert A" não mudou o texto da tela; "B · Malapert B" mudou a tela (novo texto: "B /  / ⊗ NOT SUITABLE / · NO EARTH CONTACT AT LANDING /  / Sun & Earth visibility / Power").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/config.json`, `/data/manifest.json`, `/data/sites.json`, `/data/ephemeris.meta.json`, `/data/ephemeris.bin`, `/data/horizon/demo-a.json`; declarado na tela: LOLA, LDEM, SPICE, DE440.
+6. **Validação:** trecho na tela: "Validation".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.9 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar Statio · South Pole Mission Planner (link citado num repositório da tabela), ficha do terceiro bloco, nível 2
+
+[lunar-mission-explorer.vercel.app](https://lunar-mission-explorer.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Lunar Statio / Fig. 2 / Screens / Method / References / Open Lunar Statio / FIG. 1 · POLAR MAP PLATE / 2D Polar Map / 3D Moon (NASA LRO) / 86° S / 87° S / 88° S / 89° S / 0° / 30° E / 60° E / 90° E / 120° E / 150° E / 180° / 150° W / 120° W / 90° W / 60° W / 3".
+2. **Rotas:** 2D Polar Map, 3D Moon (NASA LRO), Pause, Lunar Statio, Fig. 2, Screens, Method, References, Open Lunar Statio.
+3. **Controles:** "2D Polar Map" não mudou o texto da tela; "3D Moon (NASA LRO)" mudou a tela (novo texto: "3D LUNAR GLOBE / 2D Polar Map / 3D Moon (NASA LRO) / NASA LRO 3D MODEL · SVS #14959 / Sun:"); "Play" mudou a tela (novo texto: "lay / +7° / 0° / −7° / Jan / Feb / Mar / Apr / May / Jun / Jul / Aug / Sep / Oct / Nov / D").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/sites/best-lit.json`, `/data/map/vectors_2027.f32`, `/data/validation.json`; declarado na tela: LOLA, LDEM, DE421, Horizons, Skyfield, PGDA, Mazarico.
+6. **Validação:** trecho na tela: "Validation".
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.8 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunar — Mission Navigator (link citado num repositório da tabela; truffleloaf/Lunar-Mission-Navigator, repositório 780), ficha do terceiro bloco, nível 3
+
+[nasa-delta-one.vercel.app](https://nasa-delta-one.vercel.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to content / LUNAR / MISSION NAVIGATOR / Methods & data / Open explorer / Mission planning, illuminated. / Find your / window on / the Moon. / / Explore where sunlight and Earth visibility overlap. / / Open the explorer / Compare sites / Estimated / NASA ".
+2. **Rotas:** Estimated, Illustrative, Computed, LUNAR MISSION NAVIGATOR, Methods & data.
+3. **Controles:** "Estimated" mudou a tela (novo texto: "Estimated / JPL DE441 directions and LRO LOLA elevations are Computed; terrain horizons, v"); "Illustrative" mudou a tela (novo texto: "NASA data. Transparent estimates. / Shackleton region / South-pole candidate / Two conditi"); "Computed" mudou a tela (novo texto: "Candidate regions / 3 /  / Compare representative south-pole sites /  / Computed / Compute").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈5.0 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Lunaris – Lunar South Pole Landing Site Comparison (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[lunaris.sezergumus.dev](https://lunaris.sezergumus.dev/?site=mons_mouton&date=2026-12-16), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "85°S / 80°S / 75°S / 70°S / 65°S / 60°S · terrain data limit / 30°E / 60°E / 90°E / 120°E / 150°E / 180°E / 210°E / 240°E / 270°E / 300°E / 330°E / Shackleton crater100 / Shackleton-de Gerlache ridge100 / Mons MoutonBest · 0 / Malapert A100 / Chandrayaan-328 /".
+2. **Rotas:** Planner, Explorer, Shackleton crater100cent, Shackleton-de Gerlache r, Mons Mouton0BestIM-2 reg, Malapert A100IM-1 Odysse, Chandrayaan-328Shiv Shak, The launch slips a week, Sunlit ridge or crater f, Is there a better spot n, Pole versus equator, Apollo 11Equatorial refe, Custom coordinates, 3D view.
+3. **Controles:** "Planner" não mudou o texto da tela; "Explorer" mudou a tela (novo texto: "100 / Malapert A100 / Chandrayaan-3100 / Sun / Earth / faded = below the horizon / 200 km"); "AShackleton crater100cen" mudou a tela (novo texto: "Shackleton crater / Planner / Explorer / Planner / Explorer / N / W / NW / Sun / ➤ / Earth").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://lunaris.sezergumus.dev/data/manifest.json`, `https://lunaris-terrain-601609650151.europe-west1.run.app/health`, `https://lunaris.sezergumus.dev/data/manifest.json`, `https://lunaris.sezergumus.dev/data/vectors.bin`, `https://lunaris.sezergumus.dev/data/stations.bin`, `https://lunaris.sezergumus.dev/data/horizon_shackleton.json`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: atraso; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (text,text).
+9. **Erros e lentidão:** carga em ≈4.7 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### MoonFromEarth (link citado num repositório da tabela; nitrimandylis/moon-from-earth, repositório 755), ficha do terceiro bloco, nível 2
+
+[moonfrom.earth](https://www.moonfrom.earth/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "MoonFromEarth / / How it works / Sources / Open the navigator / Where to land at the Moon's south pole, and when. / / Compare landing sites by hours of sunlight for power and hours of Earth in view for radio. Every hour from 2027 to 2040, with real terrain. / ".
+2. **Rotas:** How it works, Sources, Open the navigator.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/_next/image`; declarado na tela: LOLA, Horizons, PGDA, Barker.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈5.0 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (1 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### Penumbra — Lunar Landing Site Navigator (link citado num repositório da tabela; ValtielCs/penumbra, repositório 781), ficha do terceiro bloco, **nível 2 forte** (consulta A e B batem; DSN por estação, 19 pontos de dispersão, bateria, "Verify in JPL Horizons")
+
+[valtielcs.github.io](https://valtielcs.github.io/penumbra/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Penumbra / / LUNAR LANDING SITE NAVIGATOR / / Plan / Compare / Learn / Data & validation / Tour / Share link / Verify in JPL Horizons ↗ / Landing site / SOUTH POLE / Connecting Ridge C1 / 89.44°S 222.83°E / Connecting Ridge C2 / 89.31°S 245.98°E / Peak near Sh".
+2. **Rotas:** Verify in JPL Horizons ↗, 1 day, 3 days, 7 days, 14 days, 1 lunar day (29.5 d), 90 days, 1 year, ×1, ×2, ×4, Live sunlight & shadows, Live Earth line of sight, Sunlight % over mission , Earth-in-view % over mis, Shaded relief.
+3. **Controles:** os outros controles da tela são campos (search,number,number,datetime-local,select-one,range,range,number,number,number,number,checkbox,select-one,select-one,se); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/data/dem/dem.json`, `/data/dem/l1.bin.gz`, `/data/dem/l0.bin.gz`, `/data/sites.json`; declarado na tela: LOLA, Horizons.
+6. **Validação:** trecho na tela: "Data & validation".
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** A (sítio `im2` deles, 84,78°S 29,13°E, ≈0,4 km do nosso ponto, 3 d, 2 m): às 00:00 "48% OF DISK", Sol 99,2%, Terra 100%, "No Earthset before window end". Nós no ponto exato: 30,5% do disco às 00:00, Sol e Terra nas 48 h. O ponto deles é o mesmo do LuminaLuna (559), que também dá 48%: diferença de ponto, não de método. B (Connecting Ridge C1, 89,44°S 222,83°E, 29,5 d, 2 m): Sol 100%, Terra 46,8%, "Earthrise in 12 d 16 h", DSN 46,2%. Nós: 100%, 46,8%, nascer em 12 d 16 h. **Batem.**.
+9. **Erros e lentidão:** carga em ≈4.2 s.
+10. **Notas:** Influence 4 (escolhe data e ponto); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (0 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### SELENE · Lunar opportunity explorer (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[kaizarmerchantt-git.github.io](https://kaizarmerchantt-git.github.io/Lunar-G-spotters/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to workspace / SELENE / Lunar site analysis / Mission atlas / Analyze / Compare · 0 / Data / Guided review / Sources / Classic workspace / Explore the CLPS destinations / / Choose a mission, inspect its published location, then prepare a Sun and Earth vis".
+2. **Rotas:** Analyze, Compare · 0, Data, Guided review, IM-1 OdysseusMalapert A , IM-2 AthenaMons Mouton r, Blue Ghost 1Mare Crisium, Blue Ghost 2Lunar far si, Analyze this coordinate, ◎Explore, ⌁Analysis, ⇩Data, ≡Sources, ◒   SELENE Lunar mission, Explore, Analysis.
+3. **Controles:** "Analyze" mudou a tela (novo texto: "Observer windows /  / 4 observer windows. Select a place and date range, then test its geo"); "Compare · 0" mudou a tela (novo texto: "MISSION NOTEBOOK / LOCAL TO THIS BROWSER / Compare the evidence. /  / Different assumption"); "Data" mudou a tela (novo texto: "/ LOCAL INPUT / PORTABLE OUTPUT / Your geometry, with its source. / × /  / Import your ob").
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** na rede só os arquivos da página (nenhum JSON ou API de dados na lista); declarado na tela: Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela tem campos (search,select-one,range,range,checkbox,select-one,range,chec).
+9. **Erros e lentidão:** carga em ≈6.1 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### SELENIS (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[selenis-timorex.netlify.app](https://selenis-timorex.netlify.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Where Eternal Light Meets Perpetual Shadow / / selenis / Launch 3D Navigator / 3D Crater Shadow Sim / 360° Lander POV Horizon / Earth Libration & DTE / Planner & Explorer Modes".
+2. **Rotas:** Launch 3D Navigator.
+3. **Controles:** "Launch 3D Navigator" não mudou o texto da tela; a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/.netlify/scripts/hud`, `/data/local_regions.json`, `/models/moon_landing_page.usdz`, `/data/manifest.json`, `/data/site_telemetry.json`, `/data/ephemeris_vectors.json`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈4.7 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### SYNEXIS — ملاح مواقع الهبوط على القمر (link citado num repositório da tabela), ficha do terceiro bloco, nível 2
+
+[synexiss.site](https://www.synexiss.site/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "SYNEXIS / الرئيسية / المستكشف / القياس / المقارنة / تعلّم / المواقع / المصادر / الفريق / / تحدّي NASA SPACE APPS CHALLENGE 2026 · مشروع مستقل / / SYNEXIS / ملاح مواقع / الهبوط على القمر / / تضاريس القطب الجنوبي. الإضاءة. ظهور الأرض. / مكان واحد لمقارنة أين ومت".
+2. **Rotas:** SYNEXIS, الرئيسية, المستكشف, القياس, المقارنة, تعلّم, المواقع, المصادر, الفريق.
+3. **Controles:** os outros controles da tela são campos (range); não os mexi além da consulta abaixo.
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `/_serverFn/7c4efa807018a8aa6857ff58425c30b4c5de58a84a9b1fbd5d42616595efdfdf`; declarado na tela: LOLA, Horizons.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: nenhuma das da lista; não vi: dispersão de pouso, horizonte plano, DSN, bateria ou energia, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈6.5 s.
+10. **Notas:** Influence 3 (sítios e datas prontos); Creativity 3 (o que a tela mostra, sem nada além do comum nesta rodada); Validity 3 (relevo e efeméride declarados, sem números de validação na tela inicial); Relevance 2 (0 das funcionalidades da lista); Presentation 3 (sem envio confirmado ou com problema no celular).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### lightlink-kq4wsronvhpfvhcpazyg2h.streamlit.app (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[lightlink-kq4wsronvhpfvhcpazyg2h.streamlit.app](https://lightlink-kq4wsronvhpfvhcpazyg2h.streamlit.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to main content / Time machine / / Each step moves the clock forward by 10 minutes. / / Time step (1 step = 10 minutes) / / 0 / / 0 / / 4320 / / DATE AND TIME / 2027-01-01T00:00:00Z / SINCE START / 0 (start) / STEP / 0 of 4320 / COVERS / 30 d / / Verdict ".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://stats.g.doubleclick.net/j/collect`, `https://qjmnz4vd2y07.statuspage.io/embed/frame`, `/api/v2/app/disambiguate`, `/api/v2/app/context`, `/api/v1/app/event/open`, `/api/v2/app/context`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia; não vi: dispersão de pouso, horizonte plano, DSN, atraso, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈6.1 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+### lumenwise-nny5r7oy9suwcxwjwc9qtx.streamlit.app (link citado num repositório da tabela), ficha do terceiro bloco, nível 3
+
+[lumenwise-nny5r7oy9suwcxwjwc9qtx.streamlit.app](https://lumenwise-nny5r7oy9suwcxwjwc9qtx.streamlit.app/), aberto em 15/11/2026 entre ≈15:40 e ≈16:50 (sonda automática; ver o método acima).
+
+1. **Pergunta:** a primeira tela começa por "Skip to main content / / Home / / Lunar Landing Site Navigator / / About us / / References / / LUMENWISE / CHOOSE YOUR LANDING BY THE LIGHT. / / Hi, I’m Lunar! Welcome to the Moon. / / Landing here is tricky. Near the south pole the Sun hugs the horizon, shado".
+2. **Rotas:** nenhuma aba ou botão de navegação visível na primeira tela.
+3. **Controles:** a tela não tem outro controle clicável sem efeito colateral (achado).
+4. **Desktop e 390 px:** a 1.024 px a página tem 1024 px; a 390 px a página tem 390 px de largura (sem rolagem lateral).
+5. **Dados:** conferido na rede: `https://stats.g.doubleclick.net/j/collect`, `https://qjmnz4vd2y07.statuspage.io/embed/frame`, `/api/v2/app/disambiguate`, `/api/v2/app/context`, `/api/v1/telemetry/datadog`, `/api/v1/telemetry/datadog`; declarado na tela: nenhuma fonte de relevo ou efeméride.
+6. **Validação:** não achei texto de validação na tela inicial.
+7. **Funcionalidades:** tem ou cita na tela: bateria ou energia, atraso; não vi: dispersão de pouso, horizonte plano, DSN, melhor ou pior data, inclinação, aula, IA, contagem, relevo nomeado, incerteza, português; escada de resolução e Occluder nomeado: não vi.
+8. **Consulta de referência:** nível 3: a rotina pede a consulta só nos de nível 1 e 2; a tela não tem campo de data nem de ponto (só o que vem pronto); não dá para rodar A nem B.
+9. **Erros e lentidão:** carga em ≈5.9 s.
+10. **Notas:** nível 3: sem notas (a rotina pede notas nos de nível 1 e 2).
+
+- **O que eles têm e nós não:** nada que a ficha do nosso app não tenha, pelo que a tela mostra.
+- **O que nós temos e eles não:** Occluder nomeado com distância, escada de 240, 80 e 20 m, Prova com controles negativos, DSN, horizonte plano ao lado, PT.
+- **O que vale trazer:** nada novo.
+
+**Os 68 links que já tinham ficha, reabertos (16:10 a 16:30):**
+
+- Albedo (13:50 UTC): [rizgarozan.github.io/albedo-spaceapps/web](https://rizgarozan.github.io/albedo-spaceapps/web/) no ar; título "Lunar Light Clock"; a mesma capa da ficha anterior (o título já está nesta página); começa por "Lunar Light Clock / Lunar south pole - sunlight and Earth visibility, 2027 / Explorer Navigator Planner Valida".
+- !0aSS - SpaceSoldiers (13:51 UTC): repositório [Umutcagn/lunar-landing-navigator](https://github.com/Umutcagn/lunar-landing-navigator), último push 2026-11-15 11:49 UTC.
+- Team_of_AEers (13:53 UTC): repositório [quentinliu-a11y/Lunar_Landing_Optimal_System](https://github.com/quentinliu-a11y/Lunar_Landing_Optimal_System), último push 2026-11-15 14:06 UTC.
+- Crescent Luna (13:55 UTC): [dhanukesavan214-source.github.io/Lunar-landing-site-navigation-](https://dhanukesavan214-source.github.io/Lunar-landing-site-navigation-/) no ar; título "Lunar Navigator "; a mesma capa da ficha anterior (o título já está nesta página); começa por "Moon Landing Site Explorer".
+- Narinform (13:57 UTC): repositório [yujixli88/Lunar-landing-site-navigation](https://github.com/yujixli88/Lunar-landing-site-navigation), último push 2026-11-15 13:27 UTC.
+- Horizon Protocol (13:57 UTC): repositório [Sezergumus/lunaris](https://github.com/Sezergumus/lunaris), último push 2026-11-15 13:27 UTC; homepage https://lunaris.sezergumus.dev.
+- SkyCode (13:58 UTC): repositório [Egemen2611/AyInisNavigatoru](https://github.com/Egemen2611/AyInisNavigatoru), último push 2026-11-15 13:56 UTC.
+- ✦ IT STEP Poltava × Mindal1ka.com ✦ (13:58 UTC): repositório [Mindal1ka/lunar-site-navigator](https://github.com/Mindal1ka/lunar-site-navigator), último push 2026-11-15 10:15 UTC.
+- LunaZen (13:59 UTC): [lunazen-v1.vercel.app](https://lunazen-v1.vercel.app/) no ar; título "LunaZen Landing Site Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Skip to content / LUNAZEN / HOME / LEARN / PLAN / RESOURCES / CONTACT /  / NASA SPACE APPS 2026 · LUNAR LANDIN".
+- EarthResident (14:00 UTC): [lunamap.leozzmc.com](https://lunamap.leozzmc.com/) no ar; título "LunaMap — Lunar Landing Site Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "LunaMap · Lunar Landing Site Navigator / MISSION WINDOW / 20 Nov 2025 → 21 Dec 2025 / LOADING… / ▾ / NASA/JPL".
+- CCode (14:01 UTC): [ccode-lunarlandingsitenavigator.netlify.app](https://ccode-lunarlandingsitenavigator.netlify.app/) no ar; título "CCode Lunar Site Navigator — Space Apps 2026 Mission Planner"; a mesma capa da ficha anterior (o título já está nesta página); começa por "CCODE // SPACE APPS 2026 / CCODE LUNAR SITE NAVIGATOR // CLPS & ARTEMIS SİMÜLATÖRÜ /  / JPL DE421 SPK (16.01 M".
+- NIRJAYA Labs (14:02 UTC): [catyee-cty.github.io/hackathon2](https://catyee-cty.github.io/hackathon2/) no ar; título "SELENE-GPU · Lunar Site Navigator · WebGPU"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "NASA ARTEMIS III · LUNAR SURFACE NAVIGATION SYSTEM / SELENE-GPU  //  SITE NAVIGATOR / ENGINE: / WEBGPU READY (".
+- SolutionX (14:03 UTC): [lunawin.myspaceproject.app](https://lunawin.myspaceproject.app/) no ar; título "LunaWindow — Lunar Landing Site Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "LunaWindow / Challenge / Live demo / Solution / How it works / Results / Team / Try it / → / NASA Space Apps C".
+- Fractured Toes (14:03 UTC): [penumbra-lunar.pages.dev](https://penumbra-lunar.pages.dev) no ar; título "Penumbra"; a mesma capa da ficha anterior (o título já está nesta página); começa por "PENUMBRA / Site / Planner / Terrain / Compare / IM-2 replay / Validation / About /  / ~/site /  / The Next Fro".
+- REGOLITH FINDER (14:23 UTC): repositório [oiassix/Regolith-Finder](https://github.com/oiassix/Regolith-Finder), último push 2026-11-15 13:30 UTC.
+- Orbiting_Alpha (14:32 UTC): repositório [Vaibhavi-1107/orbiting_alpha_lunar_mission_browser](https://github.com/Vaibhavi-1107/orbiting_alpha_lunar_mission_browser), último push 2026-11-15 11:57 UTC.
+- HorizonLine Solo (14:32 UTC): [sameermistrii.github.io/horizonline/app](https://sameermistrii.github.io/horizonline/app/) no ar; título "HorizonLine"; a mesma capa da ficha anterior (o título já está nesta página); começa por "HorizonLine /  / Which lunar south-pole site gets sunlight and a line to Earth, and when. /  / Sites to compar".
+- Aeroespeciais lunares (14:33 UTC): [martimcorreia30-coder.github.io/aeroespeciais_lunares](https://martimcorreia30-coder.github.io/aeroespeciais_lunares/) no ar; título "To the Moon... — A different perspective"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "◒ / To the Moon... / A different perspective / LUNAR SURFACE · NEAR SIDE / ORBITAL POSITIONS / NOT TO SCALE /".
+- Cosall (14:35 UTC): [cosall.onrender.com](https://cosall.onrender.com) no ar; título "Cosall: lunar landing-site planner"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Cosall / Orbit view / Site planner / Launch planner / About /  / Checking the server. /  / Silent landing: wat".
+- LUNARAº (14:36 UTC): repositório [JuanGilArregui/lunara-](https://github.com/JuanGilArregui/lunara-), último push 2026-11-15 13:16 UTC.
+- Hawkins (14:37 UTC): [nasa-lunar-x2her4ehyq-el.a.run.app](https://nasa-lunar-x2her4ehyq-el.a.run.app/) no ar; título "WISPR — Lunar Mission Intelligence"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Loading verified lunar elevation… / LUNAR MISSION INTELLIGENCE / Regions / Location / Layers / Analysis / Evid".
+- Gemini (14:46 UTC): [195.62.49.174](http://195.62.49.174/) no ar; título "Lunar Landing Site Navigator "; a mesma capa da ficha anterior (o título já está nesta página); começa por "NASA Space Apps & Intuitive M".
+- AZAS (14:48 UTC): [azas-fe-xi.vercel.app](https://azas-fe-xi.vercel.app/) no ar; título "LAMP · Lunar Access & Mission Planning"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); a tela ainda carregava.
+- Lunar G-Spotters (14:49 UTC): repositório [kaizarmerchantt-git/Lunar-G-spotters](https://github.com/kaizarmerchantt-git/Lunar-G-spotters), último push 2026-11-15 16:09 UTC; homepage https://kaizarmerchantt-git.github.io/Lunar-G-spotters/.
+- sparks-allot (14:50 UTC): [redwhiteblue.net/nasa](https://redwhiteblue.net/nasa/) no ar; título "Lunar Landing Site Navigator — NASA Space Apps 2026"; a mesma capa da ficha anterior (o título já está nesta página); começa por "Data attribution / Lunar Landing Site Navigator / NASA Space Apps 2026 · The Next Frontier / Sites / Sun·Route".
+- DU:NE (14:53 UTC): [du-ne-mission-portal.ellfuge1507.workers.dev](https://du-ne-mission-portal.ellfuge1507.workers.dev/) no ar; título "Lunar Landing Site Navigator - Team DU:NE"; a mesma capa da ficha anterior (o título já está nesta página); começa por "NASA /  Space Apps Challenge 2026 / Search / EN / / / KR / Space Apps 2026, Seoul › Lunar Landing Site Navigat".
+- Gabay (14:55 UTC): [gabay-tanaw.app](https://gabay-tanaw.app) no ar; título "Tanaw"; a mesma capa da ficha anterior (o título já está nesta página); começa por "TANAW / Loading the Moon".
+- Datanauts (14:57 UTC): [Datanauts-Nasa-Space-Apps-Challenge](https://github.com/Datanauts-Nasa-Space-Apps-Challenge) é uma organização no GitHub (update em 13/11), sem repositório único; nada a reabrir.
+- HerTech (15:02 UTC): [lunar-landing-site-six.vercel.app](https://lunar-landing-site-six.vercel.app/) no ar; título "Artemis Atlas · Navegador de sitios de alunizaje"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "ARTEMIS ATLAS / Navegador de Sitios de Aterrizaje Lunar / EN / POLO SUR LUNAR / Navegador de / Aterrizaje Luna".
+- Tteam Stark (15:04 UTC): [universeexpanded.vercel.app](https://universeexpanded.vercel.app) no ar; título "UniverseExpanded — Lunar Landing Site Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "AI-generated illustration / TEAM STARK · NASA SPACE APPS 2026 · UNIVERSAL EVENT / Navigator / Compare sites /".
+- HyperNova (15:08 UTC): [spaceapps.adeeshaperera.me](https://spaceapps.adeeshaperera.me/) no ar; título "Lunar Skyline"; a mesma capa da ficha anterior (o título já está nesta página); começa por "Lunar Skyline / Open the app /  / NASA SPACE APPS 2026 · LUNAR LANDING SITE NAVIGATOR /  / Lunar Skyline /  /".
+- IntegratedAI (15:08 UTC): [nasa-lunar-ten.vercel.app](https://nasa-lunar-ten.vercel.app/) no ar; título "NASA Lunar "; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Lunar South Pole".
+- Oslo Test Team 2026 (15:08 UTC): o link de projeto é a página inicial da NASA; não é um site do time.
+- Moonle (15:09 UTC): [hkl7-dev.github.io/NasaHackathon26-LunarNavigator](https://hkl7-dev.github.io/NasaHackathon26-LunarNavigator/) no ar; título "moonle · Lunar Landing Site Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Sun, Earth, power and comms at any lunar landing site and date. Terrain from LOLA, ephemeris validated against".
+- MOONDA (15:19 UTC): [moonda.us](https://moonda.us/) no ar; título "MOONDA · Moon landing site explorer"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Getting the view ready… / Sun / Earth / Layers / Compare / ខ្មែរ / Tutorial / AI / 2D / LANDER ARRIVES / 18 No".
+- minnions (15:25 UTC): https://mervesafakkkk.github.io/lunar-landing-navigator/: sem resposta registrada.
+- Regolith Rebels (15:30 UTC): [pinjulin97-maker.github.io/project-regolith-horizon](https://pinjulin97-maker.github.io/project-regolith-horizon/) no ar; título "Lunar Landing Site Navigator "; a mesma capa da ficha anterior (o título já está nesta página); começa por "NASA Space Apps".
+- KiyoSpace (15:32 UTC): repositório [hafdas/kiyospace-lunar-navigator](https://github.com/hafdas/kiyospace-lunar-navigator), último push 2026-11-15 11:58 UTC; homepage https://kiyospace-lunar-navigator-frontend.vercel.app.
+- Astro X Bound (15:34 UTC): repositório [AntoLin-cyber/MUNE-Lunar-Mission-Navigator](https://github.com/AntoLin-cyber/MUNE-Lunar-Mission-Navigator), último push 2026-11-15 10:37 UTC.
+- Team MergeConflict_IUT (15:39 UTC): [moonscope-two.vercel.app](https://moonscope-two.vercel.app/) no ar; título "MoonScope"; a mesma capa da ficha anterior (o título já está nesta página); começa por "MoonScope / Home / Planner / Rescue Mode / Survival Calendar / Shadow DNA / How it works /  / LUNAR SOUTH POLE".
+- Oymuos_022 (15:42 UTC): [selene-x-f56vuucwehbldyafe5cfjx.streamlit.app](https://selene-x-f56vuucwehbldyafe5cfjx.streamlit.app/) no ar; título "SELENE-X"; a mesma capa da ficha anterior (o título já está nesta página); começa por "Skip to main content /  / Overview /  / Site explorer /  / Sky picture /  / Compare scenarios /  / Mission che".
+- Rays of Kindness (15:52 UTC): [shadowline.space](https://shadowline.space) no ar; título "Explore the Moon - Shadowline"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "SHADOWLINE / EXPLORE / PLAN / HOW IT WORKS / SOURCES / EN / UA /  / Loading".
+- CastorLab (15:53 UTC): [mehrafruz.github.io/lunar-horizon](https://mehrafruz.github.io/lunar-horizon/) no ar; título "Lunar Horizon — landing site and date planner"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Lunar Horizon /  / Pick a landing site and a landing time. See when you will have sunlight for power and Earth".
+- Hood Rocketry Department™ (15:57 UTC): [stargazer-clps-lunar-navigator.vercel.app](https://stargazer-clps-lunar-navigator.vercel.app/) no ar; título "Stargazer"; a mesma capa da ficha anterior (o título já está nesta página); começa por "STARGAZER / CLPS LUNAR MISSION NAVIGATOR /  / See when the Sun and Earth are in view from three candidate land".
+- GLYFT (15:58 UTC): [darksight.space](https://darksight.space) no ar; título "Darksight"; a mesma capa da ficha anterior (o título já está nesta página); começa por "DARK / SIGHT / DARKSIGHT /  / Lunar Landing / Site Navigator /  / Start exploring → / More about Darksight ↓ /".
+- The Space Trek (15:59 UTC): [3d-moon-globe.netlify.app](https://3d-moon-globe.netlify.app/) no ar; título "Lunar Landing Site Navigator"; a mesma capa da ficha anterior (o título já está nesta página); começa por "LUNAR LANDING SITE NAVIGATOR /  / NASA Space Apps Challenge • South Pole Telemetry /  / Focus Site / About the".
+- K2 (15:59 UTC): [k2-lunar-horizon.vercel.app](https://k2-lunar-horizon.vercel.app/) no ar; título "Lunar Horizon"; a mesma capa da ficha anterior (o título já está nesta página); começa por "LUNAR HORIZON / Sun & Earth visibility at south pole landing sites / FROM / FOR / 1 day / 1 week / 30 days (≈".
+- Fortuna (16:00 UTC): [dundaryusuf566-maker.github.io/clps-lunar-mission-lite](https://dundaryusuf566-maker.github.io/clps-lunar-mission-lite/) no ar; título "CLPS Lunar Mission Lite"; a mesma capa da ficha anterior (o título já está nesta página); começa por "CLPS Lunar Mission / Lite / Compare / Pick a point / When to launch / Maps / 3D / Griffin-1 / How we know / Ex".
+- _UMBRA_ (16:03 UTC): [daniel27-space.github.io/lunar-navigator](https://daniel27-space.github.io/lunar-navigator/) no ar; título "Umbra: Lunar Landing Site Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Umbra · Lunar Landing Site Navigator /  / The real Moon, in 3D /  / Spin it, zoom in to any crater, and fly lo".
+- AVIRA_LunarNav_RELOADED (16:05 UTC): repositório [2026-NASA-Space-Apps-Besanzon/AVIRA_LunarNav_RELOADED](https://github.com/2026-NASA-Space-Apps-Besanzon/AVIRA_LunarNav_RELOADED), último push 2026-11-15 11:38 UTC.
+- L-SEA (16:08 UTC): repositório [rafaa-sf/l-sea-space-apps](https://github.com/rafaa-sf/l-sea-space-apps), último push 2026-11-15 14:20 UTC; homepage https://rafaa-sf.github.io/l-sea-space-apps/.
+- MoonX (16:10 UTC): repositório [Mjay06/MoonX](https://github.com/Mjay06/MoonX), último push 2026-11-15 17:01 UTC; homepage https://moonx-six.vercel.app.
+- OrbitXI (16:16 UTC): [orbitxi-lunar-landing-site-navigato.vercel.app](https://orbitxi-lunar-landing-site-navigato.vercel.app) no ar; título "Lunar Landing Site Navigator — OrbitXI"; a mesma capa da ficha anterior (o título já está nesta página); começa por "OrbitXI /  / Ephemeris from NASA/JPL Horizons, smooth-sphere horizon (no terrain) /  / South pole 90° S /  / S".
+- Hackclub Marina High School Chapter Team 1 (16:17 UTC): [selenehorizon.vercel.app](https://selenehorizon.vercel.app) no ar; título "Selene Horizon — Lunar South Pole Ephemeris & Mission Planne"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Selene Horizon / Site Planner / Compare Sites / Horizons & Export / Science Guide / Level: / Intermediate / Do".
+- ARIJU-VII (16:28 UTC): [astrosite-arijuvii.netlify.app](https://astrosite-arijuvii.netlify.app/) no ar; título "AstroSite: Lunar Landing Site Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "NASA Space Apps Challenge 2026 / ARIJU-VII".
+- Karak & Cosmos (16:29 UTC): repositório [SaoudBumjaid/LUNARIS](https://github.com/SaoudBumjaid/LUNARIS), último push 2026-11-15 06:57 UTC.
+- Moon crator (16:33 UTC): [harshitachauhan2410.github.io/lunar-navigator](https://harshitachauhan2410.github.io/lunar-navigator/) no ar; título "Lunar Landing Window Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "NASA SPACE APPS 2026 · THE NEXT FRONTIER / Lunar Landing Window Navigator /  / Pick a site, a date and a missi".
+- Aiman Malib (16:34 UTC): [aimanmalib.github.io/spaceapps26](https://aimanmalib.github.io/spaceapps26/) no ar; título "Still in View"; a mesma capa da ficha anterior (o título já está nesta página); começa por "Still in View / Compare / Overview / Play / Teach / Validation / Data sources / About /  / NASA Space Apps Cha".
+- Bon Voyage (16:37 UTC): [moonbound.wiki](https://moonbound.wiki) no ar; título "MOONbound — Lunar Landing Site Navigator"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "PLAN MOON / LANDINGS IN 3D / NASA · APOLLO 8 / NASA · APOLLO 11".
+- DISM4NTLE (16:45 UTC): [13-54-224-119.sslip.io](https://13-54-224-119.sslip.io) no ar; título "Luna Atlas"; a mesma capa da ficha anterior (o título já está nesta página); começa por "Malapert Massif / no window ≤ 30 d / Shackleton crater / Sun up now / de Gerlache crater / Sun up now / Sverdr".
+- Red rocket (16:45 UTC): repositório [ncn1issad/Lunar-Lens](https://github.com/ncn1issad/Lunar-Lens), último push 2026-11-15 12:00 UTC.
+- The polymaths (16:46 UTC): [acookiefor2.github.io/lunar-sites](https://acookiefor2.github.io/lunar-sites/) no ar; título "Terminator — Lunar Sun & Earth Visibility Console"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "TERMINATOR / LUNAR SUN & EARTH VISIBILITY CONSOLE / EPOCH · UTC / −1D / −1H / +1H / +1D / NOW / ▶ PLAY / TERRA".
+- Building Better Worlds (16:47 UTC): repositório [alex-tereshkovv/lunarsight](https://github.com/alex-tereshkovv/lunarsight), último push 2026-11-15 18:13 UTC.
+- SYNEXIS (16:51 UTC): repositório [tyloor2010/SYNEXIS](https://github.com/tyloor2010/SYNEXIS), último push 2026-11-15 16:57 UTC; homepage https://synexiss.site/.
+- Trần Đăng Huy (16:54 UTC): [lunavigator.com](https://lunavigator.com/) no ar; título "Moon Plan B — Sun & Earth comparison"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Skip to content / Moon Plan B / Compare / Plan / Orbit / Data / API / EN / VI / Auto / Auto uses light from 06".
+- TIMOREX (16:55 UTC): repositório [kelekers/selenis](https://github.com/kelekers/selenis), último push 2026-11-15 16:49 UTC; homepage https://selenis-timorex.netlify.app/.
+- 06 Spacelanders (16:57 UTC): [viethedev.github.io/seal](https://viethedev.github.io/seal/) no ar; título "Sun-Earth Analysis for Landing"; o título não está nas fichas anteriores (capa nova ou endereço novo do mesmo time); começa por "Sun - Earth Analysis for Landing /  / NASA Space Apps 2026, Lunar Landing Site Navigator challenge /  / This i".
+- Craterly (16:58 UTC): [lunaslipplanner.vercel.app](https://lunaslipplanner.vercel.app/) no ar; título "Luna Slip Planner "; a mesma capa da ficha anterior (o título já está nesta página); começa por "Lunar Landing Site Navigator".
 
 ## Vigésima terceira inspeção, 15/11/2026, às 10h
 
