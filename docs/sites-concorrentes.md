@@ -1,14 +1,255 @@
 # Os sites no ar dos outros times
 
-Primeira inspeção em [data anterior a 14/11/2026], à noite (horário de Brasília). Segunda em [data anterior a 14/11/2026], à noite: os sites novos por inteiro e, nos antigos, só se estão no ar e se a tela inicial mudou. Terceira em 14/11/2026, de manhã (entre 06:00 e 07:30 de Brasília), no primeiro dia do evento: os sites dos projetos já enviados e dos repositórios novos, e nos antigos só se respondem. Quarta em 14/11/2026, às 10h (10:10 a 10:40 de Brasília): o Sunchaser de novo, quatro sites novos por inteiro e o título dos outros 36. Quinta em 14/11/2026, às 11h (10:45 a 11:20 de Brasília): os 36 que ficaram na fila e os novos da hora, 40 por inteiro. Sexta em 14/11/2026, ao meio-dia (11:10 a 11:20 de Brasília): o Moonat (353) e o 298, que voltou. Sétima em 14/11/2026, às 12h (12:12 a 12:30 de Brasília): o SelenoGrid (356) e o 357 por inteiro, o Sunchaser e um teste de resposta nos outros 110 endereços. Oitava em 14/11/2026, às 15h30 (15:36 a 15:45 de Brasília): os dez sites dos repositórios 363 a 372 e o Sunchaser. Nona em 14/11/2026, a partir das 16h: a revisão completa pedida pelo Luiz, com a ficha de dez campos em cada site já visto (subseção "Revisão de 14/11, 16h" dentro da seção de cada um) e a consulta de referência nos de nível 1 e 2. Nona em 14/11/2026, às 16h (16:03 a 16:20 de Brasília): a primeira com a ficha de dez campos, por inteiro no Sunchaser, no Sightline (392) e no Dawnline (393), com a consulta de referência; os outros sites novos entraram na fila. Décima em 14/11/2026, às 17h (17:13 a 18:10): a fila das 16h40 e os sites novos da hora, com a ficha de dez campos. Décima primeira em 14/11/2026, às 22h (22:13 a 22:47): os sites dos 18 projetos enviados depois de 20:14 UTC e dos repositórios 435 a 467, com a ficha de dez campos, mais o Sunchaser, o Sightline e o Lunar Window de novo. Décima segunda em 14/11/2026, às 23h (23:12 a 23:48): os sites dos repositórios 468 em diante, os dois projetos enviados depois de 00:18 UTC e 36 links de projeto da API do Space Apps que nenhuma rodada tinha aberto, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima terceira em 15/11/2026, à meia-noite (00:12 a 00:27): os cinco projetos enviados depois de 01:43 UTC, os links de times que nenhuma rodada tinha aberto e o site do repositório 484, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima quarta em 15/11/2026, à 1h (01:15 a 01:36): os projetos enviados depois de 03:04 UTC e os sites dos repositórios 488 em diante, quase todos achados pela primeira vez com `gh search code`, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima quinta em 15/11/2026, às 2h (02:17 a 02:38): os oito projetos enviados depois de 04:09 UTC, os links de projeto da API do Space Apps que nenhuma rodada tinha aberto (lidos agora nos 1.732 times, não só nos enviados) e os sites dos repositórios 525 em diante, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima sexta em 15/11/2026, às 3h (03:14 a 03:28): os nove projetos enviados depois de 05:11 UTC, cinco links de times que não enviaram e os sites dos repositórios 542 em diante, com a ficha de dez campos. Décima sétima em 15/11/2026, às 4h (04:12 a 04:35): os treze projetos enviados depois de 06:08 UTC, cinco links de times que não enviaram, os sites dos repositórios 555 em diante e dois sites que voltaram ou subiram (LunaMap e moonseal), com a ficha de dez campos. Décima oitava em 15/11/2026, às 5h (05:14 a 05:47): os doze projetos enviados depois de 07:12 UTC, os links novos de times que não enviaram e os sites dos repositórios 574 em diante, com a ficha de dez campos, mais o Lunar Window (364), o GIT_HAPPENS (453) e o Ribbon (447), que mudaram. Décima nona em 15/11/2026, às 6h (06:14 a 06:42): os dezesseis projetos enviados depois de 08:12 UTC, os links novos de times que não enviaram, os sites dos repositórios 593 em diante, a primeira ficha completa do Darksight (187) e do 171 e a ficha refeita do 2, que foi redesenhado, com a ficha de dez campos. Vigésima em 15/11/2026, às 7h (07:15 a 07:31): os 22 projetos enviados depois de 09:12 UTC, os nove links novos de times que não enviaram, os sites dos repositórios 602 em diante e o Darksight (187), que passou a usar relevo ao norte de 85°S, com a ficha de dez campos. Vigésima primeira em 15/11/2026, às 8h (08:15 a 08:50): os 15 projetos enviados depois de 10:12 UTC, os 23 links que mudaram nos times que não enviaram e os sites dos repositórios 618 em diante, com a ficha de dez campos em 22 sites. Vigésima segunda em 15/11/2026, às 9h (09:16 a 10:32): os 26 projetos enviados depois de 11:07 UTC, os 11 links que mudaram nos times que não enviaram e os sites dos repositórios 642 em diante, com a ficha de dez campos em 23 sites (seis por extenso). Vigésima terceira em 15/11/2026, às 10h (10:20 a 11:00): os 66 projetos enviados entre 12:16 e 13:47 UTC, os links que mudaram nos times que não enviaram e os sites dos repositórios 668 em diante, com a ficha de dez campos em 42 sites (dezessete por extenso), oito deles num quarto bloco das 11:05 às 11:55. Abri cada demo no navegador embutido, como um visitante: página inicial, abas, telas secundárias (método, validação, comparação) e os controles principais. Olhei em largura de desktop e, nos mais fortes (2, 32, 30 e 33), também em 390 px. Só leitura: sem login, sem formulário, sem download. Uma visita por site.
+Primeira inspeção em [data anterior a 14/11/2026], à noite (horário de Brasília). Segunda em [data anterior a 14/11/2026], à noite: os sites novos por inteiro e, nos antigos, só se estão no ar e se a tela inicial mudou. Terceira em 14/11/2026, de manhã (entre 06:00 e 07:30 de Brasília), no primeiro dia do evento: os sites dos projetos já enviados e dos repositórios novos, e nos antigos só se respondem. Quarta em 14/11/2026, às 10h (10:10 a 10:40 de Brasília): o Sunchaser de novo, quatro sites novos por inteiro e o título dos outros 36. Quinta em 14/11/2026, às 11h (10:45 a 11:20 de Brasília): os 36 que ficaram na fila e os novos da hora, 40 por inteiro. Sexta em 14/11/2026, ao meio-dia (11:10 a 11:20 de Brasília): o Moonat (353) e o 298, que voltou. Sétima em 14/11/2026, às 12h (12:12 a 12:30 de Brasília): o SelenoGrid (356) e o 357 por inteiro, o Sunchaser e um teste de resposta nos outros 110 endereços. Oitava em 14/11/2026, às 15h30 (15:36 a 15:45 de Brasília): os dez sites dos repositórios 363 a 372 e o Sunchaser. Nona em 14/11/2026, a partir das 16h: a revisão completa pedida pelo Luiz, com a ficha de dez campos em cada site já visto (subseção "Revisão de 14/11, 16h" dentro da seção de cada um) e a consulta de referência nos de nível 1 e 2. Nona em 14/11/2026, às 16h (16:03 a 16:20 de Brasília): a primeira com a ficha de dez campos, por inteiro no Sunchaser, no Sightline (392) e no Dawnline (393), com a consulta de referência; os outros sites novos entraram na fila. Décima em 14/11/2026, às 17h (17:13 a 18:10): a fila das 16h40 e os sites novos da hora, com a ficha de dez campos. Décima primeira em 14/11/2026, às 22h (22:13 a 22:47): os sites dos 18 projetos enviados depois de 20:14 UTC e dos repositórios 435 a 467, com a ficha de dez campos, mais o Sunchaser, o Sightline e o Lunar Window de novo. Décima segunda em 14/11/2026, às 23h (23:12 a 23:48): os sites dos repositórios 468 em diante, os dois projetos enviados depois de 00:18 UTC e 36 links de projeto da API do Space Apps que nenhuma rodada tinha aberto, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima terceira em 15/11/2026, à meia-noite (00:12 a 00:27): os cinco projetos enviados depois de 01:43 UTC, os links de times que nenhuma rodada tinha aberto e o site do repositório 484, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima quarta em 15/11/2026, à 1h (01:15 a 01:36): os projetos enviados depois de 03:04 UTC e os sites dos repositórios 488 em diante, quase todos achados pela primeira vez com `gh search code`, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima quinta em 15/11/2026, às 2h (02:17 a 02:38): os oito projetos enviados depois de 04:09 UTC, os links de projeto da API do Space Apps que nenhuma rodada tinha aberto (lidos agora nos 1.732 times, não só nos enviados) e os sites dos repositórios 525 em diante, com a ficha de dez campos, mais os de nível 1 e 2 que mudaram. Décima sexta em 15/11/2026, às 3h (03:14 a 03:28): os nove projetos enviados depois de 05:11 UTC, cinco links de times que não enviaram e os sites dos repositórios 542 em diante, com a ficha de dez campos. Décima sétima em 15/11/2026, às 4h (04:12 a 04:35): os treze projetos enviados depois de 06:08 UTC, cinco links de times que não enviaram, os sites dos repositórios 555 em diante e dois sites que voltaram ou subiram (LunaMap e moonseal), com a ficha de dez campos. Décima oitava em 15/11/2026, às 5h (05:14 a 05:47): os doze projetos enviados depois de 07:12 UTC, os links novos de times que não enviaram e os sites dos repositórios 574 em diante, com a ficha de dez campos, mais o Lunar Window (364), o GIT_HAPPENS (453) e o Ribbon (447), que mudaram. Décima nona em 15/11/2026, às 6h (06:14 a 06:42): os dezesseis projetos enviados depois de 08:12 UTC, os links novos de times que não enviaram, os sites dos repositórios 593 em diante, a primeira ficha completa do Darksight (187) e do 171 e a ficha refeita do 2, que foi redesenhado, com a ficha de dez campos. Vigésima em 15/11/2026, às 7h (07:15 a 07:31): os 22 projetos enviados depois de 09:12 UTC, os nove links novos de times que não enviaram, os sites dos repositórios 602 em diante e o Darksight (187), que passou a usar relevo ao norte de 85°S, com a ficha de dez campos. Vigésima primeira em 15/11/2026, às 8h (08:15 a 08:50): os 15 projetos enviados depois de 10:12 UTC, os 23 links que mudaram nos times que não enviaram e os sites dos repositórios 618 em diante, com a ficha de dez campos em 22 sites. Vigésima segunda em 15/11/2026, às 9h (09:16 a 10:32): os 26 projetos enviados depois de 11:07 UTC, os 11 links que mudaram nos times que não enviaram e os sites dos repositórios 642 em diante, com a ficha de dez campos em 23 sites (seis por extenso). Vigésima terceira em 15/11/2026, às 10h (10:20 a 11:00): os 66 projetos enviados entre 12:16 e 13:47 UTC, os links que mudaram nos times que não enviaram e os sites dos repositórios 668 em diante, com a ficha de dez campos em 42 sites (dezessete por extenso), oito deles num quarto bloco das 11:05 às 11:55. Vigésima quarta em 15/11/2026, às 14h (13:58 a 15:05): o Sunchaser e seis sites dos 253 projetos enviados entre 13:47 e 16:59 UTC, com a ficha de dez campos; o resto ficou na fila. Abri cada demo no navegador embutido, como um visitante: página inicial, abas, telas secundárias (método, validação, comparação) e os controles principais. Olhei em largura de desktop e, nos mais fortes (2, 32, 30 e 33), também em 390 px. Só leitura: sem login, sem formulário, sem download. Uma visita por site.
 
 Os números de repositório são os de [repos-concorrentes.md](repos-concorrentes.md). Tudo o que está aqui é o que o site mostra ou declara, não o que eu conferi. A comparação com o nosso app está em [concorrencia.md](concorrencia.md#comparação-com-o-nosso-app).
 
 ## Fila de inspeção
 
-Sites e repositórios com demo que achei e ainda não abri por inteiro. Um item só sai daqui depois da inspeção completa. Atualizada em 15/11/2026 às 11:55 de Brasília.
+Sites e repositórios com demo que achei e ainda não abri por inteiro. Um item só sai daqui depois da inspeção completa. **Atualizada em 15/11/2026 às 15:05 de Brasília.**
 
-**Atualizada às 11:55 de 15/11.** Entraram às 10:20 de 15/11, pela API do Space Apps (lida às 10:13) e por `gh search repos` e `gh search code`, sessenta e um itens (os links dos 37 projetos enviados entre 12:16 e 13:13 UTC, 29 links que mudaram em times que não enviaram, os sites dos repositórios novos e as voltas pendentes) e, às 10:48, mais 43 (os links dos 29 projetos enviados entre 13:16 e 13:47 UTC e 14 links de times que não enviaram que nenhuma rodada tinha aberto). Saíram, na [vigésima terceira inspeção](#vigésima-terceira-inspeção-15112026-às-10h): 42 com a ficha de dez campos (dezessete por extenso), dezessete só com a tela inicial (já tinham ficha) e o resto com motivo externo (login, Drive, Docs, Colab, só vídeo, só slides, só repositório, 404, outro desafio).
+**Entraram às 13:59 de 15/11**, pela API do Space Apps (lida às 13:59, 253 projetos enviados entre 13:47 e 16:59 UTC) e por `gh search repos`. Saíram com a ficha completa às 14h: Peak of Eternal Light, Outliers, o "Sunchaser" do time zenon, Mare Hackematis, ALPHA LUNAR e o do time Larping Masters ([vigésima quarta inspeção](#vigésima-quarta-inspeção-15112026-às-14h)). **Ficaram 100 sites, 58 repositórios enviados sem site achado e 68 links que já tinham ficha e precisam da tela inicial reaberta.** Motivo: a hora de maior envio do evento (253 projetos em pouco mais de três horas) não coube na rodada; não é motivo externo, e a próxima rodada começa por aqui, do mais antigo para o mais novo.
+
+Sites novos (entraram às 13:59; time, local, hora do envio em UTC, link):
+
+- Starship Troopers (Sangolqui, Ecuador; 13:50 UTC): https://cesarleon911.github.io/NASA-SPACE-APP-2026/
+- ASTRA CARTO (Jeddah, Saudi Arabia; 13:50 UTC): https://astra-carto.vercel.app/
+- ASTRA 2.0 (Harohalli, India; 13:51 UTC): https://lunar-apex.vercel.app
+- Orbit-Forge (6 of October, Egypt; 13:51 UTC): https://phelopatererian-boop.github.io/Lunar-landing-/
+- Cosmic Variance (Ankara, Turkey; 13:59 UTC): https://lunasight.netlify.app
+- Falak-6 (Jeddah, Saudi Arabia; 14:02 UTC): https://lunanav-ten.vercel.app/
+- EC PEOPLE (Kanjirappally, India; 14:03 UTC): https://guia-lunar-nasa.vercel.app
+- OreCode (Doha, Qatar; 14:03 UTC): http://www.nasa-allis.courses/
+- AEGis-F (Ankara, Turkey; 14:04 UTC): https://demonszy07.github.io/lunarplanb/
+- Vodka (Port Louis, Mauritius; 14:05 UTC): https://vodka-winning-team.github.io/NASA-Space-Apps-Challenge/, HTTP 404
+- Loop Ladies (6 of October, Egypt; 14:07 UTC): https://aliaayounes22-crypto.github.io/Lunapath-Nasa-App-Challenge/
+- claude.md (Ankara, Turkey; 14:11 UTC): https://nasa-spaceapps-team-claudemd.netlify.app
+- Moonkeeper (Seoul, South Korea; 14:14 UTC): https://nkm1020.github.io/moonkeeper/
+- Moonpossible (Haifa, Israel; 14:30 UTC): https://www.moonpossible.earth
+- Space Besties (Ras Al Khaimah, United Arab Emirates; 14:32 UTC): https://regolithforge.netlify.app/?px=8&py=876
+- G.A.M.A G.P.T (Cottbus, Germany; 14:35 UTC): https://gamagpt.github.io/Lunar-Landing/
+- Newbie (Universal Event, Anywhere in the World; 14:39 UTC): https://moonshift-nasa-2026.vercel.app
+- MAST (Barcelona, Spain; 14:49 UTC): https://www.dropbox.com/scl/fi/1sw812dqni138qr3kkt62/MAST_final.zip?rlkey=b1yhphs9ygsw60xewvjwnrxil&st=gylq2ikl&dl=0
+- Akasha Solo (KUALA LUMPUR, Malaysia; 14:51 UTC): https://lunar-landing-navigator-vfdm.vercel.app/
+- Space conquerors (Tumakuru, India; 14:52 UTC): https://stirring-panda-1f39dd.netlify.app/
+- Ginkgo Orbit (Seoul, South Korea; 14:55 UTC): https://kiisophii.github.io/lunar-landing-site-navigator/
+- The Winners 2026 azare (Azare, Nigeria; 14:57 UTC): https://jarferh-tech.github.io/MoonWindow/
+- PATOS (Milano, Italy; 15:01 UTC): https://lucanaranza.github.io/Lunar_Webapp/
+- Nasa-bbajim (Universal Event, Anywhere in the World; 15:01 UTC): https://lunar-navigator-sigma.vercel.app
+- Rocket Surgeons (Delhi, India; 15:21 UTC): https://lunarsitelandingproject.netlify.app/
+- Letmein (Sakarya, Turkey; 15:21 UTC): https://lunar-devo.github.io/
+- OFOQ | أُفُق (Jeddah, Saudi Arabia; 15:24 UTC): https://ofoq-lunar-navigator-qpjqggmfeucweboc6c4xen.streamlit.app, HTTP 303
+- Lunar Selenix (Kharagpur, India; 15:26 UTC): https://lunar-selenix.vercel.app/
+- MoonSeekers (Coimbatore, India; 15:26 UTC): https://l1nk.dev/z9f2tc5
+- Earthset (Faisalabad, Pakistan; 15:27 UTC): https://earthset.spaceapps-earthset.workers.dev/site
+- Da Cool Kids (Coimbatore, India; 15:28 UTC): https://lunar-landing-site-navigator-pi.vercel.app/
+- Moon Flyers (Sofia, Bulgaria; 15:36 UTC): https://moon-flyers.tail644248.ts.net/
+- LunarExplorers (Oslo, Norway; 15:41 UTC): https://birgit-ct.github.io/lunar-landing-site-navigator/
+- DeployOnFriday (Santa Cruz de la Sierra, Bolivia; 15:41 UTC): http://cornflowerblue-meerkat-181187.hostingersite.com/?l=en
+- GitCantCommit (Manila, Philippines; 15:44 UTC): https://gitcantcommitnasa-web-1qpt.vercel.app/
+- Star Ai Lab (Haldia, India; 15:45 UTC): https://lunar-navigatorsite.vercel.app/
+- TK (Ajmer, India; 15:52 UTC): https://lunar-landing-site-navigator.netlify.app
+- BYTE THE MOON (Milano, Italy; 15:52 UTC): https://byte-the-moon-weld.vercel.app/
+- Nyawit (Jakarta, Indonesia; 15:53 UTC): https://nasa.taruna.me
+- Plero (Singapore, Singapore; 15:54 UTC): https://selene-scout-kpyt6jazya-as.a.run.app/
+- Dell Monitors (KUALA LUMPUR, Malaysia; 15:55 UTC): https://arairo.github.io/NASA_lunarmoon-/
+- PSCUPM-Albert and the Einsteins (KUALA LUMPUR, Malaysia; 15:57 UTC): https://vocal-blancmange-302e59.netlify.app
+- Project Hail Mayari (Universal Event, Anywhere in the World; 15:58 UTC): https://lunav-phi.vercel.app/
+- CHARMAQ (Gaziantep, Turkey; 15:58 UTC): https://gleeful-strudel-ee9268.netlify.app, HTTP 401
+- Cislunar (Montréal, Canada; 15:59 UTC): https://zachrobitaille.github.io/CisLunar/
+- La La Land (KUALA LUMPUR, Malaysia; 15:59 UTC): https://sparkling-gecko-a794e1.netlify.app/
+- Brickheads (Cochabamba, Bolivia; 15:59 UTC): https://brickheads-lunar-landing-site-navig.vercel.app/
+- Horizon Circuits (Surabaya, Indonesia; 16:03 UTC): https://fowlu.github.io/lunar-window-planner/
+- Nova Squads (Azare, Nigeria; 16:04 UTC): https://vector-horizon.onrender.com
+- Lunar Heuristics: (Universal Event, Anywhere in the World; 16:04 UTC): https://lunar-heuristics.vercel.app
+- Séléné (Besançon, France; 16:05 UTC): https://mega.nz/file/g5pCWJrQ#-7juCyqbIIRwLl4adDOjUYMzXfSk7ScNBv-x4Ayc-dM
+- Pheonix Knights (Amaravati, India; 16:06 UTC): https://bhuvan-reddy-07.github.io/Pluton-NSA/
+- Alien Cats (Eskişehir, Turkey; 16:07 UTC): https://nilk12186-code.github.io/NasaSpaceAppChallange/, HTTP 503
+- Crescent Dev (Universal Event, Anywhere in the World; 16:10 UTC): https://akzoialzhn9.github.io/crescent-lunar-navigator/
+- OPAQUE (Thrissur, India; 16:10 UTC): https://lunar-explorer.vercel.app/
+- Quasar ⭐ (Gaziantep, Turkey; 16:10 UTC): https://lunaris.quasacode.com/en/
+- Plastic Tree (Universal Event, Anywhere in the World; 16:12 UTC): https://gankonadoni95.github.io/Lunar-Horizon/
+- Mochileiros das Galáxias (Luanda, Angola; 16:13 UTC): https://lunarisproject.vercel.app/
+- RPM (Dnipro, Ukraine; 16:13 UTC): https://tarashunchak.github.io/NasaHackathon/
+- Asteriq (Shivamogga, India; 16:16 UTC): https://nasa-hackathon-one.vercel.app/
+- ARKLUNAR (Abu Dhabi, United Arab Emirates; 16:17 UTC): https://cautious-palm-tree-6vrvvp5q477j24w74-8000.app.github.dev/
+- Lunarise (Dhaka, Bangladesh; 16:17 UTC): https://abrupt-omelet-ovqyt.ship.place/
+- Aterin (Kyiv, Ukraine; 16:17 UTC): https://nasa-space-apps-challenge-git-main-httpsvercelcommax-dev.vercel.app/
+- HexaKong (Jakarta, Indonesia; 16:18 UTC): https://skyline.dftrg.com
+- Beyond Earth Engineering and Space Research Alliance (BEESRA) (Universal Event, Anywhere in the World; 16:19 UTC): https://colab.research.google.com/drive/1a2F7zOmqDLO3Mp9Qq108Muy5I7xHr6mC?usp=sharing
+- Fl2mw (Hyderabad, India, India; 16:21 UTC): https://fl2mw.github.io/lunarwindow/
+- The Starseekers (Singapore, Singapore; 16:24 UTC): https://lunar-navigator-spaceapps.vercel.app
+- The Prototype (Thrissur, India; 16:25 UTC): https://lunaristheprototype-71bd90.netlify.app
+- Lunar Conqueror (Ho Chi Minh, Vietnam; 16:26 UTC): https://lunarsight.vercel.app/
+- team98792837 (Universal Event, Anywhere in the World; 16:26 UTC): https://lunar-navigator-drab.vercel.app/
+- sitelight (Coimbatore, India; 16:28 UTC): https://sitelight.vercel.app/
+- BK_SLAYER (Ho Chi Minh, Vietnam; 16:29 UTC): https://lunar-navigator-six.vercel.app
+- LunarScope (Bangalore, India; 16:30 UTC): https://elegant-valkyrie-c5bd62.netlify.app/
+- Estelar 1 (Ciudad del Este, Paraguay; 16:31 UTC): https://artemis-forge-estelar-1.vercel.app/index.html
+- Nova Mind (Colombo, Sri Lanka; 16:31 UTC): https://lunar-scope.vercel.app/
+- Moonbyte (6 of October, Egypt; 16:31 UTC): https://moonbyte-7dzt.vercel.app/lunar-navigator/
+- Astryon (Raipur, India; 16:33 UTC): https://lunar-landing-site-navigator-tcp0.onrender.com
+- To Land or Not to Land: Lunar Landing Site Navigator (Universal Event, Anywhere in the World; 16:34 UTC): https://to-land-or-not-to-land.vercel.app/
+- Horizon Breachers (Ramallah, Palestinian Territories; 16:37 UTC): https://lunanator.horizonbreachers.workers.dev/#home
+- CALYPSO (Bangalore, India; 16:38 UTC): https://lunar-missionbrowser-1.onrender.com/
+- Space_craft (Trivandrum, India; 16:38 UTC): https://amrutha02426.github.io/luna-nav/
+- LunaScope (Colombo, Sri Lanka; 16:39 UTC): https://luna-scope.afras.dev/
+- COSMOSMARTES (Dushanbe, Tajikistan; 16:40 UTC): https://lunar-navigator-nasa.streamlit.app/, HTTP 303
+- Team J.A.I (Chennai, India; 16:42 UTC): https://www.dropbox.com/scl/fi/8111qdtemfel59709th6d/Team-J.A.I-Lunar-Autonomy-Master-Deck.pdf?rlkey=24s9qje2ndc2ep7t33w91oxwa&st=vsq972qr&dl=0
+- Glint (Zugdidi, Georgia; 16:43 UTC): https://llsn.pages.dev/
+- team solace (Harohalli, India; 16:45 UTC): https://nasakepler.vercel.app
+- ShadowLine (Universal Event, Anywhere in the World; 16:46 UTC): https://shadowline-navigator.vercel.app
+- TENET blue (Kanjirappally, India; 16:46 UTC): https://tenetblue6-bot.github.io/LUNAR-LANDING-SITE-NAVIGATOR/
+- Claude Opus 5.5 (Almaty, Kazakhstan; 16:47 UTC): https://moonsill.onrender.com, HTTP 000
+- Astra Motion (Universal Event, Anywhere in the World; 16:50 UTC): https://space-explorer-astra.vercel.app
+- Ag - nas (Mymensingh, Bangladesh; 16:51 UTC): https://shair73.github.io/polarclock1/
+- Lunar explorers (Bhopal, India; 16:52 UTC): https://selenenasa.netlify.app/
+- LUNAV (Jakarta, Indonesia; 16:53 UTC): https://lunav.earth/
+- Celestial (Pune, India; 16:53 UTC): https://celestial-nine-tau.vercel.app/
+- Stellaron (Kannur, India; 16:53 UTC): https://stellaron.vercel.app
+- Penaburians (Bandung, Indonesia; 16:55 UTC): https://moonslip.netlify.app/
+- Zero Gravity Labs (Delhi, India; 16:57 UTC): https://moonis.vercel.app/
+- Code Mavericks (Medellín, Colombia; 16:57 UTC): https://nasa-hackaton-lunar-topography.vercel.app/
+- Horizon90 (Kyiv, Ukraine; 16:58 UTC): https://luna.tutpro.org/
+- Cumulus (Virudhunagar, India; 16:59 UTC): https://selene3d-mzvw.vercel.app/
+
+Repositórios enviados como link de projeto (entraram às 13:59; os que são novos estão em [repos-concorrentes.md](repos-concorrentes.md#novos-de-15112026-às-14h), 697 a 789; falta ler o README e achar o site):
+
+- EXENOS (Thrissur, India; 13:51 UTC): https://github.com/Niyasmc47/LunarExenos2026
+- gedegeutecene (Cluj-Napoca, Romania; 13:58 UTC): https://github.com/mihaicostache1/nasa-space-apps
+- Project Hail Mary Thumbs Up (Manila, Philippines; 14:00 UTC): https://github.com/Trashbindev/Lunar-Navigation-Map.git
+- She'ar Force (Ankara, Turkey; 14:01 UTC): https://github.com/yajmurrs/she-ar-force-navigator
+- LunaTwin (Jeddah, Saudi Arabia; 14:07 UTC): https://github.com/qarimarya10-lgtm/LunaTwin1.git
+- Tudou (KUALA LUMPUR, Malaysia; 14:09 UTC): https://github.com/truffleloaf/Lunar-Mission-Navigator
+- Marvel (6 of October, Egypt; 14:10 UTC): https://github.com/adelreda2008/LUNAPATH
+- MAX-Q (Istanbul, Turkey; 14:15 UTC): https://github.com/kekurttel/MAXQMOON
+- CosmynX (Kandy, Sri Lanka; 14:16 UTC): https://github.com/Oshaniderun/CosmynX
+- UluNova (Bursa, Turkey; 14:24 UTC): https://github.com/Ferhat-01/lunar-landing-site-navigator-3d1.git
+- Supersonic Legends (Bursa, Turkey; 14:27 UTC): https://github.com/yk-mutlu/lunar-site-assessment
+- ENIGMA SPACE (Ankara, Turkey; 14:27 UTC): https://github.com/kingos352/luna-sight
+- NERF (Kohima, India; 14:28 UTC): https://github.com/shivam8368215871-sys/lunar-landing-site-navigator
+- OrbitalUV (Valencia, Spain; 14:33 UTC): https://github.com/Noehm12/OrbitalUV.git
+- DD Engineering (Singapore, Singapore; 14:36 UTC): https://github.com/devadd2105-max/Clearway
+- Vi@bility42 (Valencia, Spain; 14:41 UTC): https://github.com/8who/Lunar-Landing-Site-Nav
+- AETHEREUS (Taipei, Taiwan; 14:52 UTC): https://github.com/kakashi4896/AETHEREUS_2026_project
+- SH STEMERS (Shebeen El-Kom, Egypt; 14:54 UTC): https://github.com/saif3348768578/SH-STEMERS
+- Schrodinger's Cat (Kochi, India; 14:59 UTC): https://github.com/Dhinu-2001/NASA-Space-Apps-2026.git
+- Proj. ENZYLA (Legazpi City, Philippines; 14:59 UTC): https://github.com/azemo-cpp/Proj.ENZYLA
+- Lunar Maps (Singapore, Singapore; 15:02 UTC): https://github.com/walizow/Lunar-Maps
+- CodeXY (Bhopal, India; 15:03 UTC): https://github.com/SidzArt/CLPS-Lunar-Module
+- AstroDYNAMICS (Milano, Italy; 15:06 UTC): https://github.com/gabrielebirri/astroDYNAMICS.git
+- Ibains (Dadu, Pakistan; 15:10 UTC): https://github.com/Abdul-Kabeer78/Earth_System_Trendetective
+- Stargate (Singapore, Singapore; 15:15 UTC): https://github.com/MohamedIkbal/Solar-Terminator
+- Tech spatranzz (Chennai, India; 15:19 UTC): https://github.com/Thaneshiyyappan/Lunar_learning_portal
+- Prospecta (Oslo, Norway; 15:20 UTC): https://github.com/mar109us/prospector
+- Lunar Horizon Analytics (Karachi, Pakistan; 15:26 UTC): https://github.com/Irfan-code-cloud/CLPS-Lunar-South-Pole-Horizon-Browser.git
+- 3andna 7al (Shebeen El-Kom, Egypt; 15:30 UTC): https://github.com/M9nx/Lunar-Hackathon
+- Anonymous member 492 (Ho Chi Minh, Vietnam; 15:32 UTC): https://github.com/phongletu/Anonymous-member-492-
+- NullPointer (Santa Cruz de la Sierra, Bolivia; 15:34 UTC): https://github.com/Tarqui-Mamani-Yimy/nullNasaP.git
+- Apeejians (Haldia, India; 15:34 UTC): https://github.com/Arknath846-dot/Astralune.git
+- Drunk Owl (Surabaya, Indonesia; 15:35 UTC): https://github.com/voccy/lunabackendreal/tree/main
+- LunarEnvelope (Multan, Pakistan; 15:43 UTC): https://github.com/hariszafar740-lang/hariszafar740-lang/tree/e20ef4fda50f5e189ab11754dae5c159a0d826ff/lunar-envelope
+- BZLunar (Riyadh, Saudi Arabia; 15:45 UTC): https://github.com/khaled222K/BZlunar-landing-site-navigator
+- RESONA (Mumbai, India; 15:48 UTC): https://github.com/sarthaky363-ux/NASA-SPACE-APPS-CHALLENGE
+- Moon Bytes (Santa Cruz de la Sierra, Bolivia; 15:52 UTC): https://github.com/ELkin2624/Lunar-Landing-Site-Navigator
+- Lunar Prime (Singapore, Singapore; 15:59 UTC): https://github.com/Aryand43/lunar-prime
+- The Moroccanauts: Taht Dar (Ben Guerir, Morocco; 16:00 UTC): https://github.com/x1mlqn/NasaSpaceApp-Challenge
+- CSM Space (Meknès, Morocco; 16:05 UTC): https://github.com/ChaymaeCoding/nasa-hack
+- Rovion (Chennai, India; 16:07 UTC): https://github.com/Gowtham-0315/NASA-Lunar
+- AXON (Universal Event, Anywhere in the World; 16:08 UTC): https://github.com/devanshi442/AXON
+- MoonBunny (New York, NY, United States; 16:10 UTC): https://github.com/shamalzahra/MoonBunny
+- AAST engineering (Salam Misr, Egypt; 16:15 UTC): https://github.com/youssefkamall/Light_Link
+- Nabla Team (Santa Cruz de la Sierra, Bolivia; 16:17 UTC): https://github.com/Hackaton-NasaBol/lunascope.git
+- Snow leopard (Universal Event, Anywhere in the World; 16:18 UTC): https://github.com/dilmun1101/lunar-landing-site-navigator
+- Nyxara_in (Kanjirappally, India; 16:19 UTC): https://github.com/nyxaraindia/LUNA-NAV
+- Gypsy Danger (Raipur, India; 16:26 UTC): https://github.com/Inert-Om/ArtemisOS/
+- Adinfinitium (Pune, India; 16:33 UTC): https://github.com/Imok282/Adinfinitium
+- AutoPilot (Kandy, Sri Lanka; 16:36 UTC): https://github.com/azhendilhara/LunaRIDGE-2026
+- kodeX (Sivas, Turkey; 16:40 UTC): https://github.com/SeymanurYlmz/LUNA_Navigator
+- Lunar Shield (Faisalabad, Pakistan; 16:42 UTC): https://github.com/Shiro3264/Lunar-Site-Nav
+- OneXDegree (Universal Event, Anywhere in the World; 16:43 UTC): https://github.com/JTI22/One_Degree_Lunar_Planner.git
+- 100% Phys-Info UdeM (Montréal, Canada; 16:48 UTC): https://github.com/Cass3139/LunarLandingSite
+- ASTRO AI (Shivamogga, India; 16:53 UTC): https://github.com/gaganbk23/lunar-landing-site-navigator
+- LONOS (Boston, MA, United States; 16:55 UTC): https://github.com/EJainDev/Nasa-Space-Apps
+- Singularityy (Bangalore, India; 16:57 UTC): https://github.com/sachitharao491-a11y/Lunar-landing-navigation.git
+- SMA Negeri 49 Jakarta (Jakarta, Indonesia; 16:58 UTC): https://github.com/SitiZainabArrabiihah/lumenwise
+
+Já tinham ficha; enviados agora; falta reabrir a tela inicial e conferir se mudou (entraram às 13:59):
+
+- Albedo (13:50 UTC): https://rizgarozan.github.io/albedo-spaceapps/web/
+- !0aSS - SpaceSoldiers (13:51 UTC): https://github.com/Umutcagn/lunar-landing-navigator
+- Team_of_AEers (13:53 UTC): https://github.com/quentinliu-a11y/Lunar_Landing_Optimal_System
+- Crescent Luna (13:55 UTC): https://dhanukesavan214-source.github.io/Lunar-landing-site-navigation-/
+- Narinform (13:57 UTC): https://github.com/yujixli88/Lunar-landing-site-navigation
+- Horizon Protocol (13:57 UTC): https://github.com/Sezergumus/lunaris
+- SkyCode (13:58 UTC): https://github.com/Egemen2611/AyInisNavigatoru
+- ✦ IT STEP Poltava × Mindal1ka.com ✦ (13:58 UTC): https://github.com/Mindal1ka/lunar-site-navigator
+- LunaZen (13:59 UTC): https://lunazen-v1.vercel.app/
+- EarthResident (14:00 UTC): https://lunamap.leozzmc.com/
+- CCode (14:01 UTC): https://ccode-lunarlandingsitenavigator.netlify.app/
+- NIRJAYA Labs (14:02 UTC): https://catyee-cty.github.io/hackathon2/
+- SolutionX (14:03 UTC): https://lunawin.myspaceproject.app/
+- Fractured Toes (14:03 UTC): https://penumbra-lunar.pages.dev
+- REGOLITH FINDER (14:23 UTC): https://github.com/oiassix/Regolith-Finder
+- Orbiting_Alpha (14:32 UTC): https://github.com/Vaibhavi-1107/orbiting_alpha_lunar_mission_browser
+- HorizonLine Solo (14:32 UTC): https://sameermistrii.github.io/horizonline/app/
+- Aeroespeciais lunares (14:33 UTC): https://martimcorreia30-coder.github.io/aeroespeciais_lunares/
+- Cosall (14:35 UTC): https://cosall.onrender.com
+- LUNARAº (14:36 UTC): https://github.com/JuanGilArregui/lunara-
+- Hawkins (14:37 UTC): https://nasa-lunar-x2her4ehyq-el.a.run.app/
+- Gemini (14:46 UTC): http://195.62.49.174/
+- AZAS (14:48 UTC): https://azas-fe-xi.vercel.app/
+- Lunar G-Spotters (14:49 UTC): https://github.com/kaizarmerchantt-git/Lunar-G-spotters
+- sparks-allot (14:50 UTC): https://redwhiteblue.net/nasa/
+- DU:NE (14:53 UTC): https://du-ne-mission-portal.ellfuge1507.workers.dev/
+- Gabay (14:55 UTC): https://gabay-tanaw.app
+- Datanauts (14:57 UTC): https://github.com/Datanauts-Nasa-Space-Apps-Challenge
+- HerTech (15:02 UTC): https://lunar-landing-site-six.vercel.app/
+- Tteam Stark (15:04 UTC): https://universeexpanded.vercel.app
+- HyperNova (15:08 UTC): https://spaceapps.adeeshaperera.me/
+- IntegratedAI (15:08 UTC): https://nasa-lunar-ten.vercel.app/
+- Oslo Test Team 2026 (15:08 UTC): https://www.nasa.gov/
+- Moonle (15:09 UTC): https://hkl7-dev.github.io/NasaHackathon26-LunarNavigator/
+- MOONDA (15:19 UTC): https://moonda.us/
+- minnions (15:25 UTC): https://mervesafakkkk.github.io/lunar-landing-navigator/
+- Regolith Rebels (15:30 UTC): https://pinjulin97-maker.github.io/project-regolith-horizon/
+- KiyoSpace (15:32 UTC): https://github.com/hafdas/kiyospace-lunar-navigator?tab=MIT-1-ov-file
+- Astro X Bound (15:34 UTC): https://github.com/AntoLin-cyber/MUNE-Lunar-Mission-Navigator
+- Team MergeConflict_IUT (15:39 UTC): https://moonscope-two.vercel.app/
+- Oymuos_022 (15:42 UTC): https://selene-x-f56vuucwehbldyafe5cfjx.streamlit.app/
+- Rays of Kindness (15:52 UTC): https://shadowline.space
+- CastorLab (15:53 UTC): https://mehrafruz.github.io/lunar-horizon/
+- Hood Rocketry Department™ (15:57 UTC): https://stargazer-clps-lunar-navigator.vercel.app/
+- GLYFT (15:58 UTC): https://darksight.space
+- The Space Trek (15:59 UTC): https://3d-moon-globe.netlify.app/
+- K2 (15:59 UTC): https://k2-lunar-horizon.vercel.app/
+- Fortuna (16:00 UTC): https://dundaryusuf566-maker.github.io/clps-lunar-mission-lite/
+- _UMBRA_ (16:03 UTC): https://daniel27-space.github.io/lunar-navigator/
+- AVIRA_LunarNav_RELOADED (16:05 UTC): https://github.com/2026-NASA-Space-Apps-Besanzon/AVIRA_LunarNav_RELOADED
+- L-SEA (16:08 UTC): https://github.com/rafaa-sf/l-sea-space-apps
+- MoonX (16:10 UTC): https://github.com/Mjay06/MoonX
+- OrbitXI (16:16 UTC): https://orbitxi-lunar-landing-site-navigato.vercel.app
+- Hackclub Marina High School Chapter Team 1 (16:17 UTC): https://selenehorizon.vercel.app
+- ARIJU-VII (16:28 UTC): https://astrosite-arijuvii.netlify.app/
+- Karak & Cosmos (16:29 UTC): https://github.com/SaoudBumjaid/LUNARIS
+- Moon crator (16:33 UTC): https://harshitachauhan2410.github.io/lunar-navigator/
+- Aiman Malib (16:34 UTC): https://aimanmalib.github.io/spaceapps26/
+- Bon Voyage (16:37 UTC): https://moonbound.wiki
+- DISM4NTLE (16:45 UTC): https://13-54-224-119.sslip.io
+- Red rocket (16:45 UTC): https://github.com/ncn1issad/Lunar-Lens
+- The polymaths (16:46 UTC): https://acookiefor2.github.io/lunar-sites/
+- Building Better Worlds (16:47 UTC): https://github.com/alex-tereshkovv/lunarsight
+- SYNEXIS (16:51 UTC): https://github.com/tyloor2010/SYNEXIS
+- Trần Đăng Huy (16:54 UTC): https://lunavigator.com/
+- TIMOREX (16:55 UTC): https://github.com/kelekers/selenis/
+- 06 Spacelanders (16:57 UTC): https://viethedev.github.io/seal/
+- Craterly (16:58 UTC): https://lunaslipplanner.vercel.app/
+
+Saíram com motivo externo (13:59): os 21 projetos cujo link é só uma pasta ou arquivo no Google Drive, um Canva ou um vídeo, sem site; ver o conteúdo seria baixar arquivos ou entrar com conta: interstellarteam (Van, Turkey; 13; Bean Drift (KUALA LUMPUR, Malaysia; 13; JPTECH (Ahmedabad, India; 13; STCJC (Cluj-Napoca, Romania; 14; Selene Team (Universal Event, Anywhere in the World; 14; Algoz (Kannur, India; 14; Astraman (Milano, Italy; 14; LONELY LUNAR (Thrissur, India; 14; Space team (Kochi, India; 14; LunarPulse (İzmir, Turkey; 14; Archemetis_lunar (Mysore, India; 15; GIK (KUALA LUMPUR, Malaysia; 15; Lunar-tic (KUALA LUMPUR, Malaysia; 15; Nehir Duan Team (Şanlıurfa, Turkey; 16; Yorix.um (Universal Event, Anywhere in the World; 16; Zenith; Orecx (Kanjirappally, India; 16; INFINITUM (Universal Event, Anywhere in the World; 16; Night Owls (NAGPUR, India; 16; Trināka Dynamics (Raipur, India; 16; Civilianz (Thrissur, India; 16.
+
+Volta à fila se subir: **Naviluna**, **Skimline** (525), **500, Penumbra**, **484, SELENARA X**, **Orbital Insight** (611), **MAXQMOON**, **Kijanki** e **Astrea**, como às 10h (não reabri nesta rodada).
+
+Fila anterior (11:55). **Atualizada às 11:55 de 15/11.** Entraram às 10:20 de 15/11, pela API do Space Apps (lida às 10:13) e por `gh search repos` e `gh search code`, sessenta e um itens (os links dos 37 projetos enviados entre 12:16 e 13:13 UTC, 29 links que mudaram em times que não enviaram, os sites dos repositórios novos e as voltas pendentes) e, às 10:48, mais 43 (os links dos 29 projetos enviados entre 13:16 e 13:47 UTC e 14 links de times que não enviaram que nenhuma rodada tinha aberto). Saíram, na [vigésima terceira inspeção](#vigésima-terceira-inspeção-15112026-às-10h): 42 com a ficha de dez campos (dezessete por extenso), dezessete só com a tela inicial (já tinham ficha) e o resto com motivo externo (login, Drive, Docs, Colab, só vídeo, só slides, só repositório, 404, outro desafio).
 
 **Vazia às 11:55.** Os oito que tinham ficado na fila às 11:00 sem motivo externo saíram com a ficha de dez campos no quarto bloco da vigésima terceira inspeção: MoonScope, L.U.N.A. do TerraBits, Cosall, WISPR do Hawkins no endereço novo, SELENE-GPU, The Space Trek, AstroApex e Tanaw.
 
@@ -64,6 +305,128 @@ Saíram com motivo externo (00:23 a 00:25):
 - 484, SELENARA X (Nilanjan-Nayak/CLPS_Lunar): clps-lunar.vercel.app responde 404 "DEPLOYMENT_NOT_FOUND"; o último commit (03:01 UTC) configura o deploy. Volta à fila se subir.
 - MAJIX (Cairo, enviado): o link é um artifact do claude.ai ("Lunar Sentinel v3"). Ler um artifact de outra pessoa pede a aprovação do Luiz, e esta rodada roda sem ninguém para aprovar. Não abri.
 - ARTEMIS Autonomous Systems (San Marino, Califórnia, evento virtual, enviado): o link é um registro no Zenodo (v3, 14/11, MIT; a primeira versão é de [data anterior a 14/11/2026]) com dois vídeos e um zip de 16,1 MB; não há site. Ver o app exigiria baixar e rodar o zip. A descrição declara DE421, rotação da IAU, horizonte do LOLA, janelas de Terra com libração, dimensionamento de energia, orçamento de enlace da DSN, distância até a sombra permanente e um "motor de decisão autônomo" com veredito encadeado por SHA-256.
+
+## Vigésima quarta inspeção, 15/11/2026, às 14h
+
+De 13:58 a 15:05 de Brasília, no navegador embutido, a 1.024 px e a 390 px. Os horários de cada ficha são aproximados (≈). Só leitura, uma visita por site, sem login e sem formulário com dado pessoal; as consultas de ponto e data são cálculo, não cadastro. Não abri nenhum assistente de IA. A consulta de referência é a mesma: **A** é o ponto final do IM-2 Athena, de 06/03/2025 00:00 UTC, 48 h, a 2 m; **B** é o Connecting Ridge, de 01/12/2026 00:00 UTC, 29,5 dias, a 2 m. **A nossa API respondeu às 13:58 (16:58 UTC), HTTP 200** (A em 0,6 s, B em 0,4 s), com os mesmos números de antes: A, 48 h de Sol (fração média 0,975) e 48 h de Terra, sem pôr do Sol; B, 708,73 h de Sol, 331,39 h de Terra (46,8%), nascer da Terra às 16:05:27 de 13/12 e pôr às 11:28:58 de 27/12, os dois atrás do Mons Malapert. O nosso site também abriu no navegador embutido (ver [concorrencia.md](concorrencia.md#o-nosso-app-hoje)).
+
+**Por que a fila cresceu:** entre 13:47 e 16:59 UTC a API do Space Apps registrou **253 projetos enviados** neste desafio (eram 66 nas duas horas da rodada anterior). Deles, 68 apontam para links que já têm ficha, 21 só para Drive, Canva ou vídeo, 58 para repositórios no GitHub e 106 para sites que nenhuma rodada tinha aberto. Antes de abrir, baixei o HTML e o script principal de cada um dos 106 (só leitura, um pedido por arquivo) e ordenei pelas fontes que citam (LOLA, SPICE, DE440, Horizons, PGDA, Mazarico, Barker). Abri por inteiro seis dos que mais citavam essas fontes (Larping Masters, Outliers, ALPHA LUNAR, zenon, Peak of Eternal Light e Mare Hackematis); os outros estão na fila acima, na ordem do envio.
+
+**Sunchaser (125):** aberto às 13:59. No ar, a mesma tela inicial ("Live · 15 Nov 2026, 17:00 UTC · Connecting Ridge · Sun 100% · Earth 0%", "Compare 25 landing sites", "90-second guided tour"). Um commit novo, às 15:57 UTC de 15/11: "Add MIT LICENSE". Nada de cálculo ou tela.
+
+### Peak of Eternal Light (time Peak of Eternal Light, Kyiv, Ucrânia; RenatTOP/peak-of-eternal-light, repositório 518; enviado às 16:57 UTC, com vídeo), ficha completa, site novo, **nível 1**
+
+[peak-of-eternal-light.pages.dev](https://peak-of-eternal-light.pages.dev), visto em 15/11/2026 entre ≈14:39 e ≈14:50. Repositório criado em 13/11 às 23:04 UTC, 69 commits, sem licença.
+
+1. **Pergunta:** "Where on the Moon can a lander see the Sun, and Earth?". Abre no Connecting Ridge em 01/01/2027 com quatro números grandes: Solar energy 87% ("flat ground 52%"), Link to Earth 55%, Sun + Earth 53%, Longest night 4,5 d, e logo abaixo "TERRAIN ±" (Sol 85–89%, Terra 55%, noite 4,3 a 10,2 d).
+2. **Rotas:** Explore, Stories (tour de 2 minutos), Compare, Missions, Data & method (How it works, Data, Validation); dentro do Explore, Power check, Best landing dates, Around this spot, Stand here in 3D e Lat, lon.
+3. **Controles:** a data 2026-12-01 recalcula tudo e vai para o link (`#site=connecting-ridge&from=2026-12-01`); o período "Lunar day" troca para Sol 100%, Terra 51%, noite 0 h; "Lat, lon" com 84.7906S 29.1957E, data 2025-03-06 e período de 14 d vira "for this point" com o Sol a 1,73° e 31% do disco à vista. Cada mudança entra no link.
+4. **Desktop e 390 px:** a 390 px não há rolagem lateral (`scrollWidth` 390); a pergunta e os três passos vêm primeiro e as abas ficam embaixo. Bom.
+5. **Dados:** conferido na rede: `/data/ephem.bin`, `/data/horizons/connecting-ridge.bin`, `/data/horizons/clones/index.json`, `/data/dem/dem.json` e `/data/gdem/gdem.json`; a página diz "Everything runs client-side; no server". Declarado: SPICE DE440 com MOON_ME de 1969 a 2035; LOLA de 5 m nos sítios (os 100 clones do PGDA), 80 e 120 m traçados ao vivo até 33–47 km, uma grade de montanhas distantes, 474 m e 1,9 km no resto da Lua, SLDEM2015 de 59 m nos pousos fora do polo; painéis e antena a 2 m; Sol pela fração do disco, Terra por qualquer pedaço do disco.
+6. **Validação:** na aba Data & method, com números: 229 pontos contra os mapas do PGDA em 18,6 anos, Sol r = 0,995 com viés −0,6 pp e Terra r = 0,995 com +1,1 pp; os 100 clones mudam o Sol do ano em 0,2 a 1,2 pp (1σ) e a maior noite em dias (Peak near Shackleton, 5,7 a 10,4 d); o pôr do Sol do Chandrayaan-3 e do IM-1 reproduzidos; Sol do Apollo 11 e 12 a 10,70° e 5,14°, contra 10,65° e 5,19° do diário; **o Blue Ghost 1 com a diferença escrita** (o Sol começa a se pôr às 18:42 e some às 19:48, contra o fim do dia relatado em 18:15–18:35); o horizonte ao vivo contra o de 5 m difere em mediana 0,3 pp. Sem tolerância declarada.
+7. **Funcionalidades:** dispersão de pouso: tem (37 pontos de 0,5 a 5 km, com inclinação até 10°); horizonte plano ao lado: tem ("flat ground 52%"); DSN: não tem (só a Terra acima do relevo); bateria: tem (painel, bateria, duas cargas, a menor bateria que basta); atraso: parcial (o calendário de pouso por dia do ano); melhor/típico/pior: parcial (dias bons, apertados e vermelhos); inclinação: parcial (só no "Around this spot"); folha de aula: não tem; assistente: não tem; contagem com causa: parcial ("Sunset in 78 d 5 h", sem o relevo nomeado); Occluder nomeado: não tem ("1.2° below the ridge"); faixa de incerteza do DEM: **tem** (100 clones, 5–95%); escada de resolução: não tem; PT: não tem.
+8. **Consulta de referência:** A (o nosso ponto, 2 m, 14 d): às 00:00 de 06/03/2025, Sol a 1,73° com 31% do disco e Terra a 10,84°; primeiro pôr do Sol às 22:56 de 19/03; Sol e Terra juntos o período todo. Nós, às 00:00: Sol a 1,729° com fração 0,305 e Terra a 10,84°; nenhum pôr do Sol nas 48 h. **Batem.** B (o Connecting Ridge deles, 89,439°S 222,90°E, um dia lunar desde 01/12/2026): Sol 100%, Terra 51%, nascer da Terra às 00:47 de 13/12. Nós, 46,8% e 16:05. **Divergem em 4,2 pontos e 15 h:** o ponto deles fica a ~0,8 km do nosso (89,4661°S 136,949°W), a Terra conta por qualquer pedaço do disco (nós pelo centro) e o passo é de uma hora. Sem referência para decidir.
+9. **Erros e lentidão:** nenhum; cada recálculo leva de 2 a 5 s.
+10. **Notas:** Influence 5 (qualquer ponto e data, bateria e dispersão na mesma tela); Creativity 4 (o "flat ground" ao lado e o caminho mais ensolarado do rover); Validity 5 (229 pontos, 100 clones, pousos reais com a falha do Blue Ghost escrita); Relevance 5 (Sol, Terra, contagem, bateria, datas, incerteza); Presentation 4 (pergunta clara, tour de 2 min, vídeo; sem PT).
+
+- **O que eles têm e nós não:** ponto livre fora do polo (Apollo, Chang'e, SLIM, Blue Ghost) e datas de 1969 a 2035; a faixa do relevo nos números da capa (nós temos a escada de 240, 80 e 20 m, não os 100 clones; a faixa na Countdown é a issue #30, com o PR #48 aberto); rota de rover pelo caminho mais ensolarado; a falha do Blue Ghost 1 com os dois horários lado a lado.
+- **O que nós temos e eles não:** Occluder nomeado com distância; DSN com as antenas de 70 m; escada de resolução; assistente; número de aula; os 130 sítios do Wueller; PT; Prova com controles negativos.
+- **O que vale trazer:** a faixa pelos clones do PGDA ao lado do número principal (Validity: é o jeito mais curto de dizer quanto o relevo pode errar; é a issue #30, PR #48 aberto).
+
+### Outliers (time Outliers, evento universal; aphrodite31416/lunar-landing-site-navigator, repositório 705; enviado às 15:53 UTC, com vídeo), ficha completa, novo, nível 2 forte
+
+[lunar-landing-site-nav-outliers.pages.dev](https://lunar-landing-site-nav-outliers.pages.dev), visto em 15/11/2026 entre ≈14:13 e ≈14:22. Repositório criado em 11/11, 42 commits.
+
+1. **Pergunta:** o que o lander vê agora no Site 01 (Connecting ridge): "Now: sunlight yes, Earth hidden, joint no", com a próxima mudança ("Earth centre comes into line of sight in 2 d 12 h 54 min").
+2. **Rotas:** Explore, Compare sites, Moon globe, Method & data (Method, Data sources, Validation, Uncertainty & limits, Terrain coverage, NASA map, Provenance, Team, Data inspector); no Explore, "This site over the period", "Windows and events", "All measured values" e "How visibility is determined".
+3. **Controles:** a aba Compare sites dá uma frase-resumo (Sol com 80% do disco: 100% nos Sites 01, 07 e 11, 98,5% no 04; Terra: 48,9% no 11, 46,8% no 01); o exagero vertical de 1× a 8×; a reprodução por hora, dia e evento. Não há data, altura nem ponto livre: são 4 sítios e 30 dias fixos (14/11 a 14/12/2026), a 1 m.
+4. **Desktop e 390 px:** a 390 px não há rolagem lateral; o Compare fica legível, com as abas numa linha.
+5. **Dados:** conferido na rede: `/terrain/site_01_terrain.json`, `/data/scenarios/monthly-2026-11/site01.json`, `/data/horizons/site01.json` e `compare_summary.json` (tudo pré-calculado em Python). Declarado: LOLA de 5 m do PGDA 78 (Barker 2021) com o erro de cada pixel, mosaicos de 80 e 240 m, raios até 458–461 km, 7.200 a 14.400 direções, SPICE DE421, Sol com pelo menos 80% do disco em 4.096 amostras, Terra pelo centro.
+6. **Validação:** página com três checagens: convergência do horizonte (maior mudança 0,0064°, alvo 0,01°, **com o primeiro perfil do Site 04 que falhou com 0,0104°**), Horizons em 40 comparações (máx 0,000011°) e a auditoria das fórmulas (52 testes). A comparação com o AVGVISIB do PGDA mostra as diferenças: +18,8 pontos no Site 01, +11,2 no 04, −4,1 no 07 e +14,5 no 11, marcadas "Still under investigation".
+7. **Funcionalidades:** dispersão: não tem; horizonte plano: não tem; DSN: não tem; bateria: não tem; atraso: não tem; melhor/típico/pior: não tem; inclinação: não tem; folha de aula: não tem; assistente: não tem; contagem com causa: parcial (o próximo evento, sem o relevo); Occluder: não tem; faixa de incerteza: parcial (0,02 a 0,24° no horizonte, escrita, sem propagar aos números); escada: parcial (cobertura de cada mapa por direção); PT: não tem.
+8. **Consulta de referência:** A: impossível (4 sítios, sem o IM-2, mês fixo). B: no Site 01 (89,45°S 137,15°W, 1 m), de 14/11 a 14/12: Sol 100% e Terra 46,8%; nascer da Terra às 15:59:44 de 13/12. Nós (89,4661°S, 2 m, de 01/12 a 30/12): Sol 100%, Terra 46,8%, nascer às 16:05:27. O nascer **bate a 6 min**; a porcentagem igual é coincidência de janelas diferentes.
+9. **Erros e lentidão:** nenhum; carga rápida.
+10. **Notas:** Influence 3 (4 sítios e um mês fixo); Creativity 3 (o painel do agora, a frase-resumo do Compare); Validity 5 (três checagens, falhas e diferenças à mostra, o que não foi provado escrito); Relevance 3 (Sol e Terra, sem energia, atraso nem DSN); Presentation 4 (limpo, bom no celular; enviado com vídeo).
+
+- **O que eles têm e nós não:** a página que diz o que cada checagem não mostra ("SHOWS / DOES NOT SHOW") e a comparação com o mapa da NASA sítio a sítio com a diferença; o teste de convergência do horizonte (metade do passo em azimute e em distância).
+- **O que nós temos e eles não:** qualquer Site e Janela; Occluder; horizonte plano; DSN; bateria; dispersão; atraso; escada; assistente; PT; consulta no link.
+- **O que vale trazer:** o teste de convergência do horizonte como checagem da Prova (Validity: mostra que o passo de amostragem não muda a resposta, o que nenhuma das nossas 32 checagens prova).
+
+### "Sunchaser" do time zenon (Singapura; Baldwi242alt/zenon, repositório 716; enviado às 16:08 UTC, com slides), ficha completa, novo, nível 2 forte
+
+[zenon-nine.vercel.app](https://zenon-nine.vercel.app/), visto em 15/11/2026 entre ≈14:31 e ≈14:38. Repositório criado em 01/11, 46 commits. **Tem o mesmo nome do Sunchaser do 125, mas é outro time e outro produto.**
+
+1. **Pergunta:** onde, quando e por onde andar com um robô solar no polo. A primeira tela é uma capa com o globo ("Turn the Moon. Find the light.") e três perguntas: Where to land, When to land, How to drive.
+2. **Rotas:** `/` (capa com cinco "records"), `/map` (Sites), `/light`, `/windows`, `/rover`, `/business`, `/methods`, `/copilot` (Ask Gemini). Abri a capa, `/methods` e `/windows`.
+3. **Controles:** o card "Haworth" em "Best landing windows" muda o painel do atraso para "Haworth, landing 20 Jul 2027, 12:00 UTC … A 2-day slip leaves 10" (dias úteis); o mapa de calor de 2027 em passos de 6 h mostra os detalhes ao passar o mouse; os links do menu trocam de rota.
+4. **Desktop e 390 px:** a página fica com 404 px de largura (a viewport do próprio site), quase sem rolagem lateral; legível.
+5. **Dados:** conferido na rede: JSON pré-calculados (`sites.json`, `windows_<sítio>.json`, `criteria.json`). Declarado: Horizons (DE441) de hora em hora em 2027, LOLA de 20, 30 e 120 m, 720 direções até 150 km, mastro de 2 m, Sol com pelo menos metade do disco, Terra pelo centro, DSN a 10° nas três estações; as 9 regiões do Artemis III com 77 pontos publicados (doi:10.1029/2025JE009434).
+6. **Validação:** a página Methods traz a tabela por sítio contra os mapas do LOLA em 18,6 anos: correlação 0,978 (Sol) e 0,987 (Terra), diferença média +4,3 pontos no Sol (a maior em Mons Mouton, 78,8% contra 66,7%), e a explicação (no chão em vez do mastro, −9,6 pontos). IM-1 e IM-2 com Sol e Terra; **mostram a discordância do IM-1** (desligou 2,5 dias antes do pôr do Sol deles). Sem tolerância.
+7. **Funcionalidades:** dispersão: não tem (o Monte Carlo de 500 rodadas é do rover); horizonte plano: não tem; DSN: tem (10°, declarado); bateria: tem (do rover, declarado); atraso: tem (0 a 7 dias, conferido); melhor/típico/pior: parcial (a melhor janela de cada sítio); inclinação: tem (na rota, declarado); folha de aula: não tem; assistente: tem (Gemini, que rejeita número fora dos dados, declarado; não abri); contagem: não tem; Occluder: não tem; incerteza do DEM: não tem; escada: não tem; PT: não tem. A mais: rota do rover e custo por dia útil.
+8. **Consulta de referência:** A e B impossíveis: só 2027 e só os 9 sítios do Artemis III.
+9. **Erros e lentidão:** nenhum; cada rota carrega em ~2 s.
+10. **Notas:** Influence 4 (onde, quando e por onde dirigir, com custo); Creativity 4 (dia útil como moeda, custo do atraso); Validity 4 (tabela por sítio contra a NASA e a falha do IM-1 escrita; só 2027); Relevance 4 (Sol, Terra, DSN, atraso; sem contagem); Presentation 4 (capa com história, nove regiões; enviado).
+
+- **O que eles têm e nós não:** a tabela "nós contra a NASA" por sítio na própria página; rota do rover e o custo por dia útil; o atraso traduzido em dinheiro.
+- **O que nós temos e eles não:** 2025 e 2026 (o IM-2 e o nosso ponto B); contagem com Occluder; horizonte plano; dispersão; escada; aula; PT; os 130 sítios do Wueller.
+- **O que vale trazer:** nada que caiba no enunciado sem decisão de produto; a tabela por sítio já foi sugerida às 10h (lição 126).
+
+### Mare Hackematis (time /HackeMate, Barcelona, Espanha; enviado às 15:21 UTC; sem repositório achado), ficha completa, novo, nível 2
+
+[nasa-space-apps-2026-swart.vercel.app](https://nasa-space-apps-2026-swart.vercel.app/), visto em 15/11/2026 entre ≈14:51 e ≈14:58.
+
+1. **Pergunta:** "Plan your landing", em três passos (Where, When, How). A primeira tela é o assistente, sem nenhum número.
+2. **Rotas:** os passos Where (South Pole, North Pole, Whole Moon), When (Find best dates ou Fixed date, de 1 dia a 2 anos) e How (perfis Balanced, Power first, Earth contact first, Colonize, Ice prospecting, Safe landing); Explore (mapa 2D e 3D, ranking de 10 hotspots calculados e 8 referências do Artemis III), Mare, Compare (até 4) e Export; a página do sítio com Overview, Sky & Time, Terrain, Lander's View e Astronaut Mode.
+3. **Controles:** South Pole, Fixed date 2026-12-01 e 1 mês ("Mission ends Dec 31 2026"); perfil Balanced e Explore deram o ranking (Hotspot 01, 84,79°S 28,91°E, 70/100); "Open site" abriu a ficha (Sol 50%, Terra 83%, maior noite 13 d 23 h, maior apagão da Terra 5 d 2 h). O endereço não muda com a consulta: não dá para mandar o link.
+4. **Desktop e 390 px:** a 390 px a página fica com 517 px e tem rolagem lateral.
+5. **Dados:** conferido na rede: `/data/ephem.f32` (DE440 de hora em hora desde 2026, LT+S), `/data/horizon.u8`, camadas `.f32` (elevação, inclinação, rugosidade, Sol e Terra médios, temperatura, gelo, sombra permanente) e `/data/validation.json`. Conferido no manifest e na ficha: grade de 1 km, 72 direções de 300 m a 300 km, LDEM_75S_240M, observador a 2 m.
+6. **Validação:** no `validation.json` (não há página): Horizons contra SPICE em janeiro de 2027, 121 instantes por sítio, máximo 0,000041′ (Sol) e 0,0016′ (Terra); contra o AVGVISIB em 2.000 pontos, diferença média de 1,58 pp no Sol e 2,00 pp na Terra, viés +1,24 e +1,43 pp, P90 de 4,04 e 5,55 pp, com as causas escritas (5 anos, grade de 1 km, 2 m). A ficha do sítio mostra "JPL Horizons · ≤ 0.002′". Sem falhas à mostra.
+7. **Funcionalidades:** dispersão: não tem; horizonte plano: não tem; DSN: não tem; bateria: parcial (horas de Sol por dia); atraso: não tem; melhor/típico/pior: parcial (a melhor janela no período); inclinação: tem (célula de 1 km); folha de aula: não tem; assistente: não tem; contagem: não tem; Occluder: não tem; incerteza: não tem; escada: não tem; PT: não tem. A mais: gelo, temperatura, sombra permanente e nota por perfil de missão.
+8. **Consulta de referência:** A: impossível (datas de 2026 a 2030). B: o Connecting Ridge não está na lista e não achei ponto livre. O mais perto: o Hotspot 01, a ~0,8 km do IM-2, em dezembro de 2026, com Sol 50% e Terra 83% (grade de 1 km).
+9. **Erros e lentidão:** rolagem lateral a 390 px; o ranking leva ~6 s.
+10. **Notas:** Influence 3 (ranking por perfil, sem link); Creativity 4 (perfis de missão, gelo e temperatura no mesmo ranking); Validity 3 (2.000 pontos contra o AVGVISIB no JSON, grade de 1 km); Relevance 3 (Sol e Terra por dia, sem contagem nem atraso); Presentation 3 (assistente de três passos; quebra no celular).
+
+- **O que eles têm e nós não:** nota por perfil de missão (energia, Terra, gelo, pouso seguro); gelo e temperatura.
+- **O que nós temos e eles não:** consulta no link; contagem com Occluder; horizonte plano; DSN; bateria; dispersão; atraso; escada; Prova; PT; DEM de 20 m.
+- **O que vale trazer:** nada: a nota única por perfil é o contrário da nossa escolha de não dar veredito.
+
+### ALPHA LUNAR (time AlphaSpace, İzmir, Turquia; enviado às 15:12 UTC, com vídeo; sem repositório achado), ficha completa, novo, nível 2
+
+[alphaspace.com.tr](https://alphaspace.com.tr), visto em 15/11/2026 entre ≈14:23 e ≈14:30.
+
+1. **Pergunta:** nenhuma de cara. Abre num globo da Lua ("The Moon, in detail", LROC 8K, com a luz fixa a 38° e o aviso "not a time simulation") e num menu de 18 módulos.
+2. **Rotas:** Lunar Explorer, Moon AI, South Pole Command, Regional Terrain Detail, Landing Site Archive, Lunar Missions, Mission Overview, Artemis Launch System, Time Explorer, Earth Communication, Surface Power, Site Comparison, Terrain Intelligence, Thermal Analysis (Diviner), Water Ice & Resources, Mission Configuration, Landing Optimization, Landing Simulation, Risk Assessment (Monte Carlo) e Mission Reports. Abri o Time Explorer, o Data integration status e o JSON "Kernel sources & validation".
+3. **Controles:** TR/EN troca o idioma; o Time Explorer abre o painel com Sol a −35,56° e Terra a 72,04° no ponto 9,62°N 20,08°W e um perfil de 28 dias; a busca de local com "Connecting" **não abriu nada**; o botão SOUTH POLE virou o globo, mas o painel ficou no mesmo ponto.
+4. **Desktop e 390 px:** a 390 px o painel ocupa a tela, legível, sem rolagem lateral visível.
+5. **Dados:** conferido: `/lunar/ephemeris.json` é uma tabela de hora em hora de 2026 a 2029 (DE421, MOON_ME_DE421, "geometric NONE; no light time or aberration") e `/lunar/global-height.f32`; o painel diz "reference sphere without terrain" e só calcula horizonte com relevo ao sul de 85°S (declarado; não consegui ver).
+6. **Validação:** o JSON diz "Every interval midpoint compared with direct SPICE", erro máximo 0,00013°: é a interpolação contra o próprio SPICE, não uma referência independente. Sem página de validação e sem falhas.
+7. **Funcionalidades** (pelo menu; nada conferido por cálculo): dispersão: parcial (Monte Carlo no menu); horizonte plano: não tem; DSN: parcial ("link margin and sample windows"); bateria: tem (declarado); atraso: não tem; melhor/típico/pior: não tem; inclinação: tem (declarado); folha de aula: não tem; assistente: tem (Moon AI, declarado; não abri); contagem: não tem; Occluder: não tem; incerteza: não tem; escada: não tem; PT: não tem (turco e inglês).
+8. **Consulta de referência:** A: impossível (efemérides só de 2026 a 2029). B: não consegui pôr o ponto, nem pela busca nem pelo botão do polo; sem número.
+9. **Erros e lentidão:** a busca e a troca para o polo não mudaram o painel; as texturas levam ~5 s.
+10. **Notas:** Influence 3 (muita coisa, nenhuma resposta na primeira tela); Creativity 3 (18 módulos, temperatura e gelo); Validity 2 (só a interpolação contra o próprio SPICE; esfera sem relevo no Time Explorer); Relevance 3 (Sol e Terra sem relevo onde consegui abrir); Presentation 3 (visual caprichado, navegação que não responde).
+
+- **O que eles têm e nós não:** temperatura (Diviner), gelo e simulação de descida; turco.
+- **O que nós temos e eles não:** uma resposta na primeira tela; relevo de 20 m em qualquer Site do polo; contagem com Occluder; Prova; PT; consulta no link.
+- **O que vale trazer:** nada.
+
+### CLPS Lunar Mission Browser do time Larping Masters (Salamanca, Espanha; saam-rk/larping-masters-space-apps, repositório 762; enviado às 16:52 UTC, com vídeo), ficha completa, novo, nível 3
+
+[larping-masters-space-apps.vercel.app](https://larping-masters-space-apps.vercel.app/), visto em 15/11/2026 entre ≈14:05 e ≈14:12. Repositório criado em 09/11, 157 commits.
+
+1. **Pergunta:** onde estão o Sol e a Terra vistos de um ponto num instante. Abre no Apolo 11 (bandeira, 21/07/1969 03:41 UTC), com um modal de idioma e efeitos.
+2. **Rotas:** o modal de idioma e efeitos; Local Horizon (visual e real, primeira pessoa só em 8 pontos com relevo); Data [Live]; Sources (índice de 2.1 a 3.7, centenas de fontes); Reference point (28 pontos do Lunar Surface Data Book, NTRS 20250002845); Date and time; Advanced mode (busca inversa, viabilidade, comparar cenários, e campos de energia e enlace: área, eficiência, potência, ganho, frequência, G/T).
+3. **Controles:** o idioma (ES para EN mudou a tela toda); a coordenada −84.7906, 29.1957 com Enter (virou "Custom point", Sol 69,78°/0,51° e Terra 323,51°/1,79° para 1969; **a primeira tentativa não pegou** até eu limpar o campo); Rise and set passou de "calculando…" a "Sunset in ≤ 12 d 9 h 53 min, Earthset in ≤ 2 d 3 h 23 min".
+4. **Desktop e 390 px:** a 390 px não há rolagem lateral; a cena 3D vem primeiro, legível.
+5. **Dados:** conferido na rede: `/api/ephemeris` e `/api/sky-search` no servidor deles, com resposta "provenance":"live" e campos do JPL Horizons. Relevo: o próprio modal diz "El relieve no está modelado: es geometría"; a busca do pôr do Sol é a elevação do Sol abaixo de −0,2625° (a borda de cima num horizonte plano).
+6. **Validação:** não há página; "Sources" lista referências, sem tolerância nem resultado.
+7. **Funcionalidades:** dispersão: não tem; horizonte plano: tem (é o único horizonte); DSN: parcial (enlace com G/T genérico); bateria: parcial (potência no instante); atraso: não tem; melhor/típico/pior: não tem; inclinação: não tem; folha de aula: não tem; assistente: não tem; contagem com causa: parcial (contagem sem causa); Occluder: não tem; incerteza: não tem; escada: não tem; PT: não tem (espanhol e inglês).
+8. **Consulta de referência:** A: pela API deles, o primeiro pôr do Sol depois de 06/03/2025 no nosso ponto é às 16:55:55 de 19/03/2025, num horizonte plano; a nossa linha "sem relevo" diz 19/03/2025: **batem no horizonte plano**; com relevo, nós não temos pôr do Sol nas 48 h. B: às 00:00 de 01/12/2026, Sol a +1,76° e Terra a −2,04° (abaixo do horizonte plano); nós temos a Terra fora de vista até as 16:05 de 13/12. Sem horas no mês.
+9. **Erros e lentidão:** a primeira coordenada não pegou; o resto responde em menos de 2 s.
+10. **Notas** (nível 3; só para referência): Influence 2; Creativity 3 (o Apolo 11 recriado); Validity 2 (Horizons ao vivo, sem relevo no cálculo); Relevance 2; Presentation 3.
+
+- **O que eles têm e nós não:** o Horizons consultado ao vivo; espanhol.
+- **O que nós temos e eles não:** relevo no cálculo; quase todo o resto.
+- **O que vale trazer:** nada.
 
 ## Vigésima terceira inspeção, 15/11/2026, às 10h
 
