@@ -1,0 +1,25 @@
+# dados pesados (DEMs, kernels SPICE) não vão para o git
+data/
+kernels/
+*.tif
+*.TIF
+*.img
+*.IMG
+*.jp2
+*.JP2
+*.bsp
+*.bpc
+*.tls
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# node
+node_modules/
+dist/
+
+# sistema
+.DS_Store
+.env
